@@ -1,0 +1,1 @@
+simultaneous system of equations and matrix inversion routine algorithm 92 cacm may  1962 roek  d  j

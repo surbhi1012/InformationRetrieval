@@ -1,0 +1,1 @@
+comment on average binary search length cacm august  1972 jones  p  r  searching  binary searching  record retrieval 3.74

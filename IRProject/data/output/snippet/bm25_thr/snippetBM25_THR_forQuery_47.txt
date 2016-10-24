@@ -1,0 +1,100 @@
+CACM-3075 : [the] [use] [of] n processors [the] algorithm makes...than [the] product [of] processors and time [a]...[use] [of] [a] technique that requires more space...which
+CACM-3156 : [to] [a] common [memory] simultaneous access [to] [the]...find [the] transitive closure [of] [a] symmetric boolean...[a] parallel algorithm which uses n2 processors [to]...find
+CACM-0303 : [the] university [of] pennsylvanias office [of] [computer] research...[the] national [science] foundation and [the] air force...part [of] [the] terminology used in work for...their
+CACM-2714 : m and n are [of] [the] same order...[a] constant [the] algorithm requires 2log2 m1 mp3k...sets [a] b am bn mn and p...pm
+CACM-2723 : [the] primary aim throughout is [to] allow [the]...continuously is thoroughly examined [the] necessary capabilities [of]...[the] problems [of] marking and relocating list cells...list
+CACM-1927 : [information] [retrieval] data [retrieval] language analysis [information] processing...[information] [science] in [a] ph [computer] [science] program...courses [computer] [science] curriculum [information] [science] [information] organization...curriculum
+CACM-2727 : is contingent upon [the] value [of] [a] datum...multiple byte processing with full-word instructions [a] method...is described which allows parallel processing [of] packed...even
+CACM-2433 : [of] an effort [to] design and implement [a]...paper reviews [the] hardware characteristics [of] [the] illiac...provides [a] means [of] expressing data and control...expected
+CACM-2570 : processors [to] minimize [the] execution time [of] [a]...program which consists [of] [a] set [of] partially...[a] comparison [of] list schedules for parallel processing...systems
+CACM-2325 : [of] [the] components [of] [numerical] mathematics are discussed...[numerical] mathematics and [computer] [science] [numerical] mathematics is...viewed as [the] analysis [of] continuous algorithms four...complexity
+CACM-1659 : program [a] classification [of] [the] subject areas contained...computational linguistics in [a] ph [computer] [science] program...on computational linguistics in [a] ph [computer] [science]...[this]
+CACM-2879 : cacm march 1976 newell [a] simon h [a]...symbols [search] [science] [computer] [science] empirical turing artificial...[computer] [science] as empirical inquiry symbols and [search]...intelligence
+CACM-2973 : [of] [this] paper are shown [to] be optimal...sorting on [a] mesh-connected parallel [computer] two algorithms...on routing and comparison steps [the] best previous...algorithm
+CACM-2838 : suspending [the] operations [of] [a] list processor for...efficiently [the] average behavior [of] [the] program is...shown [to] be very nearly equal [to] [the]...which
+CACM-0084 : survey [of] progress and trend [of] development and...management control systems [of] [the] federal government as...[use] [of] automatic data processing in business and...[of]
+CACM-1601 : procedures which [use] [the] technique [of] [the] procedures...approximation [to] [the] root in question [a] technique...[a] solution [of] an equation [the] s8everal approximations...[the]
+CACM-1924 : [a] function [of] [the] number [of] pages [of]...occurring [when] only [a] small part [of] [the]...[the] purpose [of] minimizing [the] page faulting occurring...main
+CACM-1771 : [computer] [science] -- [a] report [of] [the] acm...[computer] [science] [a] classification [of] [the] subject areas...[the] development [of] masters degree programs ways [of]...[science]
+CACM-3006 : [of] anomaly for example concerns [the] fact that...[the] anomaly implications [of] these properties presented cacm...virtual [memory] operating systems [a] redefined one type...[of]
+CACM-1811 : [to] decrease [the] solution time [of] [a] computational...[the] determination [of] [the] distribution [of] current in...[the] efficient solution [of] [this] problem typical [of]...[of]
+CACM-2365 : often be improved by reversing [the] order [of]...matrix computations with fortran and paging [the] efficiency...[of] conventional fortran programs for matrix computations can...large
+CACM-1468 : syntax-directed interpretation [of] classes [of] pictures [a] descriptive...been rewritten for [a] cdc 3600 [system] [this]...[to] bubble chamber pictures how [the] description generated...work
+CACM-2322 : made [to] predict [the] developments [of] [the] next...[a] view [of] [computer] architecture an attempt is...25 years in [the] field [of] [computer] architecture...[the]
+CACM-1769 : [the] expanding world [of] [computers] [the] onward sweep...[of] automatic processing [of] [information] is impeded by...and scientists [to] [use] in studying [the] problems...barriers
+CACM-1752 : [to] [the] characteristics [of] all [the] [system] resources...time-sharing environment [a] synopsis is given [of] [the]...by tracing [the] development [of] [the] algorithms through...in
+CACM-3130 : [computer] [science] [of] [the] curriculum committee on [computer]...[computer] [science] curriculum [computer] [science] education [computer] [science]...[science] c3s [of] [the] association for computing machinery...acm
+CACM-2823 : [computer] [science] [the] results [of] [a] survey concerning...programs are needed [to] enlarge [the] number [of]...[science] during [the] years 1971 [to] 1975 are...[the]
+CACM-0617 : at [the] required instants in [the] action [of]...poseidon any [computer] that forms part [of] [a]...at [the] same speed as [the] control [system]...fast
+CACM-2962 : employment [of] ph s in [computer] [science] for...[the] calendar year 1975-76 data include profiles [of]...-producing departments as well as [a] breakdown [of]...production
+CACM-1654 : [a] review [of] [the] power [of] contemporary [computers]...[a] universitys educational program in [computer] [science] after...[computer] [science] is defined in several ways [the]...objectives
+CACM-2497 : [when] [a] processor examines [a] lock [a] [memory]...cycle in [the] repertoire [of] [the] [memory] modules...repertoire [of] [the] processors and [a] special read-interlock...synchronizing
+CACM-2899 : [of] [a] survey taken [to] [determine] [the] type...[a] survey [of] [computer] [science] offerings in small...lopez [a] [a] raymond r tardiff r [computer]...topics
+CACM-2553 : [the] practical aspect [of] [computer] [science] education-discussion cacm...[computer] [science] curriculum systems design 1.52 6.0...january 1973 blount s e education [computer] engineering...
+CACM-3022 : in [the] fall [of] 1975 [to] [determine] [the]...[computer] [science] faculties [the] current status [of] minorities...and women [the] results [of] [a] survey conducted...[the]
+CACM-0141 : some thoughts on parallel processing cacm october 1960...yarbrough l d...
+CACM-1728 : [performance] [of] changes in [the] amount [of] storage...[the] data collected from [the] interpretive execution [of]...[a] number [of] paged programs are used [to]...further
+CACM-0392 : comment on [a] paper on parallel processing cacm...february 1961 nekora m r...
+CACM-2147 : [of] [the] associate and bachelors degree programs in...improvement [of] degree programs and [a] national testing...out that with regard [to] [computers] in higher...and
+CACM-2450 : years as [a] basis for [the] design [of]...[of] published data on program measurements in [the]...empirical working set behavior [the] working set model...scheduling
+CACM-2930 : in general and [the] events leading [to] [the]...establishment [of] [the] advanced [computer] [science] test are...[the] gre advanced test in [computer] [science] [this]...report
+CACM-3010 : [to] [the] complexity [of] value structures [computer] [science]...[of] 313 students at [the] university [of] minnesota...value orientation [of] [computer] [science] students technological and...in
+CACM-1570 : [of] 1 creation [of] strings 2 examination [of]...string processing techniques [the] internal organization [of] string...strings and 3 alteration [of] strings speed [of]...convenience
+CACM-2813 : and [the] members [of] [the] steering committee are...[the] [computer] [science] and engineering research study cosers...[the] [computer] [science] and engineering research study cosers...is
+CACM-1158 : extensions [to] algol 60 [the] constructs serve as...program structures for parallel processing constructs for organizing...and explicating parallel program segments are discussed as...meta-commands
+CACM-1810 : displace manual [the] [operation] [of] folding [a] program...are examined and [a] number [of] [the] important...is automatic folding [of] programs efficient enough [to]...automatic
+CACM-3122 : taulbee o conte s [computer] [science] production [of]...production and employment [of] ph s in [computer]...[science] - 1977 and 1978 cacm february 1979...ph
+CACM-2262 : [the] practical implications [of] [this] growth within [a]...virtual [memory] [computer] [system] proposes two new garbage...garbage collection for virtual [memory] [computer] systems in...list
+CACM-2967 : in [the] context [of] [computer] graphics [the] associative...data structure [a] comparison [of] [the] hardware approach...with [the] software simulation illustrates [the] advantages [of]...processing
+CACM-2187 : [the] inner structure [of] [the] field [this] structure...two views [of] [computer] [science] are considered [a]...[of] [the] field and its relationships [to] other...is
+CACM-2667 : [a] large-scale time-shared [computer] [system] [a] software monitoring...function [of] [the] number [of] pages those tasks...execution characteristics [of] programs in [a] page-on-demand [system]...[of]
+CACM-2999 : is first given [to] some [of] [the] general...[computer] some recent work on [the] development [of]...is followed by [a] summary [of] some recent...problems
+CACM-2175 : [to] [the] ordering [of] [the] subexpressions in particular...an unbuffered main [memory] [to] multiprocessor with [a]...cache buffer [memory] if [the] number [of] subexpressions...subexpression
+CACM-0409 : large-scale programming [system] [to] facilitate [the] solution [of]...on [the] ibm 7097090 [computer] [the] [system] is...[the] concept [of] distinct data descriptions and [the]...cl-1
+CACM-2017 : order [to] explore [the] virtual machine concept [the]...procedures in [the] context [of] [the] dynamic paging...[the] experimental sort programs and analysis [of] [the]...used
+CACM-2310 : [of] [the] [computer] for [a] [science] [of] [the]...language analysis in [the] humanities [the] [use] [of]...will be [the] establishing [of] such [a] sciencehus...literature
+CACM-1302 : parallel signaling speeds for data transmission proposed american...stand ard cacm march 1965...
+CACM-1957 : be added [to] [a] list processing [system] or...[the] list set generator [a] construct for evaluating...evaluating [the] expression as [a] whole and in...those
+CACM-1825 : [a] number [of] steps equal [to] [the] length...[of] [the] input plus [the] number [of] steps...[the] processor and [the] size [of] [the] processor...[a]
+CACM-1828 : such [a] data base is [a] hierarchy [of]...shoshani [a] bernstein [a] j parallel [accessing] parallel...synchronization in [a] parallel-accessed data base [the] following...will
+CACM-1665 : [the] [use] [of] [the] aed rword [system] developed...regular expressions [the] [output] [of] [the] [system] is...[a] pointer [to] [a] block [of] storage containing...state
+CACM-1262 : in [a] procedure-oriented language [to] indicate sections [of]...[of] parallel [operation] and partly [to] define each...be nested [the] statements [should] be particularly effective...for
+CACM-2306 : be [of] greatest interest from [the] standpoint [of]...[computer] [science] [a] number [of] old babylonian tablets...ancient babylonian algorithms [the] early origins [of] mathematics...are
+CACM-1252 : shown [to] be [a] useful aid [to] documentation...made for [the] implementation [of] [the] larger goal...towards automatic [system] design [the] preparation [of] statistical...tables
+CACM-1959 : [a] programming structure language constructs and [a] supervisory...coding [of] large shared data base systems [the]...structure and [the] newly introduced concept [of] file...tagging
+CACM-2182 : interrupt driven programming cacm july 1971 zelkowitz m...interrupts supervisors monitors debugging parallel processing associative memories...microprogramming 3.51 4.32 4.42...
+CACM-3019 : [the] gre advanced test in [computer] [science] cacm...february 1978 austing r...
+CACM-1205 : september 1965 [a] report from [the] acm curriculum...committee on [computer] [science]...an undergraduate program in [computer] science-preliminary recommendations cacm...
+CACM-2329 : [a] education [computer] engineering [computer] [science] curriculum systems...[computer] science-a vicious circle cacm june 1972 kandel...design 1.52 6.0...
+CACM-1720 : masters level [computer] [science] curricula [the] results [of]...[a] survey [of] [the] course work done by...presented and some general comments concerning [the] emphasis...[of]
+CACM-3003 : [a] survey [of] [the] literature in [computer] [science]...in [the] literature since [the] publication [of] curriculum...[the] categories [of] survey reports activities [of] professional...education
+CACM-3059 : ioio overlap and applied [to] [the] analysis [of]...multiprogrammed [system] are developed in [this] paper [the]...for low degrees [of] multiprogramming [the] percentage improvement...[models]
+CACM-3152 : technique [of] strassen [to] [the] reorganized data [the]...transpose [of] one [of] [the] matrices is available...rather than [to] [use] [the] best known algorithms...minimizing
+CACM-2872 : [a] counterintuitive example [of] [computer] paging corrigendum cacm...april 1976 fagin r...
+CACM-2299 : design and implementation [of] [a] text editor [a]...disk storage [a] design philosophy for developing [a]...[a] small number [of] programmed subroutines are necessary...for
+CACM-2538 : for [the] purposes [of] satisfying [a] wide variety...[a] [computer] [science] course program for small colleges...[the] acm subcommittee on small college programs [of]...[the]
+CACM-1678 : [a] ph [computer] [science] program [a] number [of]...[computer] [science] [a] brief catalog description [of] each...[of] [the] courses in [the] graduate program is...might
+CACM-1226 : [the] organization [of] structured files [a] data file...[to] limit [the] number [of] file organizations he...[system] in many systems [the] selection [of] an...be
+CACM-2902 : investigates [the] [performance] [of] 35 dynamic [memory] allocation...dynamic [memory] allocation in [computer] simulation [this] paper...algorithms [when] used [to] service simulation programs as...measured
+CACM-2478 : [a] education [computer] [science] curriculum imprecise synthesis fuzzy...[computer] science-seminars for undergraduates cacm july 1973 kandel...educational structure 1.52 6.0...
+CACM-2502 : [a] comment on [the] practical aspects [of] [computer]...education [computer] engineering [computer] sciences curriculum systems design...[science] education cacm may 1973 estell r g...1.52
+CACM-2289 : [a] major challenge in [the] effective [use] [of]...is [the] determination [of] algorithms that exploit [the]...and [the] analysis [of] many types [of] networks...cell
+CACM-2561 : available [information] [the] procedures make [use] [of] [a]...in [a] model fact [retrieval] [system] which uses...is found that [the] [system] can infer [the]...[a]
+CACM-2266 : [of] [a] polynomial with only real zeros an...simultaneously approximates all zeros [of] [a] polynomial with...values so that convergence [to] [the] zeros is...[a]
+CACM-2861 : production and employment [of] ph s in [computer]...[science] cacm june 1976 taulbee o e conte...s d...
+CACM-2277 : [the] maniac ii [a] hardware implementation on [the]...along with [a] description [of] [the] basic demand...[a] description [of] [the] hardware design for implementation...[a]
+CACM-1385 : applications 4 [the] trend [of] automation control [of]...[the] yun chou hsueh [science] [of] [operation] and...[of] [a] binary nature however [a] turning point...machines
+CACM-2324 : [the] documentation [of] standard test problems construction [of]...management [science] [a] view from nonlinear programming [a]...[to] practical [use] [of] these mathematical programming techniques...it
+CACM-2114 : [a] formal [system] for [information] [retrieval] from files...[the] concepts [of] keyword index record file directory...defined and from which some [of] [the] frequently...processing
+CACM-2895 : [to] write specifications [of] [the] readerswriters problem and...[the] writer priority [of] [the] second readerswriters problem...[a] language for formal problem specification [a] language...for
+CACM-1846 : [to] find [a] solution by extending [the] [information]...priority [rules] following [this] [the] problem [of] dealing...cases [the] technique becomes computationally unfeasible [when] [the]...simultaneous
+CACM-1614 : types and operators [to] [the] language definitions may...[the] block they are an integral part [of]...[the] program and are not fixed in [the]...language
+CACM-3161 : an acm executive committee position on [the] crisis...in experimental [computer] [science] cacm september 1979 mccracken...d ccp denning p brandin d...
+CACM-3151 : real-time [of] [the] convex hull [of] [a] set...[of] n points in [the] plane using an...appropriate data structure [the] algorithm constructs [the] convex...an
+CACM-2881 : [a] counterintuitive example [of] [computer] paging [a] counterexample...is exhibited [to] [a] natural conjecture concerning [the]...[the] independent reference model [of] [computer] paging an...organization
+CACM-2863 : respect [to] [this] criterion [the] results [of] simulating...presented [to] demonstrate [the] improvement possible over [the]...[performance] measurement multilevel [memory] systems virtual [memory] working...vmin-an
+CACM-0950 : [of] [the] other subtasks as an example [a]...[of] [numerical] analysis will have [to] be recast...paper is dedicated [to] [the] proposition that in...[to]
+CACM-2401 : [the] determination [of] [the] maximum number [of] steps...on [a] matrix and [a] hardware implementation [of]...parallel nature [of] [the] process and [the] possibility...[of]
+CACM-2522 : set dispatcher [the] behavior [of] [a] [computer] [system]...allocate [the] [system] resources [to] [the] processes competing...[the] design implementation and evaluation [of] [a] working...[of]
+CACM-2557 : on [the] time required for [a] sequence [of]...[the] constraints [of] [the] machine organization cacm january...matrix products [this] paper discusses [the] multiplication [of]...square
+CACM-1384 : [a] subject [of] debate [the] association for computing...[to] take [a] wide variety [of] courses in...develop [a] solid scientific approach [to] [computer] [science]...that

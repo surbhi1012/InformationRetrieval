@@ -1,0 +1,100 @@
+CACM-0678 : increasing [the] sophistication [of] [the] boolean compiler so...optimizing bit-time [computer] simulation a major component [of]...a bit-time [computer] simulation [program] is [the] boolean...compiler
+CACM-2721 : [of] [the] actual population dynamics [of] asterionella [in]...[the] accuracy [of] [the] simulation [methods] a simulation...[and] specifically revealed [the] importance [of] [the] annual...illustrating
+CACM-3130 : [computer] [science] [of] [the] curriculum committee on [computer]...[the] recommendations for [the] undergraduate degree [program] [in]...[science] c3s [of] [the] association for computing machinery...[program]
+CACM-1654 : a review [of] [the] power [of] contemporary computers...objectives [of] [computer] [science] education are stated [and]...[computer] [science] is defined [in] several ways [the]...[computer]
+CACM-1856 : small [number] [of] examples [of] [such] assertions [and]...[of] [the] parts [of] its memory which have...[the] meaning [of] all text [the] [program] successfully...that
+CACM-2930 : establishment [of] [the] advanced [computer] [science] test are...[the] gre advanced test [in] [computer] [science] [this]...[in] general [and] [the] events leading to [the]...report
+CACM-1927 : curriculum [in] [the] general area [of] information organization...information [science] [in] a ph [computer] [science] [program]...[science] [program] [the] subject area is first briefly...[and]
+CACM-3146 : student teams [the] objective [of] [the] clinic is...real world problems [of] sufficient magnitude [and] [complexity]...[of] software engineering [such] as team work software...called
+CACM-1912 : purpose [of] [the] simulator is to enable [the]...[of] appointment systems-individual [and] block-can be simulated [the]...user to evaluate [the] effectiveness [of] alternative appointment...simulation
+CACM-2899 : a survey [of] [computer] [science] offerings [in] small...topics [in] [computer] [science] beyond [the] usual [programming]...[of] [computer] [science] programs being offered [in] these...[of]
+CACM-1659 : [program] a classification [of] [the] subject areas contained...computational linguistics [in] a ph [computer] [science] [program]...on computational linguistics [in] a ph [computer] [science]...linguistics
+CACM-1205 : an undergraduate [program] [in] [computer] science-preliminary recommendations cacm...september 1965 a report from [the] acm curriculum...committee on [computer] [science]...
+CACM-1678 : [of] [the] courses [in] [the] graduate [program] is...a ph [computer] [science] [program] a [number] [of]...course is applied [and] [the] role [of] each...[computer]
+CACM-1771 : [the] development [of] masters degree programs ways [of]...[computer] [science] -- a report [of] [the] acm...[computer] [science] a classification [of] [the] subject areas...no
+CACM-3048 : [of] a model [of] [the] cpu-memory subsystem [of]...buffering technique simplemented [in] [the] architecture [of] [the]...instruction [and] [data] streams [of] [the] real system...simulation
+CACM-3140 : [of] change [and] [the] [complexity] [of] specification [of]...same key role [in] [the] development [of] [computer]...mathematics furthermore [the] absence [of] continuity [the] inevitability...social
+CACM-2576 : processing fortran iv string representation structured [programming] [data]...a simple technique for representing strings [in] fortran...[structures] 3.70 4.0 4.19 4.9...iv
+CACM-1809 : [numerical] analysis is [the] study [of] [methods] [and]...[and] emphasis [the] [numerical] analysis [program] [in] [the]...calculation [the] difficulties [of] education [in] [such] a...[the]
+CACM-2538 : specifically within [the] constraints [of] limited faculty [and]...[of] objectives detailed description [of] four courses are...[the] acm subcommittee on small college programs [of]...[the]
+CACM-3070 : [the] result [and] computational costs [of] [the] hybrid...model [of] [the] example with those [of] an...[use] [of] system processors [the] accuracy [and] efficiency...describes
+CACM-2325 : [complexity] synthesis [and] analysis [of] [algorithms] analysis [of]...[of] [the] components [of] [numerical] mathematics are discussed...viewed as [the] analysis [of] continuous [algorithms] four...[of]
+CACM-2553 : [the] practical aspect [of] [computer] [science] education-discussion cacm...january 1973 blount s [e] education [computer] engineering...[computer] [science] curriculum systems design 1.52 6.0...
+CACM-2859 : [the] system size increases [the] model [of] [the]...for [the] relative degree [of] memory interference as...limiting behavior [of] [the] system yields approximate results...against
+CACM-3010 : to [the] [complexity] [of] value [structures] [computer] [science]...[of] 313 students at [the] university [of] minnesota...value orientation [of] [computer] [science] students technological [and]...aloof
+CACM-1384 : a subject [of] debate [the] association for computing...[of] physical sciences undergraduate programs [the] committee believes...that these requirements should assure [the] student [of]...for
+CACM-3122 : production [and] employment [of] ph s [in] [computer]...taulbee o conte s [computer] [science] production [of]...[science] - 1977 [and] 1978 cacm february 1979...ph
+CACM-2879 : [computer] [science] as empirical inquiry symbols [and] search...symbols search [science] [computer] [science] empirical turing artificial...cacm march 1976 newell a simon h a...intelligence
+CACM-2682 : [data] [the] characteristics [of] [the] drive workload are...[the] various system resources these characteristics [of] [the]...[the] real workload with that [of] [the] drive...on
+CACM-1366 : [computer] simulation-discussion [of] [the] technique [and] comparison [of]...[and] [of] some [of] [the] involved [in] comparing...[of] tables [the] implications [of] [this] analysis for...are
+CACM-2187 : is presented [in] terms [of] [the] kinds [of]...[the] inner structure [of] [the] field [this] structure...[of] [the] field by [the] fact that change...[of]
+CACM-2813 : [and] [the] members [of] [the] steering committee are...[the] [computer] [science] [and] engineering research study cosers...[the] [computer] [science] [and] engineering research study cosers...is
+CACM-3019 : [the] gre advanced test [in] [computer] [science] cacm...february 1978 austing r...
+CACM-2823 : [the] status [of] women [and] minorities [in] academic...[computer] [science] [the] results [of] a survey concerning...presented analysis [of] [the] [data] indicated that effective...programs
+CACM-3003 : a survey [of] [the] literature [in] [computer] [science]...[in] [the] literature since [the] publication [of] curriculum...[the] categories [of] survey reports activities [of] professional...organizations
+CACM-1928 : mixture [of] serial [and] simultaneous activities [the] passage...[the] simulation [of] network [structures] other than digital...technique for simulating [the] detailed logic networks [of]...into
+CACM-2329 : a education [computer] engineering [computer] [science] curriculum systems...[computer] science-a vicious circle cacm june 1972 kandel...design 1.52 6.0...
+CACM-1720 : masters level [computer] [science] curricula [the] results [of]...a survey [of] [the] course work done by...presented [and] some general comments concerning [the] emphasis...[of]
+CACM-1846 : priority rules following [this] [the] problem [of] dealing...none can be found [in] some [of] [the]...simultaneous events may occur some [of] [the] problems...[of]
+CACM-2861 : production [and] employment [of] ph s [in] [computer]...[science] cacm june 1976 taulbee o [e] conte...s d...
+CACM-3022 : [in] [the] fall [of] 1975 to determine [the]...[computer] [science] faculties [the] current status [of] minorities...[and] women [the] results [of] a survey conducted...status
+CACM-1890 : [the] supposition that [the] speed [of] cars [in]...[of] cars [in] [the] block [and] [this] speed-versus-density...an actual area [of] [the] city [of] kyoto...bidirectional
+CACM-0605 : [computer] simulation [of] city traffic [in] simulating traffic...flow on city streets [the] national bureau [of]...[and] make motion pictures [of] vehicle movements [in]...[of]
+CACM-2969 : an [optimization] procedure for [the] allocation [of] [program]...optimal [program] [and] [data] locations [in] [computer] networks...possible application [of] [the] model cacm may 1977...[and]
+CACM-2478 : a education [computer] [science] curriculum imprecise synthesis fuzzy...[computer] science-seminars for undergraduates cacm july 1973 kandel...educational structure 1.52 6.0...
+CACM-1427 : [in] [the] simulation [of] [the] output [of] any...using [the] output [of] [the] simulator has shown...[the] flexibility [of] [the] system to be important...[the]
+CACM-2502 : a comment on [the] practical aspects [of] [computer]...[science] education cacm may 1973 estell r [g]...education [computer] engineering [computer] sciences curriculum systems design...1.52
+CACM-1354 : [the] technique [of] constructing networks or trees a...drawback [of] [the] technique as hitherto presented is...modification [of] [the] technique is discussed which takes...conversion
+CACM-3161 : [in] experimental [computer] [science] cacm september 1979 mccracken...an acm executive committee position on [the] crisis...d ccp denning p brandin d...
+CACM-1030 : [of] values [of] [the] variables [and] for evaluating...techniques for [the] simulation [of] [computer] logic [the]...evaluation [of] [the] boolean functions which characterize [the]...part
+CACM-2310 : [of] [the] [computer] for a [science] [of] [the]...language analysis [in] [the] humanities [the] [use] [of]...[the] [computer] [in] [the] language-oriented humanities for exhaustive...will
+CACM-1261 : modeling [and] simulation [of] digital networks [the] simulation...simplicity [of] utilizing [the] fortran iv [programming] system...[the] engineer with an effective means [of] analyzing...transformations
+CACM-2962 : production [and] employment [of] ph s [in] [computer]...employment [of] ph s [in] [computer] [science] for...[the] calendar year 1975-76 [data] include profiles [of]...graduate
+CACM-1769 : [the] expanding world [of] computers [the] onward sweep...[of] automatic processing [of] information is impeded by...ever more urgent as [the] greater part [of]...[and]
+CACM-0557 : simulation [of] [computer] timing device cacm july 1962...
+CACM-2852 : [the] technology [of] [computer] center management a proposed...a course entitled [the] technology [of] [computer] center...[the] past four years [the] course is suitable...course
+CACM-3160 : stages [in] [the] preparation [of] [the] report note...[the] co-authors [of] [the] report are gordon bell...contributed to [the] contents [of] [this] report [in]...[computer]
+CACM-1329 : simulation [of] boolean functions [in] a decimal [computer]...cacm january 1965 mano m m...
+CACM-1496 : [the] meta-language based on [the] example [of] a...[in] a large class [of] [computer] languages [this]...been developed for representing [the] meanings [of] statements...meta-language
+CACM-1347 : by [the] propagation [of] variance technique [of] [the]...new [program] through utilization [of] [the] wengert differentiation...presaging [the] further development [of] extremely general [computer]...parameter
+CACM-1518 : an experimental model [of] system360 [the] problem [of]...[the] applicability [of] that technique to system360 [the]...predicting [the] performance [of] modern [computer] systems is...software
+CACM-1695 : [the] gross characteristics [of] [the] [data] to [the]...rapid transitions between [the] various phases [of] [the]...also made for [the] [use] [of] experimental [data]...a
+CACM-2262 : [the] practical implications [of] [this] growth within a...garbage collection for virtual memory [computer] systems [in]...for space during [program] execution [this] paper examines...them
+CACM-0236 : [in] moscow [in] [the] summer [of] 1960 cacm...[computer] [science] made by [the] author during a...soviet cybernetics [and] [computer] [this] article records observations...on
+CACM-1208 : simulation [of] [computer] logic by fortran arithmetic cacm...august 1965 weingarten f w...
+CACM-1870 : [use] [of] [such] numbers [in] simulation [programming] are...[in] [the] word is a 1-bit [and] can...numbers [in] which [the] probability that each bit...some
+CACM-0865 : [program] [the] formation [of] initial strings as well...for [the] first stage [of] a generalized sort...be accomplished simultaneously if [the] [computer] permits [such]...internal
+CACM-2850 : [the] symbolic execution [of] programs instead [of] supplying...[the] normal inputs to a [program] [e] [g]...during [the] symbolic execution [of] conditional branch type...a
+CACM-1144 : many uses [and] applications [in] [the] field [of]...[the] digital image [of] [the] nuclear source experimental...nuclear physics [the] technique involves [computer] manipulation [of]...digital
+CACM-2820 : increase [the] flexibility [of] [the] multilingual system over...[the] design [and] implementation [of] a table driven...him find [the] cause [of] his error most...most
+CACM-2645 : processor examples [of] [the] [usage] [of] [the] two...analysis [of] [algorithms] [and] some [of] [the] directions...most [of] [the] features [of] algol 60 [the]...languages
+CACM-2062 : are applied to [the] analysis [of] [data] generated...is calculated [the] [computer] costs [of] fixed sample...[the] application [of] sequential sampling to simulation an...inventory
+CACM-3091 : some basic determinants [of] [computer] [programming] productivity [the]...characteristics [of] programmers [and] [program] development time [the]...propose [of] [this] research was to examine [the]...predicting
+CACM-2970 : [of] queueing systems [in] [the] analysis [of] simulation...paper extends [the] [use] [of] [the] regenerative property...relies [the] paper illustrates [the] method using [the]...reduces
+CACM-1380 : facilitate [the] concise description [of] discrete event systems...language simulation [program] simula is an extension [of]...algol 60 [in] which [the] most important new...concepts
+CACM-1327 : [use] [of] decision tables [in] [computer] [programming] a...from [the] [programming] point view 1 amount [of]...is based on [the] creation [of] a binary...image
+CACM-3176 : storing a sparse table [the] problem [of] storing...[computer] [science] [the] standard technique for storing [such]...[the] method requires 0n w words [of] storage...storing
+CACM-1728 : performance [of] changes [in] [the] amount [of] storage...[the] [data] collected from [the] interpretive execution [of]...describe [the] frequency [of] page faults i [e]...further
+CACM-0192 : a technique for counting ones [in] a binary...[computer] cacm may 1960 wegner p...
+CACM-2742 : earned [the] reputation [of] eating up hours [of]...all [of] which improve [in] effectiveness as [the]...models [of] large complex real-world applications have occasionally...[computer]
+CACM-1498 : [of] an unsuccessful computation process [in] terms [of]...[the] original source [program] cacm december 1967 bayer...[the] alcor illinois 70907094 post mortem dump a...dump
+CACM-0303 : [the] university [of] pennsylvanias office [of] [computer] research...part [of] [the] terminology used [in] work for...[the] national [science] foundation [and] [the] air force...their
+CACM-2105 : to demonstrate a method [of] [programming] by [computer]...interpretation [of] a flowchart [the] user draws a...description [of] a sampled-data system [and] specifies description...design
+CACM-2218 : which provides some indication [of] [the] effectiveness [of]...[the] design characteristics [and] operational capabilities [of] [the]...upon [the] [use] [of] variable sized segments [and]...an
+CACM-1945 : [the] role [of] [programming] [in] a ph [computer]...[science] [program] [in] [this] general paper [the] role...application [of] formalism are considered [and] also [the]...[of]
+CACM-2214 : complex interval arithmetic complex interval arithmetic is defined...using real interval arithmetic complex interval division is...defined so as to assure smallest possible resulting...intervals
+CACM-1774 : [program] overlay techniques [the] general features [of] [program]...[of] machine hardware [and] other system features [the]...implementation [of] semiautomatic overlay facility [in] a multiprogrammed...[the]
+CACM-1998 : [the] bound is half [of] [the] real system...complex matrix inversion versus real a comparison [of]...complex inversion is about one-eighth that [of] real...it
+CACM-1845 : is described for four [of] [the] third generation...critique [of] [the] first three systems is based...simulation [program] a short history [and] description [of]...[this]
+CACM-1954 : eigenvalues [and] eigenvectors [of] a real symmetric matrix...[algorithm] 384 f2 cacm december 1970 stewart [g]...w real symmetric matrix eigenvalues eigenvectors qr [algorithm]...5.14
+CACM-2043 : eigenvalues [and] eigenvectors [of] a real symmetric matrix...f2 [algorithm] 384 cacm june 1970 stewart [g]...w real symmetric matrix eigenvalues eigenvectors qr [algorithm]...5.14
+CACM-1535 : at certain steps [of] [the] [program] so that...[the] construction [of] a link diagram which shows...at any step [the] future occurrences [of] indexes...diagram
+CACM-2902 : investigates [the] performance [of] 35 dynamic memory allocation...measured [in] terms [of] processing time memory [usage]...with other [algorithms] simple [algorithms] operating on memory...dynamic
+CACM-0525 : a [computer] technique for handling analysis [of] variance...cacm august 1962 howell j r...
+CACM-3104 : for a [program] [the] applicability [of] [this] technique...to simplifying [the] process [of] proving correctness [this]...method simplifies [the] process [of] providing accurate specification...correctness
+CACM-2266 : [of] a polynomial with only real zeros an...simultaneously approximates all zeros [of] a polynomial with...only real zeros [the] [algorithm] which is conceptually...determined
+CACM-0093 : from formulas to [computer] oriented language a technique...is shown for enabling a [computer] to translate...simple algebraic formulas into a three address [computer]...code
+CACM-1680 : resources system-cataloged programs [of] [the] operating system language...reprogramming illustrations [of] [the] various applications are presented...iv [g] for [the] ibm system360 model 40...with
+CACM-2819 : substrings [of] [the] file four new [algorithms] for...[the] compression [of] [data] files viewed as strings...or to digital [data] [the] system consists [of]...[of]
+CACM-2749 : [of] [the] two [methods] is developed [the] model...[in] [the] simulation [of] some systems when computational...method [of] simulation organization called [the] significant event...for
+CACM-2999 : [computer] some recent work on [the] development [of]...is first given to some [of] [the] general...problems [of] multidimensional table [and] array processing [this]...handling

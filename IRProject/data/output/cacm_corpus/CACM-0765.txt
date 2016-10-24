@@ -1,0 +1,1 @@
+orthogonal polynomial least squares surface fit algorithm 164 cacm august  1963 bitterli  c  v

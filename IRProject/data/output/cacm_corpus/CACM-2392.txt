@@ -1,0 +1,1 @@
+in-situ transposition of a rectangular matrix f1 algorithm c380 cacm january  1972 macleod  i  d  g  rectangular matrix  transpose 5.14

@@ -1,0 +1,1 @@
+evaluation of the legendre polynomial pnx by recursion algorithm cacm june  1960 galler  g  m

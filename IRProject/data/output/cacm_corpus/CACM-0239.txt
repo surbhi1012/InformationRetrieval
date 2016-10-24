@@ -1,0 +1,1 @@
+inefficiency of the use of boolean functions for information retrieval systems cacm december  1961 verhoeff  j  goffman  w  belzer  j

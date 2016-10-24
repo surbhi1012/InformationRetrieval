@@ -1,0 +1,1 @@
+invert algorithm 42 cacm january  1963 naur  p

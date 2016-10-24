@@ -1,0 +1,1 @@
+quadratic search for hash tables of size pn cacm march  1974 ackerman  a  f  hashing  quadratic search 4.10

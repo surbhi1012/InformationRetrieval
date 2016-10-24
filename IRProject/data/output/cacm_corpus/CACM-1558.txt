@@ -1,0 +1,1 @@
+generation of permutations in pseudo-lexicographic order algorithm g6 cacm july  1967 ord-smith  r  j

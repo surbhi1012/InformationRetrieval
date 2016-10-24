@@ -1,0 +1,100 @@
+CACM-2434 : using page residency to select the working set...parameter dennings method for selecting the working set...parameter which uses interreference intervals is examined several...omissions
+CACM-2863 : performance measurement multilevel memory [systems] virtual memory working...vmin-an optimal variable-space page replacement algorithm a criterion...for comparing variable space page replacement algorithms is...presented
+CACM-3078 : analysis of the availability of computer [systems] using...availability of a computer [system] constructed of unreliable...many physical [systems] can be modeled by markov...markov
+CACM-1307 : use of a data processing [system] by a...data handled by the [system] since such a...to the computer in the [system] described the...rewriting
+CACM-2714 : merging with parallel processors consider two linearly ordered...sets a b am bn mn and p...pm parallel processors working synchronously the paper presents...an
+CACM-0276 : program [organization] and record keeping for dynamic storage...allocation portion of the ascii-matic programming [system] project...allocation the material presented in this paper is...part
+CACM-0586 : simultaneous [system] of equations and matrix inversion routine...algorithm 92 cacm may 1962 roek d j...
+CACM-0942 : fortran subroutines for time series analysis the authors...have recently been concerned in a time-series study...that constituted a fairly typical piece of applied...statistical
+CACM-0578 : generation of partitions in part-count form algorithm 95...cacm june 1962 stockmal f...
+CACM-3202 : manip a computer [system] for algebra and analytic...differentiation a mathematical expression to be operated upon...is written in fortran-like notation and stored in...the
+CACM-1364 : mathematical experimentation in time-lag modulation equations of the...form dudt gut uht arise in a number...of scientific contexts the authors point out some...interesting
+CACM-0616 : the [work] of the language structure group the...goal of this [work] is to arrive at...at the [systems] level of data processing the...by
+CACM-3129 : [system] uses several serial files the files reside...one file runs out of space the [system]...optimal storage allocation for serial files a computer...on
+CACM-0352 : spherical neumant [function] algorithm 49 cacm april 1961...herndon j r...
+CACM-1010 : correct and [operate] any procedure he wishes either...small-scale multiuser computer [system] that permits several users...to [work] independently with the machine and to...a
+CACM-1012 : formal parsing [systems] automatic syntactic analysis has recently...and syntax-directed compilers a formal parsing [system] g...determines a formal parsing [system] a directed production...become
+CACM-1861 : the mad definition facility one of the first...definition facilities for higher level languages is described...users of the language can define new operators...andor
+CACM-2939 : abstractions in program construction [work] in programming methodology...of abstractions-procedural [control] and especially data abstractions-are useful...the use of data and [control] abstractions this...[control]
+CACM-0047 : russian visit to u computers cacm november 1959...zaitzeff e m astrahan m m...
+CACM-0033 : a programmed binary counter for the ibm type...650 calculator cacm january 1958 kenny b c...hunter j a...
+CACM-2250 : computer methods for sampling from the exponential and...normal distributions corrigendum cacm december 1972 ahrens j...h dieter u...
+CACM-1623 : the shortcomings of the formac [system] this paper...an application of formac a nonlinear circuit analysis...problem is stated and the way in which...it
+CACM-2120 : an algorithm to produce complex primes csieve algorithm...372 a1 cacm january 1970 dunham k b...primes complex numbers 5.39...
+CACM-3136 : [system] cost as a [function] of several hardware...priceperformance patterns of u computer [systems] econometric models...to study the relationships between [system] price and...market
+CACM-0597 : modular data processing [systems] written in cobol cacm...may 1962 emery j c...
+CACM-2519 : retrieval [system] is examined the problem is analyzed...sophisticated interactive [system] controlled by computer cacm may...proof interactive [system] language 1.0 1.1 1.50 1.52...on
+CACM-1264 : blnsys-a 1401 [operating] [system] with braille capabilities blnsys...is an [operating] [system] designed for a 4k...tape drives printed output of this [system] or...or
+CACM-2651 : programmer [control] over type conversion and very flexible...the treatment of data types in el1 in...constructing a general purpose programming language a key...issue
+CACM-1046 : a compiler-building [system] developed by brooker and morris...[system] that they have developed for the ferranti...the major features of their [system] it expands...in
+CACM-3056 : counting large numbers of events in small registers...it is possible to use a small counter...to keep approximate counts of large numbers the...resulting
+CACM-0435 : multiprogram executive [systems] etc since the implementation of...[systems] it is with this somewhat neglected area...of a standard [systems] programming problem that of...a
+CACM-1977 : be imposed this interactive [system] is described and...an interactive display for approximation by linear programming...an interactive program with a graphical display has...been
+CACM-2937 : an experimental evaluation of data type conventions the...language in which programs are written can have...a substantial effect on the reliability of the...resulting
+CACM-1305 : the internal structure of the fortran cep translator...the fortran cep translator converts a source program...written in the fortran cep language into an...object
+CACM-0492 : analysis of a file addressing method this paper...presents a new file addressing method based on...the calculation of an address from the identification...of
+CACM-1625 : on the automatic simplification of source-language programs methods...of simplification that can be applied automatically to...programs written in an algol-like language are discussed...the
+CACM-0626 : a method of representation storage and retrieval of...13 random codes in a 4-digit number or...16 random codes in a 5-digit number cacm...march
+CACM-1931 : testing for a chebyshev [system] two recent papers...chebyshev [system] is then presented cacm february 1969...bounds determinant evaluation chebyshev [system] mathematical proof by...interval
+CACM-1867 : length recursion relation generating [function] meromorphic [function] 3.74...on the expected lengths of sequences generated in...sorting by replacement selecting in the replacement-selecting technique...of
+CACM-0282 : optimum tape-writing procedures consider a magnetic tape [system]...with a read check after writing where an...error occurs in writing a record a programmed...error
+CACM-1214 : some experiments in algebraic manipulation by computer a...set of subroutines to allow algebraic manipulations on...the ibm 7094 computer has been written a...list
+CACM-2554 : [operation] the round-off error in the calculation of...reduction of a band-symmetric generalized eigenvalue problem an...algorithm is described for reducing the generalized eigenvalue...problem
+CACM-2304 : a western view of computer history many u...histories of the digital computer field have tended...to be impersonal with heavy emphasis on eastern...universities
+CACM-2650 : and spelling correction [systems] cacm may 1974 wagner...order-n correction for regular languages a method is...presented for calculating a string b belonging to...a
+CACM-3105 : [operating] [systems] by access [control] mechanisms this paper...languages access [control] data types abstract data types...a language extension for expressing constraints on data...access
+CACM-1671 : [rules] to [rules] in flip a format-directed list...of a [system] to alleviate the problem of...to define on-line sets of [rules] statable within...[rules]
+CACM-1619 : error-free methods for statistical computations neely has discussed...computational error generated by some algorithms used to...compute various statistics in the present paper methods...are
+CACM-0867 : least squares fitting of planes to surfaces using...dynamic programming dynamic programming has recently been used...by stone by bellman and by gluss to...determine
+CACM-1182 : [function] of the degree to which a and...contextual correlates of synonymy experimental corroboration was obtained...for the hypothesis that the proportion of words...common
+CACM-0108 : programmed error correction in project mercury cacm december...1960 dimsdale b weinberg g m...
+CACM-1215 : some techniques used in the alcor illinois 7090...an algol compiler has been written by the...alcor group for the ibm 7090 some little...known
+CACM-0246 : least-squares fit by orthogonal polynomials algorithm 28 cacm...december 1961 macmillan d b...
+CACM-1591 : the model transferred [control] to the [operating] [system]...[operating] [system] of a large computer is described...the [operating] [system] ibsys for the ibm 7044...the
+CACM-1590 : interconnected ibm 7090-pdp-1 [system] these utterances were recorded...pitch period determination of speech sounds a computer...procedure which determines pitch periods by the recognition...of
+CACM-1614 : a proposal for definitions in algol an extension...to algol is proposed for adding new data...types and operators to the language definitions may...occur
+CACM-1334 : are generated by a recurrence [scheme] the program...photon [system] cacm january 1965 gerard j m...mechanization of tedious algebra the newcomb operators of...planetary
+CACM-1168 : to enable the [system] to [operate] on three...a large file-maintenance-and-retrieval program [system] written in cobol...across machine lines in cobol the production of...is
+CACM-3180 : costs of the current u payments [system] neither...payment [systems] such as cash checks credit cards...and eft transactions as a result eft [systems]...cacm
+CACM-1062 : symbol manipulation in fortran-sasp i subroutines a set...of subroutines for use in fortran are described...whose purpose is to synthesize output strings from...i
+CACM-2812 : [systems] logical [system] design problem statement language problem...statement analyzer physical [system] design accurately defined [systems]...computer-aided analysis and design of information [systems] this...management
+CACM-0679 : areas complex display logical [control] and subprogramming in...[control] the chief new feature is a notation...recent improvements in madcap madcap is a programming...language
+CACM-1112 : errors occurred during a test [run] on garbled...a technique for computer detection and correction of...spelling errors the method described assumes that a...word
+CACM-1315 : of bookkeeping is required by the reactor [operating]...automation of the radioisotope accountability [system] the radioisotope...used a manual [system] of radioisotope accountability for...automated
+CACM-1014 : of [work] involved in computing the interactions a...machine controls for analysis of variance a major...problem in using the analysis of variance as...the
+CACM-2664 : parallelism in tape-sorting two methods for employing parallelism...in tape-sorting are presented method a is the...natural way to use parallelism method b is...new
+CACM-1652 : online [systems] a code has been specifically designed...an online computer [system] with respect to non-numeric...the information channel linking the [system] and the...[system]
+CACM-1272 : expanding the editing [function] in language data processing...[function] of the amount of condensation of text...in automatic abstracting citation indexing mechanical translation and...other
+CACM-1345 : 12 basic orthogonal coordinate [systems] cacm december 1966...tensor calculations on the computer a formac program...has been written which is capable of calculating...various
+CACM-1290 : transparent-mode [control] procedures for data communication using the...[control] philosophy the appearance of this paper was...forecast underthe name of second-level [control] in the...earlier
+CACM-2017 : paging [systems] dynamic storage allocation measurement of [systems]...on the m4444x an experimental paging [system] which...sorting in a paging environment this sorting study...was
+CACM-1498 : the alcor illinois 70907094 post mortem dump a...dump technique for programs written in algol 60...is described this technique provides an intelligible analysis...of
+CACM-1821 : permanent [function] of a square matrix i and...ii algorithm 361 g6 cacm november 1969 shriver...b eberlein p j dixon r d matrix...permanent
+CACM-2039 : permanent [function] of a square matrix i and...ii algorithm 361 g6 cacm june 1970 shriver...b eberlein p j dixon r d matrix...permanent
+CACM-2328 : individualizing instruction in a generative cai tutor cacm...june 1972 koffman e b computer-assisted instruction generative...cal adaptive instruction 3.32 3.51 3.62...
+CACM-2125 : a note on minimal length polygonal approximation to...a digitized contour a method for extracting a...smooth polygonal contour from a digitized image is...illustrated
+CACM-2352 : minimax nonlinear approximation by approximation on subsets cacm...may 1972 dunham c b minimax approximation nonlinear...approximation subset 5.13...
+CACM-1258 : an extended arithmetic package in many fields for...example algebraic number theory arithmetic must be carried...out to a degree of precision which exceeds...the
+CACM-0058 : lem-1 small size general purpose digital computer using...magnetic ferrite elements the paper examines some of...the questions of development and construction of a...general
+CACM-0408 : the internal [organization] of the mad translator cacm...january 1961 arden b w galler b a...graham r m...
+CACM-1384 : mathematics for undergraduate computer scientists the mathematical requirements...for an undergraduate program in computer science are...a subject of debate the association for computing...machinerys
+CACM-2020 : [systems] has led to a much broader concern...these [systems] are allocated among the user community...[operation] an attempt is made to clarify some...disadvantages
+CACM-3144 : a multi-interpreter [system] is a [system] in which...a model for and discussion of multi-interpreter [systems]...i e nested interpreters or [run] directly on...programs
+CACM-1397 : proceedings of the acm symposium on symbolic and...algebraic manipulation the acm symposium on symbolic and...algebraic manipulation brought together over four hundred people...interested
+CACM-2899 : a survey of computer science offerings in small...liberal arts colleges recent curricular development in computer...science together with student in terest in pursuing...topics
+CACM-1843 : the choice of base a digital computer is...considered whose memory words are composed on n...r-state devices plus two sign bits two state...devices
+CACM-0890 : selected definitions a selection of the definitions prepared...by the acm standards committees subcommittee on programming...terminology is presented for review by the acm...membership
+CACM-1486 : is given of a model programming [system] which...a library for storing the users items [rules]...a reprogramming machine in this paper a description...is
+CACM-2021 : a comment on axiomatic approaches to programming cacm...july 1970 hunt b axiomatic method proofs of...programs homomorphic structure in programming 4.0 4.21 4.22...5.20
+CACM-3117 : such as resource allocation or computer-aided-dispatch [systems] where...resource allocation police command and [control] computer aided...the impact and use of computer technology by...the
+CACM-0857 : sorting nonredundant files-techniques used in the fact compiler...some typical file structures including some called non-redundant...are examined and the methods used in fact...to
+CACM-1464 : to an elaborate [operating] [system] an algol translator...[operating] [system] assembly and go features of ibsys...an algol compiler construction and use in relation...has
+CACM-2177 : an algorithm for the blocks and cutnodes of...a graph an efficient method is presented for...finding blocks and cutnodes of an arbitrary undirected...graph
+CACM-3201 : symbolic manipulation of poisson series poisson series of...three variables are manageable symbolically through as a...set of formal subroutines written partially in the...ibm
+CACM-0847 : a penny-matching program the logic of a penny-matching...program written for the csx-1 is described cacm...june 1963 wall e brown r m...
+CACM-2976 : 1977 yao s b database inverted file [organization]...approximating block accesses in database organizations cacm april...database performance and measurement information retrieval query answering...3.70
+CACM-2194 : how to keep the addresses short an algorithm...is presented for minimizing the sum of the...lengths of the blocks of coding produced by...an
+CACM-2735 : [systems] analysis keypunch operators machine operators 2.40 2.41...discrimination in the employment of women in the...computer industry cacm july 1975 weber r e...gilchrist
+CACM-1537 : prime number generator 1 algorithm 310 a1 cacm...september 1967 chartres b a...
+CACM-1538 : prime number generator 2 algorithm 311 a1 cacm...september 1967 chartres b a...
+CACM-1634 : 27 bits are not enough for 8-digit accuracy...from the inequality 108 227 we are likely...to conclude that we can represent 8-digit decimal...floating-point

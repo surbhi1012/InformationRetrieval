@@ -1,0 +1,1 @@
+a posteriori bounds on a zero of a polynomial algorithm 174 cacm june  1963 gibb  a

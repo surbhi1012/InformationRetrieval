@@ -1,0 +1,1 @@
+symbol manipulation by threaded lists corrigendum cacm june  1960 perlis  a  j  thornton  c

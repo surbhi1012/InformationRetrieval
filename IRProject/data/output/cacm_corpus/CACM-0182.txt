@@ -1,0 +1,1 @@
+evaluation of the chebyshev polynomial tnx by recursion algorithm cacm june  1960 galler  g  m

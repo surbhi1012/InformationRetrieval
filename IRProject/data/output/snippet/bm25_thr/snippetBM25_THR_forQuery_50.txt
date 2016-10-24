@@ -1,0 +1,100 @@
+CACM-2732 : [in] terms of these constructs a calculus will...guarded commands nondeterminacy and formal derivation of programs...so-called guarded commands are introduced as a building...block
+CACM-3031 : abstract [data] types and software validation a [data]...type correctness proof [data] type [data] structure specification...permit a representation-independent formal specification of a [data]...abstract
+CACM-2958 : abstract [data] types and the development of [data]...[data] type [data] structure specification software specification 4.34...structures abstract [data] types can play a significant...role
+CACM-2411 : points optimization [in] compilers program documentation program flow...tree-structured programs cacm november 1973 wegner e control...structures flowcharts goto statements inductive assertion least fix...graphs
+CACM-2295 : comment on the composition of semantics [in] algol...composition design of programming languages [data] structures 1.3...68 cacm august 1972 van der poel w...l
+CACM-2264 : and described informally [in] terms of values and...action of the machine [in] executing a flowchart...be expressed solely [in] terms of the value...concepts
+CACM-2940 : the implementation of abstract [data] types [in] this...abstraction and verification [in] alphard defining and specifying...[data] representation and function definition to the iteration...between
+CACM-2470 : [data] item function and relation it is argued...[theory] or its derivatives for the concise and...composite [data] types out of simper ones with...of
+CACM-2326 : semantics of [computer] programs are defined [in] terms...fix point approach to the [theory] of computation...following the fix point [theory] of scott the...the
+CACM-2842 : is a tutorial introduction to the [theory] of...c strachey the application of the [theory] to...and the underlying mathematical [theory] of computation due...programming
+CACM-2265 : and eliminates all other [information] the determination of...notions of abstraction and application of functions [in]...[in] algol 60 is made and the attendant...a
+CACM-2227 : [in] such a way as to prevent the...[theory] of programming 4.0 4.22 5.21 5.23 5.24...proof of a program find a proof is...given
+CACM-1471 : [operation] essential to the writing of programs [in]...multiprogrammed [computer] systems these meta-instructions relate to [parallel]...[processing] protection of separate computations program debugging and...the
+CACM-2943 : a formal system [in] which programs can be...to produce because the statements [in] a lucid...not look much different than iterative programs [in]...lucid
+CACM-2148 : the composition of semantics [in] algol 68 the...recursive composition design of programming languages [data] structures...main features of algol 68 are explained from...a
+CACM-2178 : a language extension for graph [processing] and its...for [processing] directed graphs is defined graspe consists...of a type of directed graph [data] structure...by
+CACM-3105 : access controlled sharing of [information] is needed and...account records [in] a banks [data] base the...languages access control [data] types abstract [data] types...a
+CACM-2192 : partial functions equivalent and thus applicable [in] proofs...another recursion induction principle an inductive method for...proving things about recursively defined functions is described...it
+CACM-3103 : of filling [in] low-level implementation details [in] the...inefficient [in] space or time [in] this paper...an example program general issues [in] [data] structure...j
+CACM-2155 : some of his [data] structures [in] order to...toward an understanding of [data] structures this paper...semantics of [data] structures this is based on...these
+CACM-2651 : the treatment of [data] types [in] el1 [in]...programmer-defined [data] types [data] types and generic routines...[data] type behavior [in] a context that allows...[data]
+CACM-1747 : reproducibility repeatability deterministic [computers] protection [memory] protection [information]...c [computer] design [computer] design criteria [computer] systems...program testing [parallel] [processing] [parallel] programming multiprocessing 2.11...security
+CACM-3133 : networks as an abstract [data] structure for the...logic and semantic networks an extended form of...semantic network is defined which can be regarded...as
+CACM-2865 : it correct the [information] [in] a partial correctness...verifying properties of [parallel] programs an axiomatic approach...properties of [parallel] programs is presented hoare has...but
+CACM-3188 : semiotics and programming languages i have based my...paper on semiotics and its three dimension i...should insert at this point that language has...many
+CACM-0949 : integer and signed constants [in] algol a few...and semantics [in] the programming languages the aim...remarks are given on the relations between syntax...is
+CACM-2703 : [in] fact will be well defined it is...proved that this problem is [in] general computationally...the intrinsically exponential complexity of the circularity problem...for
+CACM-2869 : security kernel validation [in] practice a security kernel...access controls within a [computer] system the correctness...is a software and hardware mechanism that enforces...of
+CACM-2941 : its use [in] defining abstractions data-structuring facilities [in]...modules [data] structures systems programming 4.22...early experience with mesa the experiences of mesas...first
+CACM-3198 : preoccupied with the subject of language [in] the...microprogramming emulators and programming languages the problem we...have been concerned with is that of converting...language
+CACM-3014 : [in] proving program correctness this paper explores a...is sometime sometimes better than always intermittent assertions...technique for proving the correctness and termination of...programs
+CACM-1323 : [part] i this paper describes how some of...60 and expressions [in] a modified form of...churchs l-notation first a model for [computer] languages...described
+CACM-2956 : some ideas on [data] types [in] high-level languages...notion that a [data] type is a set...as a [data] type the need for a...be
+CACM-2972 : represents a program [in] terms of levels of...manual proofs are described [in] the paper the...proof techniques for hierarchically structured programs a method...for
+CACM-2886 : [in] a few passes from left to right...be evaluated [in] a single pass over the...are [in] general necessary given the attribute grammar...these
+CACM-2616 : conversions are mainly program debugging and optimization [in]...practice extensions to the [theory] of computation and...c decision tables program optimization debugging semantics [theory]...on
+CACM-3077 : [in] a style not possible [in] conventional languages...both [in] its programming language and [in] its...[computer] their close coupling off semantics to state...creating
+CACM-2112 : translation equations input limited transduction expressions or translation...equations are used to describe the syntax and...left-context sensitive semantics for context-free languages a formal...procedure
+CACM-2314 : control structures and sophisticated [data] [communication] mechanisms interactive...of [data] [retrieval] and function evaluation syntax directed...requirements for advanced programming systems for list [processing]...list
+CACM-2931 : [in] terested [in] whether answers to certain questions...are computable [in] principle since the [outcome] puts...[information] content ordering and with their continuous mappings...precise
+CACM-3104 : test [data] as an aid [in] proving program...be used [in] proving program correctness [in] addition...long and tedious whereas testing though useful [in]...paper
+CACM-3186 : go to statement considerd harmful cacm march 1968...dijkstra e w go to statement jump instruction...branch instruction conditional clause repetitive clause program intelligibility...program
+CACM-1902 : record the results of programming exercises [in] three...different languages including assembly language [in] this computer-controlled...programmer-supplied [data] and for final runs with system-supplied...[data]
+CACM-2705 : similarly [in] programming the development of natural languages...programming languages natural languages and mathematics some social...aspects of programming are illuminated through analogies with...similar
+CACM-1496 : [in] a large class of [computer] languages this...a formal semantics for [computer] languages and its...application [in] a compiler-compiler a semantic meta-language has...been
+CACM-2945 : certification of programs for secure [information] flow this...secure flow of [information] through a program because...security [information] flow program certification lattice confinement security...that
+CACM-3030 : programming is being increasingly recognized as helpful [in]...techniques claim or predict substantial increases [in] productivity...and [in] the reliability of the programs produced...[in]
+CACM-3170 : on the proof of correctness of a calendar...program a formal specification is given for a...simple calendar program and the derivation and proof...of
+CACM-2851 : formal verification of [parallel] programs two formal models...for [parallel] computation are presented an abstract conceptual...does not distinguish between control and [data] states...[data]
+CACM-3196 : the reactive typewriter program 84-character keyboard including alphabetical...upper and lower case for good readability if...the machine is restricted to only a single...case
+CACM-1200 : on reversible subroutines and [computers] that run backwards...a [computer] design is describe which permits subroutines...[parallel] nomenclature is suggested for their classification cacm...to
+CACM-1834 : an axiomatic basis for [computer] programming [in] this...logical foundations of [computer] programming by use of...techniques which were first applied [in] the study...which
+CACM-1213 : dynamic format specifications the use and implementation of...two new fortran format conversions are discussed these...format types give the fortran programmer control of...inputoutput
+CACM-1781 : discussed [in] section ii various approaches to automating...are discussed [in] section iii and several related...topics [in] section iv cacm february 1968 feldman...translator
+CACM-2111 : the use of syntax and semantics [information] the...spelling correction [in] systems programs several specialized techniques...[in] to compilers and operating systems these include...are
+CACM-1358 : syntax macros and extended translation a translation approach...is described which allows one to extended the...syntax and semantics of a given high-level base...language
+CACM-2657 : by waldinger and lee [in] 1969 is given...[in] the old algorithm the program-synthesizing problem is...[in] 1969 the correctness of the improved algorithm...an
+CACM-3185 : the humble programmer we shall do a much...better programming job provided that we approach the...task with a full appreciation if its tremendous...difficulty
+CACM-2939 : abstractions [in] program construction work [in] programming methodology...schaffert c programming languages [data] types [data] abstractions...abstraction mechanisms [in] clu clu is a new...of
+CACM-1138 : formalism [in] programming languages cacm february 1964 iverson...k e...
+CACM-2341 : blocks-a new [data] type for snobol4 a new...[data] type called a block has been implemented...of characters [in] the form of a right...for
+CACM-1678 : a ph [computer] [science] program a number of...[computer] [science] a brief catalog description of each...curriculum ph [computer] [science] program automata formal languages...switching
+CACM-1367 : [data] [communication] [in] ascii proposed american standard cacm...character structure and character parity sense for parallel-by-bit...september 1966...
+CACM-2896 : an exercise [in] proving [parallel] programs correct a...the fine degree of [in] terleaving [in] this...[parallel] program dijkstras on-the-fly garbage collector is proved...[parallel]
+CACM-0265 : this paper describes some subroutines coded [in] symbolic...low level language subroutines for use within fortran...languages and for use within fortran coded programs...to
+CACM-0822 : real-time programming specifications problems [in] the implementation of...the problems delineated also occur [in] systems programming...large real-time applications are treated and suggested guidelines...for
+CACM-2957 : [data] structure knowledge representation [data] definition language 3.65...database abstractions aggregation aggregation is [in] troduced as...an abstraction which is important [in] conceptualizing the...into
+CACM-0065 : algol sub-committee report - extensions cacm september 1959...dijkstra e w heise w perlis j a...samelson k...
+CACM-1204 : [data] [communication] [in] the american standard code for...[information] interchange proposed american standard cacm september 1965...character structure and character parity sense for serial-by-bit...
+CACM-2701 : subexpression elimination live-dead analysis [information] propagation flow graph...also shown that [in] programming terms the number...global flow analysis [data] flow code optimization common...a
+CACM-1084 : sequence variations [in] character size number of bits...on declaring arbitrarily coded alphabets the inability of...existing programming languages to handle character strings from...more
+CACM-3171 : circumstances this method requires absolutely no overhead [in]...line numbers made cheap a technique is described...for run-time line number administration to be used...for
+CACM-0618 : industrial viewpoint man-man-machine processes are characterized [in] five...computers- the key to total systems control an...main types and the markets for each type...are
+CACM-3073 : that [parallel] composition of communicating sequential processes is...languages programming primitives program structures [parallel] programming concurrency...entries multiple exits classes [data] representations recursion conditional...communicating
+CACM-3039 : on-the-fly garbage collection an exercise [in] cooperation as...a large shared [data] space a technique is...an example of cooperation between sequential processes with...very
+CACM-2895 : correctness [parallel] [processing] synchronization readerswriters problem 4.22 4.32...for specifying the [in] tended behavior of communicating...[parallel] processes is described the specifications are constrain...ts
+CACM-3055 : an analysis of algorithms for the dutch national...flag problem solutions to the dutch national flag...problem have been given by dijkstra 1 and...meyer
+CACM-2558 : protection [in] programming languages linguistic mechanisms which can...be used to protect one subprogram from anothers...malfunctioning are described function-producing functions and various type-tagging...schemes
+CACM-2949 : a correctness proof of a topology [information] main...tenance protocol for a distributed [computer] network [in]...network to communicate each node must have [information]...this
+CACM-2342 : subproblems [in] the form of [parallel] programs and...interference between communicating [parallel] processes various kinds of...interference between communicating [parallel] processes have been examined...these
+CACM-2718 : business [in] some other way an operational [computer]...to design [data] structures conforming to the [data]...databases [data] base task group database design [data]...[data]
+CACM-2204 : and of [data] into [data] structures the process...wirth n education [in] programming programming techniques stepwise...program development by stepwise refinement the creative activity...of
+CACM-2938 : of reasoning [in] program validation sequential programming multiprogramming...outlined and expressed [in] terms of the language...toward a discipline of real-time programming programming is...divided
+CACM-1749 : system is described [in] which all activities are...[in] each of which one or more independent...the structure of the the-multiprogramming system a multiprogramming...divided
+CACM-0118 : character scanning on the ibm 7070 cacm november...1960 speckhard a e...
+CACM-2937 : [data] cacm august 1977 gannon j d [data]...an experimental evaluation of [data] type conventions the...language [in] which programs are written can have...[in]
+CACM-3079 : an algorithm for reasoning about equality a simple...technique for reasoning about equalities that is fast...and complete for ground formulas with function symbols...and
+CACM-0170 : some thoughts on reconciling various character set proposals...cacm july 1960 voorhees e a...
+CACM-0138 : some thoughts on reconciling various character set proposals...corrigenda cacm october 1960 voorhees e a...
+CACM-1198 : solution of a problem [in] concurrent programming control...restricted means of [communication] with each other can...be made [in] such a way that at...is
+CACM-2279 : [computer] [communication] braille [computer] terminal braille terminal tactile...[computer] [communication] tactile terminal 1.59 4.41 6.35...a controller for a braille terminal cacm september...1972
+CACM-1835 : variety of [data] types several novel and powerful...to be followed [in] a student language is...the iitran programming language the iitran language developed...to
+CACM-2870 : a lattice model of secure [information] flow this...paper investigates mechanisms that guarantee secure [information] flow...[in] a [computer] system these mechanisms are examined...requirements
+CACM-2700 : reduction a method of proving properties of [parallel]...programs when proving that a [parallel] program has...of a [parallel] system can often be greatly...free
+CACM-1457 : [data] manipulation and programming problems [in] automatic [information]...[retrieval] automatic [information] [retrieval] programs require the manipulation...[in] [information] [retrieval] cacm march 1966 salton g...[in]
+CACM-2946 : writers problem and the problem of [information] streams...an alternative to event queues for synchronization [in]...monitors [in] the monitor concept as proposed by...of
+CACM-2624 : number of third generation [computer] systems e g...[computer] systems e g the dec pdp-10 cannot...support a virtual machine system [in] this paper...model
+CACM-1335 : character set for optical character recognition proposed american...stand ard cacm january 1965...
+CACM-2710 : relational [data] model tabular [data] interactive problem solving...specifying queries as relational expressions the square [data]...sublanguage this paper presents a [data] sublanguage called...square
+CACM-2777 : on a solution to the cigarette smokers problem...without conditional statements this report discusses a problem...first introduced by patil who has claimed that...the

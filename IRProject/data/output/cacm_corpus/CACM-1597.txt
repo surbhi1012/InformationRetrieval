@@ -1,0 +1,1 @@
+transpose vector stored array algorithm 302 k2 cacm may  1967 boothroyd  j

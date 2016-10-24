@@ -1,0 +1,100 @@
+CACM-1724 : [the] amphisbaenic sort by nagler [the] power [of]...range [of] key [and] [number] [of] work files...is described [the] design is a generalization [of]...[the]
+CACM-2348 : merge sort algorithm m1 algorithm a426 cacm may...1972 bron c sort merge 5.31...
+CACM-0132 : math sort algorithm 23 cacm november 1960 feurzeig...w...
+CACM-2563 : merge sort algorithm r426 cacm december 1974 bron...c...
+CACM-2679 : discussed [in] some detail [the] evidence given here...refinements [of] algorithm 64 [and] all three [are]...some performance tests [of] quicksort [and] descendants detailed...qsort
+CACM-0662 : shuttle sort algorithm 175 cacm december 1963 juelich...o c...
+CACM-0701 : shuttle sort algorithm 175 cacm october 1963 schubert...g r...
+CACM-0862 : string distribution for [the] polyphase sort cacm may...1963 malcolm jr w d...
+CACM-0853 : [the] cobol sort verb cacm may 1963 paterson...j b...
+CACM-2397 : optimizing [the] polyphase sort corrigendum cacm january 1972...shell d l...
+CACM-0841 : shuttle sort algorithm 175 cacm june 1963 shaw...c j trimble t n...
+CACM-0860 : for [the] comparison is [the] total reading [and]...a comparison between [the] polyphase [and] oscillating sort...techniques a comparison between [the] oscillating [and] polyphase...[and]
+CACM-0677 : statistics [are] given [on] [the] length [of] maximal...statements which have appeared previously [in] [the] literature...a slight modification [of] [the] read-backward polyphase merge...sorted
+CACM-3075 : [the] use [of] n processors [the] algorithm makes...than [the] product [of] processors [and] time a...realistic model is used model is used [in]...is
+CACM-0856 : [the] general solution [the] third part describes [the]...part presents [the] operating environment [the] second defines...random access drum memory [the] sort program described...description
+CACM-0865 : internal [and] tape sorting using [the] replacement-selection technique...for [the] first stage [of] a generalized sort...program [the] formation [of] initial strings as well...n
+CACM-0857 : [are] examined [and] [the] methods used [in] fact...sorting nonredundant files-techniques used [in] [the] fact compiler...to sort such files [are] discussed cacm may...some
+CACM-0861 : being used [in] [the] sorting process any [of]...[the] presort has [the] capability [of] producing both...[on] [the] various tapes as required by [the]...where
+CACM-3164 : [number] [of] nodes [and] r is [the] expected...[of] database implementation [in] which there [are] constraints...[on] [the] permissible sequences [of] actions two pad...[and]
+CACM-2017 : procedures [in] [the] context [of] [the] [dynamic] paging...[the] experimental sort programs [and] analysis [of] [the]...order to explore [the] virtual machine concept [the]...study
+CACM-2108 : [the] characteristics [of] [the] proposed sort [are] discussed...[of] [the] most important program steps [are] included...a variation [on] sorting by address calculation [the]...principles
+CACM-2716 : [in] page references algorithms for implementing [the] operators...optimizing [the] performance [of] a relational algebra database...programming techniques so that [the] interface analyzes [and]...[the]
+CACM-2146 : based [on] minimizing [the] total [number] [of] unit...[of] [the] simple dispersion algorithms discussed [the] horizontal...fairly close estimate [of] [the] total [number] [of]...[the]
+CACM-2176 : [the] [number] [of] seeks is equal to [the]...[number] [of] input-output operations [and] [the] seek time...[the] input data [are] [not] random [and] that...suggests
+CACM-1956 : yielded by [the] algorithm [the] formula involves [the]...analysis is parameterized [in] terms [of] [the] ratio...read time is derived [in] terms [of] [the]...times
+CACM-1117 : [the] remaining tapes [the] result is [the] overlapping...[of] a major portion [of] [the] rewind time...[the] [number] [of] available tapes is increased cacm...[the]
+CACM-0851 : [of] data merge strings [of] data at [the]...power [of] t-1 where t is [the] [number]...[of] work tapes [in] a system [and] do...[not]
+CACM-2819 : [in] [the] algorithms [are] optimized to obtain a...[the] compression [of] data files viewed as strings...[of] characters is presented [the] method is general...or
+CACM-1630 : [of] [the] region [the] storage required to represent...be specified by [the] centers [and] radii [of]...[of] maximal neighborhoods [of] its points [and] can...repeatedly
+CACM-3132 : necessarily centered [in] [the] empty space between [the]...three algorithms which [are] defined [in] [the] paper...finding hyperplanes which separates [the] two classes [in]...[the]
+CACM-1191 : find precedence functions algorithm 265 l2 cacm october...1965 wirth n...
+CACM-1930 : used [in] a standardized way [the] literature [on]...prevents [the] quality [of] [the] generator from being...like random [number] generation [and] [in] core sorting...which
+CACM-0307 : find algorithm 65 cacm july 1961 hoare c...a r...
+CACM-3156 : find [the] connected components [of] an undirected graph...find [the] transitive closure [of] a symmetric boolean...matrix [we] assume that [the] processors have access...computing
+CACM-0507 : partition quicksort find algorithm 63 64 65 cacm...august 1962 hillmore j s...
+CACM-2051 : [the] total frequency [in] [the] data [of] each...[the] limitations [of] [the] programs [and] illustrates its...suspected cognates [the] program tabulates [the] correspondences [and]...correspondence
+CACM-2450 : [of] published data [on] program measurements [in] [the]...set [are] now commonly encountered [in] [the] literature...hope that workers [in] [the] field might find...years
+CACM-1325 : [of] [the] present system [are] [particularly] [concerned] with...increasing [the] fidelity [of] [the] adaptive matched filters...[the] development [of] three dimensional pattern analysis [the]...report
+CACM-0776 : partition quicksort [and] find algorithm 62 64 65...cacm august 1963 randell b russell l j...
+CACM-2227 : given [of] [the] correctness [of] [the] algorithm find...purpose [of] [the] program [and] [the] method used...[in] such a way as to prevent [the]...intrusion
+CACM-3087 : [the] operation [of] system components [and] examples [of]...planes [the] design [and] implementation [of] this system...[the] system uses a [number] [of] augmented transition...[the]
+CACM-2627 : at each point [in] time [the] storage required...time [in] system is [not] only desirable to...[in] addition to presenting [and] analyzing new algorithms...[the]
+CACM-2890 : state [of] [the] network [the] form [of] [the]...to find [the] optimal message routing [and] [the]...instead [of] a linear one [in] [the] routing...[of]
+CACM-1527 : questions [in] [the] normal situation since [the] recognition...function succeeds just [in] case [the] posed question...[the] data or more correctly is grammatical [in]...terms
+CACM-3179 : [the] potential for aiding [in] [the] solution [of]...research is needed [in] [the] future cacm december...overview [of] [the] eft symposium it is increasingly...known
+CACM-3037 : performed [in] unit time [the] method has [the]...primes between 2 [and] n [the] algorithm executes...to find [the] prime factorization [of] all integers...between
+CACM-2312 : [on] [the] present [and] future [of] scientific computation...be expected to happen [in] [the] application [of]...computers to [the] physical sciences cacm july 1972...a
+CACM-0089 : a routine to find [the] solution [of] simultaneous...linear equations with polynomial coefficients cacm april 1959...larson e h marshall d p...
+CACM-2976 : approximating block accesses [in] database organizations cacm april...database performance [and] measurement information retrieval query answering...1977 yao s b database inverted file organization...3.70
+CACM-1961 : to [the] [number] [of] circuits [in] [the] graph...algorithm to [the] [number] [of] vertices [and] [the]...bounds [are] presented relating [the] speed [of] [the]...[number]
+CACM-2863 : presented to demonstrate [the] improvement possible over [the]...respect to this criterion [the] results [of] simulating...vmin dennings working set [and] [the] page partitioning...replacement
+CACM-2633 : transmission methods for [the] compact representation [of] contour...plots [are] described [and] tested these [are] intended...to reduce [the] cost [of] transmitting contour plots...over
+CACM-2855 : list [and] [the] copy [the] original list is...be distinguishable from pointers to [the] original [the]...extensions [of] [the] algorithm [are] discussed cacm june...[are]
+CACM-0605 : [and] make [motion] pictures [of] vehicle movements [in]...flow [on] city streets [the] national bureau [of]...[of] vehicle desired speed [and] actual speed [in]...proportions
+CACM-2964 : [in] databases cacm may 1977 milman y database...an approach to optimal design [of] storage parameters...organization storage parameter optimization resident overflow storage 3.73...3.74
+CACM-3085 : mis [are] matrices [the] order [in] which [the]...[the] computation [of] matrix chain products [of] [the]...matrices [are] computed affects [the] [number] [of] operations...a
+CACM-2816 : most database organizations [the] cost [of] accessing [the]...based [on] [the] characteristics [of] existing disk storage...optimal reorganization [of] distributed space disk files [in]...by
+CACM-2263 : necessarily produce [the] optimum flowchart [the] algorithms [are]...complex rules [the] other one called [the] optimum-approaching...[the] small reduction [in] execution time obtained cacm...[the]
+CACM-1886 : to hold [the] results [of] evaluating [the] factors...[of] subexpressions each [of] which occurs [in] two...such that all information is computed [in] [the]...[the]
+CACM-2081 : for mathematical programming [the] paper investigates how [the]...[of] sequences [of] matrices [are] considered [and] matrix...[in] [the] sense that for each expression an...is
+CACM-2524 : [of] searching [the] set [of] keys [in] a...closest [in] terms [of] a metric [on] [the]...algorithms which [are] intended to reduce [the] [number]...results
+CACM-1846 : none can be found [in] some [of] [the]...[on] simulating networks [of] parallel processes [in] which...available to [the] solution technique but [in] many...cases
+CACM-2142 : situations [in] [the] natural sciences [and] medicine e...g [in] electron microscopy [and] x-ray photography [in]...points from [the] sums [of] [the] gray levels...[in]
+CACM-3157 : for proving [the] termination [of] programs is [the]...function that maps [the] values [of] [the] program...throughout [the] computation all too often [the] termination...[of]
+CACM-2902 : investigates [the] performance [of] 35 [dynamic] memory allocation...[dynamic] memory allocation [in] computer simulation this paper...measured [in] terms [of] processing time memory usage...allocation
+CACM-2751 : [the] fundamental laws [of] optics [are] considered [in]...[on] [the] cathode-ray tube screen [the] shading algorithm...itself depends [in] part [on] [the] method for...[the]
+CACM-2174 : [the] stable marriage problem [the] original work [of]...find all [the] stable marriage assignments [the] algorithm...is proved to satisfy all [the] conditions [of]...gale
+CACM-0371 : remarks [on] algorithms 2 [and] 3 algorithm 15...[and] algorithms 25 [and] 26 cacm march 1961...wilkinson j h...
+CACM-2923 : implicit [in] [the] parse tree [the] need for...[of] [the] graphs involved [are] constructed [and] analyzed...high-level data flow analysis [in] contrast to [the]...predominant
+CACM-2997 : [in] two [and] three dimensions [the] convex hulls...[of] sets [of] n poin ts [in] two...log n operations [the] presented algorithms use [the]...[on]
+CACM-0270 : techniques for storage allocation algorithms cacm october 1961...kelley jr j e...
+CACM-3067 : costs [the] gws is a model for [the]...cases [of] [the] cost structure allow gws [and]...segments [of] different sizes [the] generalized working-set policy...[of]
+CACM-2674 : [and] [the] other to interactive applications [the] algorithms...were implemented [in] fortran [on] [the] cdc 6400...[the] capabilities [of] this organization to include general...over
+CACM-3033 : introduced [in] this paper combines [the] positive [aspects]...decision table conversion has been tackled [in] [the]...an enormous search space since [the] [number] [of]...solutions
+CACM-2973 : [on] routing [and] comparison steps [the] best previous...algorithm takes time [on] log n [the] algorithms...[are] presented for sorting n2 elements [on] an...[of]
+CACM-3151 : [of] n points [in] [the] plane using an...an algorithm is described for [the] construction [in]...real-time [of] [the] convex hull [of] a set...appropriate
+CACM-2957 : notions [are] complementary [and] both [are] important [in]...an abstraction which is important [in] conceptualizing [the]...invariants well-defined relations [are] distinct from relations [in]...database
+CACM-2337 : given one new algorithm for finding [the] minimum...[and] maximum elements [of] a set with fewest...a sorting problem [and] its complexity a technique...for
+CACM-2919 : basic sections [of] [the] paper [in] troduce [the]...done [on] [the] same machine [on] which [the]...[the] programmers workbench-a machine for software development [on]...be
+CACM-3163 : is presented [the] algorithm operates [in] time olog...n where n is [the] [number] [of] nodes...[in] [the] tree this represents an improvement over...trees
+CACM-2692 : three dimensions removing [the] parts [of] [the] polygon...corner [of] [the] clipping window [the] algorithms described...which lie outside [the] volume [in] two dimensions...handle
+CACM-2944 : features [of] which [are] summarized implementing [the] described...as proposed by deutsch [and] bobrow [the] necessary...[on] [the] source program it is shown that...[the]
+CACM-1878 : identified [and] collected [the] list-creating function list [of]...recovery [of] reentrant list structures [in] slip one...consequence [of] [the] reference-count-based space-recovery system employed by...slip
+CACM-2691 : comments [on] [the] algorithms [of] verhelst for [the]...conversion [of] limited-entry decision tables to flowcharts cacm...january 1974 king p j h johnson r...g
+CACM-3057 : overpacked [in] [the] boxes is minimized [the] placement...[the] sum [of] absolute errors between [the] gray...level his togram [of] [the] transformed picture [and]...transformation
+CACM-2882 : [the] effect [of] database organizations [in] data retrieval...systems [in] particular [the] impact [of] query complexity...data retrieval systems experimental work [in] [the] valuation...significantly
+CACM-2876 : [the] process [of] user-database interaction [in] particular it...information supplied to him by [the] database [the]...ability to condition [the] supply [of] information [on]...[of]
+CACM-2715 : [in] previous papers [and] [are] reviewed sequel is...implementation [of] a structured english query language [the]...relational model [of] data [the] xrm relational memory...system
+CACM-1796 : 1969 this 1969 index is [the] first supplement...to [the] index by subject to algorithms 1960...index by subject to algorithms 1969 cacm december...1968
+CACM-2289 : [of] [the] possibilities for parallel processing [in] this...[of] [the] array [and] typical row [and] column...a major challenge [in] [the] effective use [of]...is
+CACM-2007 : algorithms policyrevised august 1970 cacm august 1970...
+CACM-3131 : has [the] wide-ranging character [of] floating-point numbers with...focus microcomputer [number] system focus is a [number]...comparable [in] speed with hardware arithmetic for many...applications
+CACM-1643 : ascending [and] descending powers [of] [the] variable [and]...[the] polynomial by [the] accepted factor it is...methods [of] polynomial factorization which find [the] zeros...one
+CACM-1433 : improportionality fast rise [in] [the] consumption [of] computer...a general way [the] generating function [of] [the]...[the] way a pivot column is found [the]...[number]
+CACM-3006 : [and] [the] generalized inclusion property [are] discussed [and]...increase [in] mean memory allocation may result [in]...[are] examined [in] terms [of] their anomaly potential...[of]
+CACM-0322 : [in] [view] [of] [the] growing [number] [of] programming...operational compatibility [of] systems-conventions [the] general standards committee...[of] [the] share organization has devoted considerable effort...to
+CACM-2417 : four [combinatorial] algorithms g6 algorithm a466 cacm november...1973 ehrlich g permutations [and] combinations 5.39...
+CACM-1952 : index by subject to algorithms 1970 cacm december...1970...
+CACM-1660 : index by subject to algorithms 1960-1968 cacm december...1968...
+CACM-1926 : printing [of] finished documents directly [on] [the] printer...a production program which facilitates [the] editing [and]...entirely [in] fortran iv cacm march 1969 berns...description

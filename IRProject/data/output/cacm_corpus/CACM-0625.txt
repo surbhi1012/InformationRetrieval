@@ -1,0 +1,1 @@
+reciprocal gamma function of real argument algorithm 80 cacm march  1962 holsten  w

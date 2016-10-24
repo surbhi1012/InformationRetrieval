@@ -1,0 +1,1 @@
+clenshaw-curtis quadrature d1 algorithm a424 cacm may  1972 gentleman  w  quadrature  chebyshev series  cosine transform  fast fourier transform 5.1

@@ -1,0 +1,100 @@
+CACM-2932 : [and] methods illustrative examples of practical [and] theoretical...[algorithms] 5.25...complexity of computations the framework for research in...the
+CACM-1474 : certain probabilistic models for roundoff error [and] then...to describe a [series] of experiments for testing...discrepancies are both rare [and] mild the test...tests
+CACM-2836 : to problems [involving] probabilistic parsing or combinatorial optimization...weighted derivation trees the nodes of a weighted...derivation tree are associated with weighting functions over...the
+CACM-2165 : general relativity [and] the application of algebraic manipulative...classification of a metric [and] the solution of...systems the paper describes some applications of symbolic...algebra
+CACM-2090 : symbolic expansion of algebraic expressions algorithm 377 r2...cacm march 1970 levine m j algebra symbolic...algebra symbolic multiplication algebraic distribution algebraic multiplication distribution...algorithm
+CACM-3175 : the alphabet has one fixed substitute [and] the...breaking substitution ciphers using a relaxation algorithm substitution...ciphers are codes in which each letter of...word
+CACM-1214 : list processor slip a [series] of four problems...some experiments in algebraic manipulation by computer a...set of subroutines to allow algebraic manipulations on...the
+CACM-1397 : [and] in [algorithms] for their implementation twenty-eight papers...proceedings of the acm symposium on symbolic [and]...algebraic manipulation the acm symposium on symbolic [and]...algebraic
+CACM-2645 : analysis of [algorithms] [and] some of the directions...written in the first language [and] to output...translation symbolic manipulation program efficiency analysis of [algorithms]...two
+CACM-2681 : discussed [and] the operating conditions that lead to...dynamic memory repacking a probabilistic model of a...multiprogramming system is exercised in order to determine...the
+CACM-2516 : access times [and] increasing data storage capabilities a...memory [and] data cells equations are derived to...files [and] structured files employing multiple-hierarchical linked lists...hierarchical
+CACM-0265 : languages [and] for use within fortran coded programs...arithmetic symbol manipulation bit manipulation [and] expanded character...set input-output [and] visual display cacm november 1961...low
+CACM-2580 : of applicability rules [and] weight rules which operate...on the productions deciding when [and] to what...[and] computer scientists cacm november 1974 rader g...a
+CACM-2560 : the long-run probability that both the cpu [and]...a queuing model of a multiprogrammed computer with...a two-level storage system the results are presented...of
+CACM-1386 : by kronecker in a proof that the [prime]...a finite [number] of steps the algorithm consists...by kroneckers method [and] introducing the remaining variables...by
+CACM-3203 : manipulation [and] differentiation the general recursive algebra [and]...complicated expressions notably ones [involving] nested radicals [and]...grad assistant - a program for symbolic algebraic...differentiation
+CACM-2323 : list of a [number] of natural developments for...toward a general theory of special functions a...the field of algebraic manipulation is given then...the
+CACM-3071 : than that of dinverno [and] russell-clark requires neither...implemented in formac [and] is designed to complete...an algorithm using symbolic techniques for the bel-petrov...classification
+CACM-1935 : developed for the mean [and] variance of the...[number] of trials to recover a given document...search method described is binary in nature [and]...randomized
+CACM-2450 : scheduling [and] paging [algorithms] although the words working...experimental evidence upon which to substantiate [and] base...empirical working set behavior the working set model...for
+CACM-2166 : use of poisson [series] [and] a typical problem...[and] compared with those for general manipulation packages...cacm august 1971 jefferys w h [series] manipulation...automated
+CACM-1927 : [and] information system design in a ph computer...information science in a ph computer science program...this report contains recommendations on a sample course...curriculum
+CACM-2325 : complexity synthesis [and] analysis of [algorithms] analysis of...of computation [algorithms] continuous [algorithms] 1.3 5.0 5.1...numerical mathematics [and] computer science numerical mathematics is...viewed
+CACM-2187 : of the field [and] its relationships to other...fields [and] a local view which focuses on...knowledge problems [and] activities that exist within the...is
+CACM-2170 : applications of symbol manipulation in theoretical physics this...paper surveys the applications of symbolic computation techniques...to problems in theoretical physics particular emphasis is...placed
+CACM-2167 : the existence of powerful simplification [algorithms] [and] the...a large expression [and] second from the point...construct a useful [and] efficient system first we...expression
+CACM-2505 : reflection-free permutations rosary permutations [and] adjacent transposition [algorithms]...cacm may 1973 roy m k permutation permutation...generation scheduling combinatorial analysis 5.39...
+CACM-0717 : partitioning [algorithms] for finite sets the partitions of...or fewer sets 1 m n [and] 3...a set with n elements are represented by...certain
+CACM-2169 : coefficients it has been designed [and] implemented to...handle large problems with ease [and] efficiency considerable...permitting the system to be installed quickly [and]...run
+CACM-0644 : to concatenate [and] shift strings [and] 3 the...characters [and] symbols the concept of strings introduced...adding 1 the declaration of strings substrings [and]...computer
+CACM-1210 : file-handling within fortran this note describes some fortran...subroutines to facilitate handling of tape files they...allow symbolic naming of information files without violating...the
+CACM-2437 : with the same [number] of keys selected from...accordance with the algorithm [and] the average performance...performance can be classified [and] key distributions partial...general
+CACM-1362 : a [number] of control characters associated with the...the [manner] of use of these characters has...extension applications [and] suggests a corollary set of...characters
+CACM-2414 : arithmetic overa finite field a1 algorithm a469 cacm...november 1973 lam c mckay j algebra 5.19...
+CACM-2850 : symbolic execution [and] program testing this paper describes...symbolic execution for program testing [and] debugging is...[and] to prove things about symbolic expressions a...simple
+CACM-1261 : modeling [and] simulation of digital networks the simulation...modeling technique applicable to combinational [and] sequential digital...networks [and] a systematic programming approach cacm may...of
+CACM-2852 : or in information systems mcfarlan [and] nolan have...the technology of computer center management a proposed...course for graduate professional programs in computer science...made
+CACM-2956 : a [number] of issues are explored concerning the...[and] resulting problems with conversion of values from...some ideas on data types in high-level languages...notion
+CACM-1862 : [and] academic activities are limited the [number] of...computing capabilities at argentine [and] chilean universities the...argentina [and] chile during november 1968 describing university...conditions
+CACM-1396 : capabilities of simplification displays [and] inputoutput editing [and]...specific capabilities of differentiation integration [and] the supporting...precision arithmetic general systems-both batch [and] online-are described...survey
+CACM-0393 : two subroutines for symbol manipulation with an algebraic...compiler cacm february 1961 carr iii j w...hanson j w...
+CACM-3007 : complexity of computations corrigendum cacm march 1978 rabin...m...
+CACM-1699 : language [and] on some of the mechanical [and]...include ease of use learning time [and] effectiveness...of actual retrieval three experiments [and] the conclusions...experimental
+CACM-0719 : permit ready establishment [and] manipulation of variable width...be made the basis of compiler decoding [algorithms]...variable width stacks character addressable variable field computers...stacks
+CACM-1771 : contained in computer science is presented [and] twenty-two...descriptions detailed outlines [and] annotated bibliographies for these...are discussed [and] some recommendations are presented for...service
+CACM-2310 : listing of detail as in indices [and] concordances...is widespread [and] accepted as desirable the implications...[and] testing of models-are neither widely recognized nor...rigor
+CACM-1331 : code structures for protection [and] manipulation of variable-length...variable [number] of characters each containing the same...[number] of bits certain control information partition symbols...characters
+CACM-1216 : a routine has been developed which computes [and]...chain rule is applied [and] the result is...edited to produce results as elegant [and] efficient...symbolic
+CACM-2997 : divide [and] conquer technique [and] recursively apply a...in two [and] three dimensions the convex hulls...[and] three dimensions can be determined with on...log
+CACM-3201 : symbolic manipulation of poisson [series] poisson [series] of...mechanics the routines are entirely self-contained subroutines [and]...require only standard fortran inputoutput units 5 [and]...6
+CACM-3134 : [number] of disk accesses [and] disk space are...storage [and] retrieval this paper describes a method...for the organization [and] retrieval of attribute based...a
+CACM-0496 : a set of matrices for testing computer programs...cacm august 1962 brenner j l...
+CACM-1697 : at harvard for graphically inputting [and] outputting nonstandard...at present it is limited to 4000 [chinese]...characters [and] some mathematical symbols new characters can...a
+CACM-2147 : [and] needs data from a survey conducted with...december 1970 is reviewed [and] it is pointed...education national goals stated in the rosser [and]...of
+CACM-1652 : applications [and] to maximize the transfer rate of...the information channel linking the system [and] the...classification computer-aided teaching [and] text editing this code...[and]
+CACM-2164 : implementation [and] to horowitz [and] tobeys reexamination of...[and] to a large degree to moses sin...of functions [and] for rischs decision procedure for...class
+CACM-2268 : include multistep methods predictor-correctors single-step methods runge-kutta [and]...extrapolation methods both polynomial [and] rational the testing...appendix for the particular problems [and] criteria used...a
+CACM-1393 : described [and] compared with the lisp [and] slip...of polynomials in any [number] of variables with...[and] greater common divisors pm is based on...greatest
+CACM-1595 : problem of enumerating the [number] of topologies which...is considered both theoretically [and] computationally certain fundamental...enumerating finite topologies [and] computed results are given...represents
+CACM-2266 : guaranteed multiple zeros [and] their multiplicity are readily...l parallel numerical [algorithms] real polynomials real zeros...a highly parallel algorithm for approximating all zeros...of
+CACM-2402 : pictorial pattern recognition [and] the phase problem of...the development of [algorithms] adapted to this environment...pictorial pattern recognition techniques make possible a [number]...computationally
+CACM-2306 : ancient babylonian [algorithms] the early origins of mathematics...computer science a [number] of old babylonian tablets...[number] system sorting 1.2...are
+CACM-1592 : string similarity [and] misspellings the problem of programming...given word was considered a numberof [algorithms] were...a computer to determine whether or not a...string
+CACM-1696 : an algorithm for identifying the ergodic subchains [and]...for identifying the ergodic subchains [and] transient states...markov renewal programming [and] in the construction of...variable
+CACM-2146 : [and] one-half percent less reading [and] writing than...optimizing the polyphase sort various dispersion [algorithms] for...based on minimizing the total [number] of unit...dispersion
+CACM-2959 : system within which application experts-nonprogrammers-can describe [and] execute...in two-dimensional pictures of tables business forms [and]...the system for business automation sba programming language...the
+CACM-3036 : be selected [and] set by the computer this...feature can be used to reduce the [number]...document for transmission [and] printing in this note...set
+CACM-2930 : in general [and] the events leading to the...discussed content specifications [and] their rationale are given...the gre advanced test in computer science this...report
+CACM-3202 : manip a computer system for algebra [and] analytic...is written in fortran-like notation [and] stored in...problemm of performing algebraic operations [and] obtaining analytic...derivatives
+CACM-0731 : [and] a backward link as well as a...functions [and] subroutines coded in machine language the...symmetric list processor a list processing system in...which
+CACM-2631 : retrieval namely the maintenance [and] use of large...than words bounded by spaces [and] chooses subsets...file organization [and] promises considerable cost advantages cacm...an
+CACM-1121 : is intended to clarify [and] correct several points...comments on a continued operation notation this note...in a recent paper describing some notations for...symbol
+CACM-2253 : position the relationship of indexing by name [and]...index ranges for matrix calculi the paper describes...a scheme for symbolic manipulation of index expressions...which
+CACM-2532 : bookstein a string substring hashing information storage [and]...on harrisons substring testing technique cacm march 1973...retrieval 3.74 5.30 5.5...
+CACM-2767 : show the advantages [and] limitations of the [algorithms]...a comparison of simulation event list [algorithms] four...[algorithms] are considered which can be used to...system
+CACM-2490 : into connected [components] biconnected [components] [and] simple paths...if v is the [number] of vertices [and]...efficient [algorithms] for graph manipulation h algorithm a447...efficient
+CACM-2453 : limited entry decision table [and] does not require...[algorithms] compared to the optimal algorithm of reinwald...[and] soland this algorithm is easy to code...[and]
+CACM-1846 : on simulating networks of parallel processes in which...simultaneous events may occur some of the problems...of simulating discrete event systems particularly computer systems...on
+CACM-0762 : some remarks on the syntax of symbolic programming...languages cacm august 1963 diforino a c...
+CACM-3006 : with certain reference strings [and] paging [algorithms] an...[and] the generalized inclusion property are discussed [and]...anomalies with variable partition paging [algorithms] five types...an
+CACM-1893 : roots of polynomials by a root-squaring [and] resultant...routine algorithm 340 c2 cacm may 1969 noltemeier...a root finders roots of polynomial equations polynomial...zeros
+CACM-1667 : roots of polynomials by a root-squaring [and] resultant...routine algorithm 340 c2 cacm november 1968 noltemeier...a root finders roots of polynomial equations polynomial...zeros
+CACM-2987 : representation of many-sided polygons [and] polygonal lines for...rapid processing a representation for polygons [and] polygonal...is discussed for both ideal [and] practical examples...the
+CACM-2809 : positivity [and] norms following some lines of joint...work with a s householder the character [and]...the generalization of order unit norms l-norms [and]...use
+CACM-1392 : the formac expand [and] differentiation [algorithms] a basic...the design [and] implementation of mathematical expression manipulation...[algorithms] are discussed concrete examples are provided by...formac
+CACM-0278 : mappings of the total storage set internal [and]...mapping underwhich p [and] its effective data referents...program into m-admissible subprograms [and] a linking set...a
+CACM-1279 : use of a conditional base [number] system for...to each sequence [and] to generate a reasonably...encoding sequences of correlated characters a procedure is...described
+CACM-2567 : purpose in nature but to be [especially] efficient...coefficients [and] linear forcing terms in that case...implemented [and] put to routine usage in biological...an
+CACM-1720 : presented [and] some general comments concerning the emphasis...masters level computer science curricula the results of...a survey of the course work done by...masters
+CACM-2096 : for game-playing [and] other purposes it is based...kalah [and] it was demonstrated that the m...experiments with the m n tree-searching program the...m
+CACM-2538 : problems of small colleges [and] universities [and] to...[and] cccs supplies a set of recommendations for...courses [and] necessary resources implementation problems are discussed...specifically
+CACM-1957 : [and] [algorithms] for its use are given the...the set which results from any expression [involving]...sets [and] set operators the efficiency derives from...evaluating
+CACM-1543 : the numerical data processing stage [and] reducing the...of tensor calculus [and] a computer language designed...algebraic manipulation [and] differentiation to illustrate the techniques...of
+CACM-3010 : value orientation of computer science students technological [and]...nontechnological value orientations are investigated with special attention...to the complexity of value structures computer science...students
+CACM-1388 : automast automatic mathematical analysis [and] symbolic translation a...[series] expansion that includes an estimate of the...such equations [and] then generates the expansions for...procedure
+CACM-1205 : an undergraduate program in computer science-preliminary recommendations cacm...september 1965 a report from the acm curriculum...committee on computer science...
+CACM-1391 : system is written in mad [and] fap on...objects of modern algebra finite groups maps [and]...sets of maps subsets [and] sets of subsets...constant
+CACM-2288 : query set [and] record set its existence enables...a minimal search time [and] no redundant storage...the consecutive retrieval property exists [and] remain invariant...file
+CACM-1619 : computational error generated by some [algorithms] used to...[and] usually less costly in machine time than...error-free methods for statistical computations neely has discussed...compute
+CACM-3130 : elementary level topics [and] courses [and] intermediate level...undergraduate program are then discussed [and] the entire...program including the computer science component [and] other...continuing

@@ -1,0 +1,1 @@
+complete elliptic integral algorithm 149 cacm december  1962 merner  j  n

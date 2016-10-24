@@ -1,0 +1,1 @@
+chebyschev polynomial algorithm 10 cacm april  1961 herndon  j

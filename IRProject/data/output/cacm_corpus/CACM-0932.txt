@@ -1,0 +1,1 @@
+matrix inversion by gauss-jordan inversion ii algorithm 120 cacm january  1963 naur  p

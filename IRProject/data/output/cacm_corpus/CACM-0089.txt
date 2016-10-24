@@ -1,0 +1,1 @@
+a routine to find the solution of simultaneous linear equations with polynomial coefficients cacm april  1959 larson  e  h  marshall  d  p

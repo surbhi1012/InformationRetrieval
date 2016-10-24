@@ -1,0 +1,1 @@
+solution of simultaneous linear diophantine equations algorithm 288 f4 cacm july  1966 blankinship  w  a

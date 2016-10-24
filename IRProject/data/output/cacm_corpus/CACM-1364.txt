@@ -1,0 +1,1 @@
+mathematical experimentation in time-lag modulation equations of the form dudt  gut uht arise in a number of scientific contexts  the authors point out some interesting properties of the solution ut  -ut-1-ksinwtsinat  these properties were obtained by means of numerical solution  cacm october  1966 bellman  r  buell  j  kalaba  r

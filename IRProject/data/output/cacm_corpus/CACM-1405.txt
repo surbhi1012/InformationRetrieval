@@ -1,0 +1,1 @@
+matrix triangulation with integer arithmetic algorithm 287 f1 cacm july  1966 blankinship  w  a

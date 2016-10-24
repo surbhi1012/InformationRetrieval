@@ -1,0 +1,1 @@
+compiling fixed-point multiplications cacm august  1972 bernstein  h  j  compiling multiplications  fixed-point arithmetic 4.12

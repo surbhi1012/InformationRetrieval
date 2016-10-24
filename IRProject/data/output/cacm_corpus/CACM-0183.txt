@@ -1,0 +1,1 @@
+conversion between floating point representations cacm june  1960 perry  c

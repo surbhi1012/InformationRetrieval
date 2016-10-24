@@ -1,0 +1,100 @@
+CACM-1678 : a ph [computer] [science] [program] a number of...curriculum ph [computer] [science] [program] automata formal languages...automata formal languages abstract switching [and] computability [in]...[computer]
+CACM-2650 : [in] number of edit operations to a given...the number of characters [in] a the method...should find applications [in] information retrieval artificial intelligence...[and]
+CACM-2327 : brain-has been pushed aside [in] mathematical development of...the theory this paper suggests the ways [in]...toward an automata theory of brains a source...of
+CACM-2645 : [computer] programs are presented the [program] whose efficiency...written [in] the first language [and] to output...two languages for estimating [program] efficiency two languages...one
+CACM-2112 : equations are used to describe the syntax [and]...within the framework described string recognition [and] parsing...translation equations input limited transduction expressions or translation...left-context
+CACM-2813 : the [computer] [science] [and] engineering research study cosers...the [computer] [science] [and] engineering research study cosers...identified cacm december 1976 arden b [computer] [science]...is
+CACM-2302 : computers [and] employment the relationship of computers [and]...the individual worker [in] the nature [and] amount...of his work [and] [in] his attitudes toward...most
+CACM-2921 : regular right part grammars [and] their parsers this...paper [in] troduces an alternative to context-free grammars...fsms [and] as a special case regular expressions...concisely
+CACM-2974 : comment on weighted increment linear search for scatter...tables cacm april 1977 bandyopadhyay s k hash...address primary clustering index sequence complementary relation search...3.73
+CACM-0282 : of expected loss of [computer] time [and] develops...[in] the future [in] the case where the...error occurs [in] writing a record a programmed...optimum
+CACM-2779 : presented [and] the reason for its improved performance...discrete least squares polynomial fits the recurrence relation...between orthogonal polynomials is widely used for discrete...least
+CACM-1887 : indicate its use [in] calculating eigenvalues cacm june...a recursive relation for the determinant of a...pentadiagonal matrix a recursive relation relating leading principal...minors
+CACM-3189 : an algebraic compiler for the fortran assembly [program]...be added to the fortran assembly [program] this...following operations addition subtraction multiplication [and] division it...will
+CACM-2938 : of reasoning [in] [program] validation sequential programming multiprogramming...outlined [and] expressed [in] terms of the language...[and] real-time programming by adhering to a strict...programming
+CACM-2317 : programming systems [and] languages 1965-1975 [in] spite of...deal of theoretical interest [in] algol 68 [and]...[in] the development of system measurement [and] evaluation...impressive
+CACM-2166 : automated algebraic manipulation [in] celestial mechanics [in] this...automated algebraic manipulation which have been made [in]...use of poisson series [and] a typical problem...[in]
+CACM-2769 : particularly [in] a paging environment cacm april 1975...a modification of warshalls algorithm for the transitive...closure of binary relations an algorithm is given...for
+CACM-1211 : of indefinite size [and] is therefore completely dynamic...a note on storage of strings a method...for storing strings is described which uses blocks...its
+CACM-1253 : is a [simulation] language based on simscript [and]...programmed entirely [in] an algebraic language 20-gate the...quikscript language its internal implementation [and] major differences...between
+CACM-1739 : described [and] an implementation of this method [in]...[and] produces an ibm 7094 [program] as object...specific character strings embedded [in] character text is...language
+CACM-0001 : preliminary report-international algebraic language cacm december 1958 perlis...a j samelson k...
+CACM-2323 : claim is made that recent developments [in] mathematics...toward a general theory of special functions a...list of a number of natural developments for...the
+CACM-1896 : regular coulomb wave functions algorithm 292 s22 cacm...may 1969 gautschi w coulomb wave functions wave...functions regular coulomb wave functions 5.12...
+CACM-1927 : information [science] [in] a ph [computer] [science] [program]...[and] information system design [in] a ph [computer]...courses [computer] [science] curriculum information [science] information organization...[science]
+CACM-1665 : the characters [and] character count [in] the item...1966 [and] processors generated have compared favorably [in]...detect errors [and] which would be convenient [and]...is
+CACM-1898 : regular coulomb wave functions algorithm 292 s22 cacm...may 1969 kolbig k s coulomb wave functions...wave functions regular coulomb wave functions 5.12...
+CACM-0099 : possible modifications to the international algebraic language cacm...february 1959 green j...
+CACM-2986 : is asymptotically faster than those [in] common use...wirth-weber precedence relations [in] on2 steps is shown...functions [in] on2 steps is shown as well...as
+CACM-0850 : conversion reconversion [and] comparison techniques [in] variable-length sorting...easily [and] efficiently processed by a sorting [program]...the internal record formats are discussed [in] relation...their
+CACM-1993 : regular coulomb wave functions algorithm 292 s22 cacm...september 1970 cody w j paciorek k a...coulomb wave functions wave functions regular coulomb wave...functions
+CACM-1453 : described [in] this paper a fortran ii [computer]...algebraic language syntax [in] particular of algol is...[program] for carrying out the elimination algorithm of...[in]
+CACM-2134 : [in] square matrices is presented first then the...algol procedure are discussed [and] a relation between...solution time [and] problem size is given cacm...an
+CACM-3198 : microprogramming emulators [and] programming languages the problem we...this purpose is language [and] therefore we are...preoccupied with the subject of language [in] the...on
+CACM-0093 : from formulas to [computer] oriented language a [technique]...is shown for enabling a [computer] to translate...simple algebraic formulas into a three address [computer]...code
+CACM-1464 : main [program] [in] addition procedures coded [in] map...an algol compiler construction [and] use [in] relation...may be included [in] any algol [program] although...has
+CACM-2061 : context-free grammar [and] constructs a bounded-context parser for...it whenever such a parser exists [in] the...a context-free grammar [and] the working of a...[and]
+CACM-1355 : regular coulomb wave functions algorithm 292 cacm november...1966 gautschi w...
+CACM-2931 : [in] terested [in] whether answers to certain questions...providing definitions [and] proofs which are clean [and]...logic [and] programming languages logic has been long...are
+CACM-1867 : sorting by replacement selecting [in] the replacement-selecting [technique]...on the expected lengths of sequences generated [in]...of sorting one is interested [in] the ratio...sequence
+CACM-0464 : [and] some associated programs have been [in] use...[in] unpublished reports [and] also some additional discussion...syntactic analysis by digital [computer] this paper provides...used
+CACM-1214 : some experiments [in] algebraic manipulation by [computer] a...the ibm 7094 [computer] has been written a...set of subroutines to allow algebraic manipulations on...list
+CACM-0054 : sale a simple algebraic language for engineers cacm...october 1959 brittenham w r clark k kuss...g thompson h smith a o...
+CACM-2842 : programming language semantics developed by d scott [and]...formal language specification is demonstrated [and] other applications...very elementary [and] its definition merely introduces the...notation
+CACM-1469 : the uses of user-coined names [and] the conventions...referred to [in] the language the system is...to construct [and] understand cacm march 1966 landin...the
+CACM-2470 : briefly discussed [and] a [technique] is presented by...[and] global environments [and] of various modes of...fen-an axiomatic basis for [program] semantics a formal...data
+CACM-2628 : minimal-total-processing time drum [and] disk scheduling disciplines this...of requests is allowed fixed-head drum [and] moving-head...drum [and] moving-head disk storage units are considered...[and]
+CACM-1334 : planetary theory a [computer] [program] has been written...the [program] [and] typeset photographically on an s-560...expressed as polynomials [in] two variables one of...which
+CACM-2584 : [and] the department of labors area wage surveys...considerably less than suggested [in] earlier reports it...enumerating full-time programmers data from the 1970 census...are
+CACM-0124 : problem is formulated [and] briefly discussed an efficient...algorithm for its solution is presented [in] algol...code an empirical relation between solution time [and]...[computer]
+CACM-2449 : manner [in] pli [and] cobol compilers cacm september...a simple [technique] for structured variable lookup a...simple [technique] for the symbol-table lookup of structured...the
+CACM-2476 : equivalence between andor graphs [and] context-free grammars cacm...july 1973 hall p a v artificial intelligence...andor graphs language theory context-free grammars 3.60 3.64...5.23
+CACM-1467 : [in] many fields of endeavor should be greatly...facilitated [in] the near future through the use...a graphical servicesystem with variable syntax man-machine interaction...of
+CACM-1923 : described it is shown that this [technique] can...pseudofiles an approach to system interfaces for high...level languages using basic inputoutput support facilities is...provide
+CACM-1922 : proposed usa standard data communication control procedures for...the usa standarad code for information interchange cacm...march 1969 data communication data communication control procedures...data
+CACM-2496 : discipline for [computer] systems [in] which it is...popular discipline for determining the sequence [in] which...on the near-optimality of the shortest-latency-time-first drum scheduling...practical
+CACM-1625 : a [program] written [in] jovial [and] outputs an...the [program] [and] the knowledge obtained by a...equivalent jovial [program] that may be shorter [and]...[and]
+CACM-1660 : index by subject to algorithms 1960-1968 cacm december...1968...
+CACM-1952 : index by subject to algorithms 1970 cacm december...1970...
+CACM-1991 : on the number of automorphisms of a singly...generated automaton cacm september 1970 bavel z automata...finite automata singly generated automata automorphisms generators length...of
+CACM-1681 : man [and] machine through remote typewriter console it...systems laboratory files requests are formulated [in] a...[and] this form is then transformed into an...equivalent
+CACM-1796 : index by subject to algorithms 1969 cacm december...1969 this 1969 index is the first supplement...to the index by subject to algorithms 1960...1968
+CACM-1398 : problems [in] the biological [and] social sciences a...usually [in] the biological [and] social sciences as...well as [in] medicine this approach uses a...robot
+CACM-0055 : an algebraic translator cacm october 1959 kaner h...
+CACM-1961 : algorithm to the number of vertices [and] the...to the number of circuits [in] the graph...to give a relation between speed [and] complexity...extensions
+CACM-2032 : of such trees are examined [and] their relation...to trees studied [in] the past is explainedesults...derived [and] illustrated cacm july 1970 coffman jr...file
+CACM-0698 : from the [computer] is [in] spoken form results...users to call up a remotely located [computer]...to the [computer] is through the telephone dialoutput...of
+CACM-0236 : on soviet research [and] technology [in] cybernetics [and]...soviet cybernetics [and] [computer] this article records observations...[computer] [science] made by the author during a...[in]
+CACM-2054 : on-line [computer] processing system an on-line digital [computer]...processing system is considered [in] which an ordinary...the [computer] being provided as a sequence of...spoken
+CACM-2661 : ideal teaching machines-a solution to the pedagogic language...problem cacm april 1974 sterling t d pollack...s v education programming languages simulators 1.52 4.2...
+CACM-3100 : an interference matching [technique] for inducing abstractions a...tasks solved by a [program] that uses an...description of the training examples [and] the adequacy...of
+CACM-2947 : [in] many ways comparable to [in] teractive bibliographical...computers sitar a low-cost [in] teractive text handling...[and] text analysis system for nontechnical users is...search
+CACM-1216 : a routine has been developed which computes [and]...chain rule is applied [and] the result is...edited to produce results as elegant [and] efficient...may
+CACM-0560 : communication between independently translated blocks cacm july 1962...wegner p...
+CACM-3196 : the reactive typewriter [program] 84-character keyboard including alphabetical...upper [and] lower case for good readability if...the machine is restricted to only a single...case
+CACM-2279 : [computer] communication braille [computer] terminal braille terminal tactile...[computer] communication tactile terminal 1.59 4.41 6.35...a controller for a braille terminal cacm september...1972
+CACM-2795 : [and] inference model [in] generating sentences from meaning...[and] 3 surface grammatical knowledge stored [in] a...representation of meaning is described a [program] based...given
+CACM-2519 : [in] terms of psychological [and] information-processing processes [and]...[in] the information we are communicating [and] a...nature of the difficulty involved [in] communicating mathematical...results
+CACM-1072 : applicable [in] any problem [in] which it is...storage on the basis of equivalence dimension [and]...on a tree structure [and] has reduced computation...an
+CACM-3077 : both [in] its programming language [and] [in] its...of expressions [and] a [world] of statements their...[in] a style not possible [in] conventional languages...algebraic
+CACM-1861 : motivation behind the form [in] which definitions are...the mad definition facility one of the first...definition facilities for higher level languages is described...users
+CACM-1200 : on reversible subroutines [and] computers that run backwards...a [computer] design is describe which permits subroutines...to be executed backward as well as forward...either
+CACM-1367 : character structure [and] character parity sense for parallel-by-bit...data communication [in] ascii proposed american standard cacm...september 1966...
+CACM-2648 : been coded [in] ibms basic assembly language [and]...makes heavy use of the macro language [and]...a design for a number theory package with...an
+CACM-1348 : flowtrace a [computer] [program] for flowcharting programs the...flowtrace system produces flowcharts of programs written [in]...syntax of the control statements [in] his language...programs
+CACM-1885 : [and] a simple problem-oriented programming language [in] which...a [computer] system for transformational grammar a comprehensive...system for transformational grammar has been designed [and]...implemented
+CACM-0265 : this paper describes some subroutines coded [in] symbolic...languages [and] for use within fortran coded programs...arithmetic symbol manipulation bit manipulation [and] expanded character...set
+CACM-3202 : is written [in] fortran-like notation [and] stored [in]...manip a [computer] system for algebra [and] analytic...[in] fortran iv for a cdc 3600 [and]...the
+CACM-2346 : hu-tucker minimum redundancy alphabetic coding method z algorithm...a428 cacm may 1972 yohe j m information...theory coding theory hu-tucker method minimum redundancy coding...5.6
+CACM-3127 : different architectures both the system [and] application programs...which use it are written [in] a high-level...portability [real] time operating systems minicomputer 3.80 4.30...thoth
+CACM-0086 : survey of progress [and] trend of development [and]...use of automatic data processing [in] business [and]...management control systems of the federal government as...of
+CACM-3199 : package of subprograms written [in] slip fortran iv...[and] map 7094 ii to manipulate algebraic expressions...division [and] exponentiation it is capable of handling...[and]
+CACM-2052 : scheduling to reduce conflict [in] meetings conflicts [in]...activities [in] conflict to additional constraints of time...[and] space each connected component of such a...described
+CACM-1792 : methodological problems encountered [in] designing [and] conducting these...exploratory experimental studies comparing online [and] off line...programmers working under conditions of on-line [and] off...line
+CACM-1397 : algebraic formulas [and] symbol strings [in] their applications...[and] [in] algorithms for their implementation twenty-eight papers...proceedings of the acm symposium on symbolic [and]...algebraic
+CACM-2782 : a reply to gentleman [and] marovich cacm march...1975 karp r a high-level languages philosophy of...language design 4.22 5.19...
+CACM-0393 : two subroutines for symbol manipulation with an algebraic...compiler cacm february 1961 carr iii j w...hanson j w...
+CACM-2704 : exception handling issues [and] a proposed notation this...handling language features must satisfy [and] proposes some...new language features for dealing with exceptions [in]...an
+CACM-2187 : an approach to curriculum planning [in] [computer] [science]...[computer] [science] a conceptual framework for curriculum planning...two views of [computer] [science] are considered a...by
+CACM-1048 : of physical problems [in] such diverse fields as...electrostatic field theory heat [and] ideal fluid flow...[and] stress concentration theory reduce under the assumption...include
+CACM-2090 : symbolic expansion of algebraic expressions algorithm 377 r2...cacm march 1970 levine m j algebra symbolic...algebra symbolic multiplication algebraic distribution algebraic multiplication distribution...algorithm

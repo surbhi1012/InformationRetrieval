@@ -1,0 +1,100 @@
+CACM-1699 : experimental [evaluation] of information retrieval through a teletypewriter...language [and] on some of the mechanical [and]...factors involved in [evaluation] of such a system...information
+CACM-1927 : [and] information system design in a ph [computer]...information science in a ph [computer] science program...courses [computer] science curriculum information science information organization...information
+CACM-2278 : on fosters information storage [and] retrieval [using] avl...trees cacm september 1972 tan k c binary...trees search trees information storage information retrieval 3.70...3.73
+CACM-2516 : access times [and] increasing [data] storage capabilities a...memory [and] [data] cells equations are derived to...[data] access times [using] sequential files random access...storage
+CACM-2453 : tables to [computer] programs [using] ideas from information...tree structured [computer] program with near minimum average...limited entry decision table [and] does not require...[and]
+CACM-2598 : extending the information theory [approach] to converting limited-entry...decision tables to [computer] programs this paper modifies...into a [computer] program the algorithms considered in...this
+CACM-1681 : man [and] machine through remote typewriter console it...a computerized [data] base the moore school information...[and] this form is then transformed into an...of
+CACM-3012 : usage [data] for the study additional [data] on...the use of an interactive information storage [and]...of an interactive computerized storage [and] retrieval system...a
+CACM-2288 : query set [and] record set its existence enables...a minimal search time [and] no redundant storage...the consecutive retrieval property exists [and] remain invariant...file
+CACM-1935 : randomized binary search technique a mathematical [model] is...developed for the mean [and] variance of the...[number] of trials to recover a given document...search
+CACM-1769 : [computer] developments in hardware programming time-sharing education [data]...[data] communication education [computer] science forecast survey introduction...[and] size the main incentive for breaching these...communication
+CACM-2451 : storage [and] retrieval [clustering] search [data] structure [data]...between observed [performance] [and] that of an intuitively...on a bit vector representation of [data] [and]...records
+CACM-1830 : retrieval direct access memory [data] base inverted list...retrieval times for a packed direct access inverted...file cacm october 1969 bayes a j information...3.70
+CACM-2990 : effective information retrieval [using] term accuracy the [performance]...published [evaluation] work is based on measuring the...average case in the present study retrieval [evaluation]...a
+CACM-0275 : dynamic storage allocation for an information retrieval system...cacm october 1961 sams b h...
+CACM-2984 : i ein-dor p [computer] system [performance] [evaluation] costutilization...is presented for evaluating [computer] system [performance] in...costutilization a measure of system [performance] a method...terms
+CACM-2976 : database [performance] [and] measurement information retrieval query answering...approximating block accesses in database organizations cacm april...1977 yao s b database inverted file organization...3.70
+CACM-1194 : these documents have been cataloged [and] indexed [and]...establishment of the acm repository [and] principles of...with file organization [and] 2 value of service...all
+CACM-2947 : [and] text analysis system for nontechnical users is...search [and] retrieval systems but has several additional...[computer] invoked by a crt with microprogrammed editing...a
+CACM-3134 : [number] of disk accesses [and] disk space are...storage [and] retrieval this paper describes a method...for the organization [and] retrieval of attribute based...information
+CACM-1032 : searching strategy a linear [model] for an [evaluation]...components a [identification] of information [and] tagging it...past [performance] [and] the second is a self-generating...[and]
+CACM-2552 : a note on when to chain overflow items...within a direct-access table cacm january 1973 bays...c hash code open hash chaining information retrieval...collision
+CACM-2307 : in automatic document processing is briefly outlined [and]...of library automation [and] of the mechanization of...clustered files are searched [and] information is retrieved...user
+CACM-0944 : storage [and] search properties of a tree-organized memory...trees such trees have information storage [and] retrieval...[data] or to problems where the quantity word...length
+CACM-2070 : a formal system for information retrieval from files...cacm april 1970 hsiao d harary f...
+CACM-1489 : [data] documentation [and] decision tables in business [data]...to define [and] document [data] files programs [and]...[and] time when systems must be analyzed [and]...both
+CACM-2988 : [and] [performance] measures such as response time [and]...memory management [and] response time this paper presents...effects of finite memory size [and] workload memory...requirements
+CACM-0891 : a technical library with limited bubget [and] personnel...the solution however is quite general [and] is...information retrieval program as expensive [and] difficult from...months
+CACM-2258 : additional results on key-to-address transform [techniques] a fundamental...[performance] study on large existing formatted files cacm...t hashing hashing [techniques] hashing methods hash coding...november
+CACM-1747 : c [computer] design [computer] design criteria [computer] systems...are input recordability input specifiability [and] asynchronous reproducibility...all the influences affecting the content [and] extent...machine
+CACM-3011 : where top management is supportive of computing [and]...tends to control computing decisions [and] where department...users have less control over design [and] implementation...cacm
+CACM-2358 : size [and] access privilege here the design [and]...the multics virtual memory concepts [and] design as...accomplished by allowing several users to share [data]...via
+CACM-1236 : report to illustrate systems operations [and] [evaluation] procedures...are available to analyze documents [and] search requests...unspecified [and] adapting the search strategy to the...the
+CACM-2519 : results between scientists [using] a [computer] based information...in terms of psychological [and] information-processing processes [and]...augmenting written natural language by various notational [and]...in
+CACM-2631 : access systems [using] direct access [computer] files of...an information-theoretic [approach] to text searching in direct...retrieval namely the maintenance [and] use of large...than
+CACM-2852 : [computer] system [performance] 1.52 2.4 3.51 4.6...the technology of [computer] center management a proposed...course for graduate professional programs in [computer] science...or
+CACM-2318 : [performance] of [computer] systems [and] establishes circumstances under...the role of [computer] system models in [performance]...[evaluation] models constitute a useful means of investigating...[computer]
+CACM-0239 : inefficiency of the use of boolean functions for...information retrieval systems cacm december 1961 verhoeff j...goffman w belzer j...
+CACM-1680 : stored [data] [and] all other library [and] user...processors [and] compilers simulation models mathematical solution [techniques]...a general-purpose display processing [and] tutorial system adept...a
+CACM-1937 : for specifying [data] retrieval [and] display requests [data]...oriented [data] system is a user-oriented [data] retrieval...codas a [data] display system codas a customer...[and]
+CACM-2669 : a simple linear [model] of demand paging [performance]...predicting the [performance] of a proposed automatically managed...multilevel memory system requires a [model] of the...rough
+CACM-2370 : an experimental laboratory for [pattern] [recognition] [and] signal...[computer] dot-mode [and] vector displays analog input [and]...character [recognition] [and] image processing are presented cacm...[recognition]
+CACM-1652 : an online [computer] system with respect to non-numeric...applications [and] to maximize the transfer rate of...the information channel linking the system [and] the...classification
+CACM-0634 : manipulation of trees in information retrieval cacm february...1962 salton g...
+CACM-2965 : an optimal [evaluation] of boolean expressions in an...online query system cacm may 1977 hanani m...z query boolean expression information retrieval file organization...3.5
+CACM-1700 : time the logical product [using] the [and] operation...peekabit [computer] offspring of punched card peekaboo for...programming technique which cuts [computer] run time in...index
+CACM-3168 : comment on an optimal [evaluation] of boolean expressions...in an online query system cacm october 1979...laird p query boolean expression information retrieval file...organization
+CACM-2580 : [and] [computer] scientists cacm november 1974 rader g...processes [computer] music [computer] composition music theory formal...[computer] a method is described for composing musical...rounds
+CACM-3086 : effects of the computational [model] on the ease...of analysis [and] on the results produced cacm...on the complexity of computing the measure of...uai
+CACM-1929 : [and] [data] of all kinds including the pictorial...the [computer] [and] retrieving it in graphical form...images from computers [and] microfilm plotters digital computers...information
+CACM-2220 : conversion of limited-entry decision tables to [computer] programs-a...a [computer] program two modifications of this algorithm...coding theorem [and] the communications concept of entropy...proposed
+CACM-3070 : [performance] [evaluation] simulation queueing network models central server...simulation [model] in which both discrete-event simulation [and]...used to [model] the arrival [and] activation of...hybrid
+CACM-1746 : protection in an information processing utility one of...the critical problems in the design of an...information processing utility that permits flexible sharing of...user
+CACM-0292 : an information retrieval language for legal studies cacm...september 1961 kehl w b horty j f...bacon c r t mitchell d s...
+CACM-2139 : implementation of the substring test by hashing a...technique is described for implementing the test which...determines if one string is a substring of...another
+CACM-2978 : structured [and] whether or not keys are compressed...the cost of a basic key comparison [and]...analysis of design alternatives for virtual memory indexes...a
+CACM-1725 : reduces considerably the [number] of memory accesses necessary...to retrieve in order a [number] of distinct...are necessary thus he proves that the [number]...a
+CACM-2882 : database architecture database [performance] [and] [evaluation] invented list...a stochastic [evaluation] [model] for database organization in...threaded list [and] cellular list organizations [and] hybrid...is
+CACM-1457 : [data] manipulation [and] programming problems in automatic information...of a variety of different [data] structures including...linear text sparse matrices [and] tree or list...structures
+CACM-2532 : bookstein a string substring hashing information storage [and]...on harrisons substring testing technique cacm march 1973...retrieval 3.74 5.30 5.5...
+CACM-2293 : comment on average binary search length cacm august...1972 jones p r searching binary searching record...retrieval 3.74...
+CACM-2726 : [techniques] for minimizing logic circuits are applied to...machine memory 4 reducing the [number] of decision...be shown that objectives 3 [and] 4 can...the
+CACM-2722 : o log n [and] optimization guarantees logarithmic [performance]...of the search space as a [data] structure...associative searches the k-d tree is defined [and]...of
+CACM-2163 : [and] organizations [using] computers is discussed [and] the...information systems [and] appropriate college curricula [and] courses...organizations the acm curriculum committee on [computer] education...in
+CACM-2711 : documents typical [evaluation] results are shown demonstrating the...a vector space [model] for automatic indexing in...a document retrieval or other [pattern] matching environment...the
+CACM-1359 : [data] filtering applied to information storage [and] retrieval...each [data] string with the structured [data] environment...applications manipulation of [data] strings is the most...complex
+CACM-1831 : a comment on optimal tree structures cacm october...1969 stanfel l e information retrieval file searching...tree structures double chaining 3.70 3.73 3.74...
+CACM-2979 : [and] risk [and] human problem solving [and] learning...inferences [and] form [and] optimize heuristic rules [and]...large scale programming systems [and] novel programming [techniques]...under
+CACM-2157 : average binary search length for dense ordered lists...cacm september 1971 flores i madpis g searching...binary searching record retrieval 3.74...
+CACM-2372 : between [data] dependent [and] [data] independent decision rules...are decision rules [and] whose row [and] column...indices are users [and] [data] items respectively a...be
+CACM-1627 : capacities of certain [data] management [and] information retrieval...a [computer] storage system is described this technique...[and] its application to the multilevel store is...application
+CACM-1515 : a [computer] system for inference execution [and] [data]...[data] a system called relational [data] file was...developed for this purpose the relational [data] file...is
+CACM-3169 : note on an optimal [evaluation] of boolean expressions...[evaluation] information retrieval 3.50 3.70 3.74...in an online query system cacm october 1979...gudes
+CACM-0440 : reliable systems for searching [and] updating any large...on the basis of names [and] other personal...linkage of vital [and] health records into family...described
+CACM-1808 : advanced cryptographic [techniques] for computers cryptographic [techniques] which...[computer] files that make many cryptographic methods of...little use relative security costs [and] preferred methods...can
+CACM-0651 : a survey of languages [and] systems for information...retrieval cacm january 1962 grems m...
+CACM-2092 : systems [data] structures [and] their semantic organization the...operators [and] the question-answering procedures which [employ] these...illustrated examples of the systems [performance] [and] of...changes
+CACM-2319 : w c [computer] system operating system [performance] [evaluation]...information [and] a large [number] of models for...operating [and] [computer] systems cacm july 1972 lynch...[performance]
+CACM-2530 : an algorithm for extracting phrases in a space-optimal...fashion z algorithm a444 cacm march 1973 wagner...r a information retrieval coding text compression 3.70...5.6
+CACM-2970 : relies the paper illustrates the method [using] the...empty [and] idle state as the regenerative state...a second example then describes how [using] the...achieving
+CACM-2879 : [computer] science as empirical inquiry symbols [and] search...symbols search science [computer] science empirical turing artificial...cacm march 1976 newell a simon h a...intelligence
+CACM-1267 : [performance] of systems used for [data] transmission transfer...information thruput as a characteristic of systems [performance]...of information bits trib of residual errors [and]...an
+CACM-1108 : moon a study of lunar tracking [techniques] [and]...the entire system [and] the effect [data] processing...sensor digital [computer] [and] tracker drive mechanism the...purpose
+CACM-3087 : flight [and] maintenance [data] [using] a system called...clarifying partially understood questions [and] resolving ellipsis [and]...planes the design [and] implementation of this system...is
+CACM-2394 : ordering -f-f-f -fx when fx is positive monotonic...cacm january 1972 salzer h e ordering storage...retrieval positive functions monotonic functions increasing functions decreasing...function
+CACM-2948 : detection [and] correction on the telephone lines [and]...system for full-duplex communication between a time-shared [computer]...[and] its terminals the system consists of a...communications
+CACM-1938 : perform first-level quantitative time-sharing system [performance] [evaluation] cacm...[evaluation] of time-sharing systems particularly difficult six criteria...some criteria for time-sharing system [performance] time-sharing systems...january
+CACM-1506 : the laconiq laboratory [computer] online inquiry monitor was...a dialogue between a system user [and] a...it could work with a small [computer] an...ibm
+CACM-1412 : central file of [data] base [approach] toward a...a gradual [approach] to account cross-referencing [and] file...major accounting applications have been automated [and] more...sophisticated
+CACM-2375 : compared [using] the [performance] criteria of expected seek...request oriented both analytical [and] simulation results are...as another meaningful measure of [performance] showing possible...a
+CACM-2848 : synthesizing the decision rules [and] thus provide an...synthesis of decision rules decision tables can be...used as an effective tool during an interview...to
+CACM-2688 : file with given [data] [and] traffic characteristics is...a need for more careful [data] organization in...inverted file [and] similar approaches to multi-key retrieval...this
+CACM-2859 : for the simple [model] [and] also suggests that...interference in multiprocessor [computer] systems with interleaved memory...several processors simultaneously [using] several memory modules exect...results
+CACM-2781 : the algorithm sequential access method an alternative to...index sequential cacm march 1975 whitt j d...sullenberger a g keys direct access method sequential...access
+CACM-2795 : [and] inference [model] in generating sentences from meaning...[and] deduction capabilities of the memory [model] the...sentence paraphrasing from a conceptual base a [model]...on
+CACM-1381 : [and] technology is extremely significant for the understanding...development is intense [and] if properly utilized should...as well as the ideas of programming [and]...mathematicians
+CACM-2547 : representation of contours ad regions for efficient [computer]...basic pictorial features contour maps region coverage [and]...searching large files for [data] associated with geometric...[data]
+CACM-2412 : information storage [and] retrieval scatter storage searching symbol...comment on brents scatter storage algorithm cacm november...1973 feldman j a low j r hashing...table
+CACM-1527 : of a sentence [recognition] device for the class...[recognition] device of this sort for the following...questions in the normal situation since the [recognition]...sentences
+CACM-2114 : file structure directory decoding [and] record retrieval are...defined [and] from which some of the frequently...files [and] multilist files are derived two algorithms...a

@@ -1,0 +1,1 @@
+a note on data base deadlocks cacm july  1970 baecker  h  d  data base  synchronization  locking  deadlock  reference count 3.73

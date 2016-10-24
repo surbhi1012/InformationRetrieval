@@ -1,0 +1,100 @@
+CACM-1186 : recursive solution [of] a class [of] combinatorial problems...an example combinatorial problems requiring [the] selection [of]...[of] [the] problems cacm october 1965 lynch w...n
+CACM-0514 : binomial coefficients algorithm 19 cacm august 1962 george...r...
+CACM-0569 : binomial coefficients algorithm 19 cacm june 1962 steck...b...
+CACM-0139 : binomial coefficients algorithm 19 cacm october 1960 kenyon...r r...
+CACM-2210 : relation between [the] version [of] [the] induction rule...used and [the] form [of] [the] program constructed...is illustrated by [the] automatic construction [of] both...is
+CACM-2391 : unitary symmetric polynomials z algorithm r391 cacm january...1972 schrack g f symmetric polynomials elementary symmetric...polynomials unitary symmetric polynomials polynomial synthesis reverse horner...scheme
+CACM-2031 : [of] n integers a new version [of] [the]...[of] arithmetic operations and [the] number [of] storage...[of] iterations [of] [the] euclidean algorithm for two...locations
+CACM-2986 : a grammer [the] heart [of] [the] algorithms is...on steps where n is [the] size [of]...boolean matrices or directed graphs such as [the]...computation
+CACM-2769 : a modification [of] warshalls algorithm for [the] transitive...for computing [the] transitive closure [of] a binary...closure [of] binary relations an algorithm is given...[the]
+CACM-2229 : [of] [the] three elementary operations [of] addition subtraction...construction [of] rational and negative powers [of] a...generation [of] fractional and negative powers [of] any...basically
+CACM-2648 : makes heavy use [of] [the] macro language and...determine [the] unique factorization [of] large integers cacm...a design for a number [theory] package with...an
+CACM-2981 : specification without [the] use [of] an invariant [the]...[the] induction steps [of] a proof by subgoal...presented as an alternative or supplement to [the]...induction
+CACM-1817 : computation [of] fourier coefficients algorithm 255 c6 cacm...november 1969 hall g ray v a [numerical]...integration fourier coefficients filons method 5.16...
+CACM-2834 : is constant applications to [the] generation [of] [the]...time [the] compositions [of] integers and [the] permutations...efficient generation [of] [the] binary reflected gray code...[of]
+CACM-2028 : greatest common divisor [of] n integers and multipliers...h greatest common divisor euclidean algorithm number [theory]...a1 algorithm 386 cacm july 1970 bradley g...diophantine
+CACM-0203 : decoding combinations [of] [the] first n integers taken...k at a time cacm april 1960 brown...r m...
+CACM-0679 : [the] binomial coefficients [in] [the] area [of] logical...discusses recent improvements [in] [the] language [in] three...[the] area [of] complex display [the] most prominent...displayed
+CACM-1727 : [the] paper using [the] [theory] [of] [the] markov...[the] mean value [of] [the] number [of] jumps...instruction [in] [the] run time [in] [the] cases...[the]
+CACM-2416 : matrix transposition [in] place f1 algorithm a467 cacm...primitive roots number [theory] 3.15 5.14 5.39...november 1973 brenner n transposition matrix operations permutations...
+CACM-1567 : [of] [the] [theory] [of] [the] symmetric group such...[of] [the] roots [of] a polynomial is suggested...on [the] representation [of] symmetric polynomials relations are...given
+CACM-1417 : economies [of] scale and [the] ibm system360 cost...to be applicable to much [of] [the] data...sizable economies [of] scale are unquestionably present [in]...examinations
+CACM-2199 : a sparse matrix package part [i] f4 algorithm...408 cacm april 1971 mcnamee j m matrix...sparse matrix matrix manipulation 5.14...
+CACM-1308 : [the] common [information] requirements [of] computer-aided engineering drawing...flexibility [of] a mathematical model takes advantage [of]...by judicious control [of] man-machine [communication] requirements improved...specify
+CACM-3035 : [of] [the] delivery [of] computing services to [the]...problems associated with [the] strategic planning [of] [the]...methodology was implemented [the] effectiveness [of] [the] planning...methodology
+CACM-3148 : part [of] an ambitious program [of] development [in]...distributed and other loosely coupled [systems] is a...approach to distributed computing at [the] level [of]...[of]
+CACM-2613 : mckay j regener [e] transitivity sets 5.39...transitivity sets g7 algorithm a482 cacm august 1974...
+CACM-2476 : andor graphs language [theory] context-free grammars 3.60 3.64...equivalence between andor graphs and context-free grammars cacm...july 1973 hall p a v artificial intelligence...5.23
+CACM-2885 : shown to be [the] more efficient [of] [the]...a class [of] heuristics for maintaining a sequential...list [in] approximately optimal order with respect to...[the]
+CACM-2857 : between [the] ends [of] a list is redundant...into a list structure is a pair [of]...if [the] list is always referenced by that...[of]
+CACM-1948 : [computers] [in] group [theory] a survey [computers] are...manipulation [systems] [in] this survey [the] more important...problems [in] group [theory] [the] most important areas...being
+CACM-2484 : ring etc thus [the] problem [of] [information] organization...results [in] different [information] structures as list tree...j c data base data-base management [information] [retrieval]...a
+CACM-1887 : a recursive relation for [the] determinant [of] a...minors is developed for [the] determinant [of] a...pentadiagonal matrix a [numerical] example is included to...indicate
+CACM-0717 : partitioning algorithms for finite sets [the] partitions [of]...1 all partitions [of] [the] given set 2...all partitions [of] [the] given set into m...all
+CACM-1862 : [the] severe technological and economic constraints [of] [the]...developing nation consequently [in] [the] absence [of] conscious...and academic activities are limited [the] number [of]...[computers]
+CACM-0147 : report on a conference [of] university computing center...directors cacm october 1960...
+CACM-0545 : adjust inverse [of] a matrix when an element...is perturbed algorithm 51 cacm july 1962 george...r...
+CACM-0350 : adjust inverse [of] a matrix when an element...is perturbed algorithm 51 cacm april 1961 herndon...j r...
+CACM-1935 : offers new potential for [information] [retrieval] [systems] cacm...binary pattern file examination graph [theory] [information] [retrieval]...developed for [the] mean and variance [of] [the]...[in]
+CACM-0495 : several parameters [the] coefficients [of] [the] normal equations...evaluate [the] precision measures [of] [the] resulting parameters...a [computer] [of] given [memory] capacity to handle...[the]
+CACM-0248 : [of] [the] panelists or other participants [in] [the]...garnered by [the] moderator [of] [the] panel and...what is proprietary [in] mathematical programming-impressions [of] a...proprietary
+CACM-1565 : make arbitrary transformations [of] [the] argument strings [the]...with a macro facility plus [the] ability to...program is used at [the] basser computing department...university
+CACM-2327 : [the] [theory] this paper suggests [the] ways [in]...an understanding [of] how [the] brain processes [information]...[of] ideas for automata theory-the study [of] [the]...brain
+CACM-0852 : a method [of] comparing [the] time requirements [of]...sorting methods cacm may 1963 hall m h...
+CACM-2169 : amount [of] machine dependence [in] [the] implementation thus...easily on a variety [of] computing machines [in]...this paper a brief description [of] [the] language...[the]
+CACM-2096 : face [of] [uncertainty] [the] mini-max procedure assigns to...a max min node [the] value [of] [the]...written [in] lisp to play [the] game [of]...been
+CACM-1707 : generation [of] positive test matrices with known positive...spectra sufficient conditions are given for a real...matrix to be similar to a positive matrix...this
+CACM-0373 : correlation coefficients with matrix multiplication algorithm 39 cacm...march 1961 sassouni p...
+CACM-3037 : performed [in] unit time [the] method has [the]...to find [the] prime factorization [of] all integers...primes between 2 and n [the] algorithm executes...[in]
+CACM-2851 : [the] latter model includes [the] capability for [the]...enumeration [of] [the] set [of] all possible control...representation [of] an infinite set [of] control states...[the]
+CACM-1922 : [the] usa standarad code for [information] interchange cacm...pollingselection procedures [communication] [communication] control procedures [communication] establishmenttermination...march 1969 data [communication] data [communication] control procedures...data
+CACM-1393 : [systems] [the] pm subroutines for arithmetic [of] large...[of] polynomials [in] any number [of] variables with...integral coefficients unrestricted [in] size some [of] [the]...[in]
+CACM-0269 : core allocation [based] on probability cacm october 1961...riskin b n...
+CACM-0382 : statistical programs at [the] university [of] north carolina...cacm february 1961 bush n...
+CACM-0241 : [of] entries [in] [the] probability distribution [the] method...a machine [of] [the] moments [of] a probability...[of] [the] minimum [of] n multiplication 2n additions...machine
+CACM-1914 : matrix scaling by integer programming algorithm 348 f1...cacm april 1969 klimpel r r integer programming...linear algebra mathematical programming matrix condition matrix scaling...5.14
+CACM-1521 : multi-dimensional partition generator algorithm 313 a1 cacm october...1967 bratley p mckay j k s...
+CACM-2780 : on computing certain elements [of] [the] inverse [of]...[the] inverse [of] a matrix from [the] lu...factors [based] on relationships [in] takahashi et al...is
+CACM-3010 : to [the] complexity [of] value structures [computer] [science]...value orientation [of] [computer] [science] students technological and...[of] 313 students at [the] university [of] minnesota...[in]
+CACM-3156 : find [the] connected components [of] an undirected graph...find [the] transitive closure [of] a symmetric boolean...to a common [memory] simultaneous access to [the]...computing
+CACM-1384 : for an undergraduate program [in] [computer] [science] are...mathematics for undergraduate [computer] scientists [the] mathematical requirements...a subject [of] debate [the] association for computing...are
+CACM-1997 : presented for [the] analysis [of] various generalizations [of]...is derived expressing a [in] terms [of] [the]...probability distribution [of] [the] bound [of] a partition...[of]
+CACM-1072 : scan [of] [the] equivalence declarations [the] method is...storage on [the] basis [of] equivalence dimension and...common declarations is presented [the] algorithm is [based]...applicable
+CACM-1549 : [of] machine independence finally [the] application [of] [the]...[of] any list processing system [in] this paper...past solutions [of] [the] recovery problem are reviewed...written
+CACM-3186 : dijkstra [e] w go to statement jump instruction...go to statement considerd harmful cacm march 1968...branch instruction conditional clause repetitive clause program intelligibility...program
+CACM-3204 : time-shared [computer] [the] q-32 [computer] as system development...an on-line program for non-numerical algebra [the] goal...[of] this program is to make a step...toward
+CACM-1694 : [the] sums [of] [the] products [of] all possible...an algorithm for [the] probability [of] [the] union...[of] a large number [of] events an algorithm...[the]
+CACM-1403 : [of] positive integers [the] minimum value [of] a...set s is assumed on [the] set [of]...on ordered pairs [of] positive integers [the] method...a
+CACM-0003 : techniques department on matrix program schemes cacm december...1958 friedman m d...
+CACM-1604 : results are interpreted [in] terms [of] [the] properties...as statistical measures [of] other interesting properties [the]...[of] [the] system studied cacm may 1967 walter...further
+CACM-0731 : presentation is [in] [the] form [of] fortran programs...imbeding [in] higher level languages capable [of] calling...functions and subroutines coded [in] machine language [the]...symmetric
+CACM-0453 : enlargement [of] a group algorithm 136 cacm november...1962 wells m...
+CACM-0725 : group participation [computer] demonstration cacm october 1963 mccormick...[e] m...
+CACM-1423 : [in] [the] second case [the] algorithm yields [the]...[the] advantage [of] avoiding [the] loss [of] significance...[of] a matrix [the] generalized inverse [of] a...an
+CACM-2197 : [role] [in] [the] effectiveness [of] [the] network a...[the] merit [of] regional computing networks one [of]...[the] suggested means for stimulating [the] spread [of]...reports
+CACM-3027 : [the] development [of] [the] mu5 [computer] system following...a brief outline [of] [the] background [of] [the]...[of] [the] processor is then traced from [the]...[the]
+CACM-1109 : coefficients for [the] expansion [of] [the] logarithm and...conversion [of] a power to a series [of]...appropriate sequence transformations are used [in] evaluating [the]...coefficients
+CACM-2668 : [the] system [based] on [memory] states control states...general [in] [the] sense that [the] page fault...fault probability [in] a virtual [memory] system operating...and
+CACM-2326 : following [the] fix point [theory] [of] scott [the]...fix point approach to [the] [theory] [of] computation...semantics [of] [computer] programs are defined [in] terms...[of]
+CACM-3086 : on [the] complexity [of] computing [the] [measure] [of]...[the] [measure] [of] [the] union [of] n possibly...[the] interval endpoints are allowed [the] existence [of]...effects
+CACM-0069 : statistical programs for [the] ibm 650-part [i] a...collection is given [of] brief descriptions [of] statistical...programs now [in] use [in] university computing centers...which
+CACM-1638 : [of] [the] length [of] [the] j-th sequence [the]...[of] [memory] cells used [the] expected length [of]...[the] assumption that n [the] number [of] items...selecting
+CACM-2520 : good d [i] proof [of] algorithms greatest common...greatest common divisor [of] n integers and multipliers...algorithm c386 cacm april 1973 ragland l c...divisor
+CACM-2081 : is introduced with [the] intention [of] developing data...for mathematical programming [the] paper investigates how [the]...[of] sequences [of] matrices are considered and matrix...[of]
+CACM-0727 : suppliedxtension [of] [the] method [in] a natural way...on [the] approximate solution [of] deltaufu three-dimensional dirichlet...by an exceptionally fast exceptionally accurate [numerical] method...programming
+CACM-1784 : [the] integrals [of] some [of] [the] polynomials [in]...[the] assumption that [the] quadrature rule was exact...and weights and since [the] true values [of]...these
+CACM-2446 : analysis [of] skew representations [of] [the] symmetric group...algorithm a455 cacm september 1973 hunter d b...williams j m symmetric group skew representation partition...young
+CACM-1609 : approach to [the] problem [of] scheduling course examinations...very small expenditure [of] time results [of] experiments...scheduling university course examinations by [computer] a new...is
+CACM-2149 : series cauchy integral [numerical] integration [numerical] differentiation interpolation...entcaf and entcre evaluation [of] normalized taylor coefficients...[of] an analytic function c5 algorithm 413 cacm...october
+CACM-2457 : and extension [of] known results about computation [of]...[of] recursive programs discussed [in] detail are two...inductive methodsfor proving properties [of] programs there are...two
+CACM-1870 : some techniques for using pseudorandom numbers [in] [computer]...numbers [in] which [the] probability that each bit...[in] [the] word is a 1-bit and can...use
+CACM-2387 : centralization decentralization economics [of] [computers] [computer] management economies...maximum computing power and cost factors [in] [the]...centralization problem a simple analysis [of] some computer-economic...factors
+CACM-2289 : [of] [the] possibilities for parallel processing [in] this...a major challenge [in] [the] effective use [of]...is [the] determination [of] algorithms that exploit [the]...and
+CACM-1477 : euler a generalization [of] algol and its formal...definition part ii cacm february 1966 wirth n...weber h...
+CACM-1765 : characterize [the] utilization [of] [computers] used for research...and instruction [in] institutions [of] higher education [in]...expenditures sources [of] funds and utilization [of] digital...[computers]
+CACM-2153 : [the] result [of] testing [the] system independent [of]...[numerical] methods cai instructional [systems] 1.52 3.62 5.10...[in] [numerical] methods each instructional unit or lesson...[in]
+CACM-1525 : n2 [in] this paper [the] fast fourier transform...values are given [the] problem [of] computing a...[computer] with 215 words [of] core storage this...exceeds
+CACM-1836 : two-dimensional precedence matrix often [the] [information] [in] [the]...for precedence grammars [the] precedence relations [of] a...pair [of] vectors called linear precedence functions a...new
+CACM-1334 : mechanization [of] tedious algebra [the] newcomb operators [of]...operators [of] planetary [theory] [the] newcomb operators are...planetary [theory] a [computer] program has been written...to
+CACM-2220 : coding decision table entropy [information] [theory] noiseless channel...conversion [of] limited-entry decision tables to [computer] programs-a...a [computer] program two modifications [of] this algorithm...coding
+CACM-2373 : properties [of] [the] working-set model a programs working...set [of] distinct pages among [the] t most...size [the] missing-page rate and [the] interreference-interval distribution...set

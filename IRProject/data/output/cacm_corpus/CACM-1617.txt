@@ -1,0 +1,1 @@
+eigenvalues and eigenvectors of the symmetric system algorithm 297 f2 cacm march  1967 boothroyd  j

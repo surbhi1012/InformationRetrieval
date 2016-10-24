@@ -1,0 +1,1 @@
+variable-width tables with binary-search facility cacm february  1958 halpern  m

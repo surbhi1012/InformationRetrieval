@@ -1,0 +1,100 @@
+CACM-2473 : hidden-line plotting program algorithm r420 cacm july 1973...macleod i d g collins a m hidden-line...plot surface plot 4.9...
+CACM-2384 : hidden-line plotting program j6 algorithm a420 cacm february...1972 williamson h hidden-line plot surface plot 4.9...
+CACM-2638 : hidden-line plotting program algorithm r420 cacm june 1974...gaither b...
+CACM-2441 : hidden-line plotting program algorithm r420 cacm september 1973...williamson h...
+CACM-2637 : hidden-line plotting program algorithm r420 cacm june 1974...ellis t m r...
+CACM-2564 : hidden-line plotting program algorithm r420 cacm december 1974...ellis t m r...
+CACM-2678 : march 1974 wright t hidden line problem [computer]...visible surface plotting program j6 algorithm a475 cacm...graphics contour surface 3.65 4.41 8.2...
+CACM-2913 : the display can attenuate them an understanding [of]...paper explains the observed defects in terms [of]...for evaluating filters is presented the application [of]...implementation
+CACM-2674 : display raster scan [computer] graphics [with] real time...the capabilities [of] this organization to include general...over that [of] a conventional raster display the...[and]
+CACM-2004 : a procedure for generation [of] three-dimensional half-toned [computer]...algorithm for producing [computer] generated half-tone presentations [of]...[and] implemented also [on] the coordinated [science] laboratory...cdc
+CACM-2692 : ordered sequence [of] vertices without repetition [of] first...provides for arbitrary view angles [and] depth [of]...reentrant polygon clipping a new family [of] clipping...three
+CACM-1978 : [of] the insight [and] visual capabilities [of] the...problems [with] the advent [of] on-line time-sharing [computer]...the use [of] interactive graphics to solve numerical...ordinary
+CACM-2285 : a wide range [of] problems [and] the results...[computer] routine for quadratic [and] linear programming problems...h algorithm a431 a [computer] program based [on]...be
+CACM-2751 : [computer] generated images [of] three-dimensional scenes depends [on]...illumination for [computer] generated pictures the quality [of]...[of] object modeling [and] the related hidden surface...surface
+CACM-0578 : generation [of] partitions in part-count form algorithm 95...cacm june 1962 stockmal f...
+CACM-2924 : created by the combination [of] a number [of]...representation [of] the sectional curves at [all] stages...developed for the rapid generation [of] arbitrary shaped...three-dimensional
+CACM-2188 : the capabilities [of] the graphics hardware [and] [of]...cost [and] the distribution [of] data storage [and]...the parameters [of] the model are functions [of]...prediction
+CACM-2827 : up [of] patches [of] quadric surfaces is described...the [emphasis] [of] this algorithm is [on] calculating...is represented as a [set] [of] coefficients [and]...[of]
+CACM-1741 : display system investment [of] 50,000 each display [with]...[of] the desired display in a [computer] the...point [on] the screen the inverse [of] the...coordinates
+CACM-2825 : the bmd [and] bmdp series [of] statistical [computer]...[of] variance cluster analysis contingency tables data analysis...programs cacm october 1976 frane j w analysis...discriminant
+CACM-1172 : conversion [of] limited-entry decision tables to [computer] programs...[of] complex decision rules based [on] given sets...[of] decision tables to [computer] users two such...[of]
+CACM-2368 : is a good example [of] the implementation [of]...is guaranteed the existence [of] a winning strategy...games in this tutorial paper a [computer] program...these
+CACM-2453 : information theory applied to the conversion [of] decision...tree structured [computer] program [with] near minimum average...cost [of] testing conditions be equal it is...algorithms
+CACM-3049 : [on] a variety [of] graphical hardware [and] for...major components [of] the system the design [of]...[of] communicating the descriptions [of] graphical entities between...needs
+CACM-2402 : pictorial pattern recognition [and] the phase problem [of]...x-ray crystallography the availability [of] interactive three-dimensional [computer]...[of] approaches to x-ray structure determination based [on]...the
+CACM-2657 : in 1969 the correctness [of] the improved algorithm...an improved program-synthesizing algorithm [and] its correctness an...improved program-synthesizing algorithm based [on] the algorithm proposed...by
+CACM-2211 : core [memory] [of] the [computer] [and] software scan...[of] large amounts [of] data are possible [with]...[of] a point to the appropriate word [and]...been
+CACM-2273 : mask methods [with] those [of] tree methods cacm...conversion [of] decision tables by rule mask method...operations immediately rather than at the end [of]...combine
+CACM-2904 : [optimization] [of] compiled code program analysis operator strength...[optimization] algorithms cacm november 1977 cocke j compilers...an algorithm for reduction [of] operator strength a...to
+CACM-2761 : visible surface plotting program algorithm r475 cacm may...1975 mashburn r g...
+CACM-2760 : visible surface plotting program algorithm r475 cacm may...1975 doran c j...
+CACM-1145 : [of] running time [on] a very high speed...git-a heuristic program for testing pairs [of] directed...line graphs for isomorphism given a pair [of]...directed
+CACM-2426 : algorithms scale1 scale2 [and] scale3 for determination [of]...scales [on] [computer] generated plots j6 algorithm a463...cacm october 1973 lewart c r plotting scaling...for
+CACM-0266 : fitting spheres by the method [of] least squares...cacm november 1961 robinson s m...
+CACM-2994 : a linear algorithm for incremental digital display [of]...using only sign testing [and] elementary addition [and]...circular arcs circular arcs can be drawn [on]...an
+CACM-0251 : [computer] program for the rapid calculation [of] manufacturing...data essential to the design [of] preproduction cams...which are utilized in ballistic computers [of] tank...ballistic
+CACM-2078 : objective function primarily consists [of] derivatives [of] the...[of] objects in two- or three-space where the...problem area are defined [and] compared [with] current...[computer]
+CACM-1946 : [of] propagation [of] errors caused by truncation [of]...step [of] computation in solving systems [of] polynomial...p algorithm algorithms for computing the resultant [of]...real
+CACM-2602 : masked three-dimensional plot program [with] rotations j6 algorithm...a483 cacm september 1974 watkins s l plotting...three-dimensional plotting 4.41...
+CACM-2520 : greatest common divisor [of] n integers [and] multipliers...good d i proof [of] algorithms greatest common...algorithm c386 cacm april 1973 ragland l c...divisor
+CACM-1384 : for an undergraduate program in [computer] [science] are...a subject [of] debate the association for computing...[of] physical sciences undergraduate programs the committee believes...that
+CACM-2687 : in the read only [memory] [of] the character...resulting dot patterns are identical [with] those [of]...raster scan [computer] graphics displays [with] real time...capabilities
+CACM-2369 : method is presented [of] determining which parts [of]...about one axis [and] provides a means [of]...which the relationships [of] two polygons can be...the
+CACM-2598 : [of] converting decision tables into efficient flowcharts [and]...the well-understood problem in information theory [of] noiseless...coding the results [of] the noiseless coding literature...are
+CACM-2220 : conversion [of] limited-entry decision tables to [computer] programs-a...a [computer] program two modifications [of] this algorithm...coding theorem [and] the communications concept [of] entropy...which
+CACM-2899 : a survey [of] [computer] [science] offerings in small...[of] [computer] [science] programs being offered in these...[science] together [with] student in terest in pursuing...topics
+CACM-1453 : [of] the algorithm to [all] [of] algol is...a nonrecursive method [of] syntax specification the use...[of] the kleene regular expression notation for describing...algebraic
+CACM-2919 : done [on] the same machine [on] which the...basic sections [of] the paper in troduce the...1977 ivie e l [computer] configurations [computer] networks...the
+CACM-2969 : an [optimization] procedure for the allocation [of] program...optimal program [and] data locations in [computer] networks...[and] data files in a [computer] network is...is
+CACM-2771 : [of] solid objects to be synthesized [and] [stored]...[of] easily imagined solidsuite short sequences [of] operations...the synthesis [of] solids bounded by many faces...using
+CACM-2902 : investigates the performance [of] 35 dynamic [memory] allocation...measured in terms [of] processing time [memory] usage...free space lists for each size [of] [memory]...[with]
+CACM-3149 : the cyclic order property [of] vertices as an...pictures [of] such bodies particularly when the line...the existence [of] three-dimensional bodies corresponding to given...three-dimensional
+CACM-2829 : extensions [of] this algorithm in the areas [of]...average [of] regions [of] the pattern definition function...texture simulation [and] lighting models the parameterization [of]...the
+CACM-1919 : an efficient algorithm for sorting [with] minimal storage...c sorting minimal storage sorting digital [computer] sorting...algorithm 347 m1 cacm march 1969 singleton r...5.31
+CACM-1980 : an efficient algorithm for sorting [with] minimal storage...sorting ranking minimal storage sorting digital [computer] sorting...algorithm 347 m1 cacm october 1970 peto r...5.31
+CACM-1205 : committee [on] [computer] [science]...an undergraduate program in [computer] science-preliminary recommendations cacm...september 1965 a report from the acm curriculum...
+CACM-1181 : [of] a type originating in many laboratory situation...studies [of] nerve impulses cacm october 1965 neilsen...direct to a central [computer] the method requires...almost
+CACM-1829 : [of] the existing hardware [and] [computer] system are...discussed the structure [of] the monitor program [and]...where routine calls take the place [of] manual...[on]
+CACM-3130 : [computer] [science] [of] the curriculum committee [on] [computer]...[computer] [science] curriculum [computer] [science] education [computer] [science]...[science] c3s [of] the association for computing machinery...[science]
+CACM-1747 : [of] a virtual [computer] are explained examples [of]...[of] the criteria the notion [of] an abstract...applications [of] the criteria concern the reading [of]...machine
+CACM-2903 : program transformation [optimization] [of] programs recursion elimination pattern...[of] knuth morris [and] pratt can be derived...improving programs by the introduction [of] recursion a...new
+CACM-2244 : product type trapezoidal integration algorithm a436 cacm december...1972 boland w r numerical integration product type...quadrature trapezoidal integration 5.16...
+CACM-2486 : [computer] photocomposition [of] technical text in [computer] assisted...typesetting by means [of] photocomposition [special] problems arise...[of] [special] characters foreign alphabets mathematical symbols etc...line
+CACM-2243 : product type simpsons integration d1 algorithm a437 cacm...december 1972 boland w r numerical integration product...type quadrature simpsons rule 5.16...
+CACM-2094 : the application to problems [of] this type [of]...properties which permit the application [of] [special] algorithms...mainly based [on] the exchange algorithms [of] remes...[on]
+CACM-3006 : [and] reference string examples [of] various anomalies are...[of] anomalous behavior which may occur in paged...[of] anomaly for example concerns the fact that...[with]
+CACM-1727 : one way [of] estimating frequencies [of] jumps in...[of] the values [of] sij where sij is...the mean value [of] the number [of] jumps...ways
+CACM-1742 : [of] physical separation between display [and] parent [computer]...[on] the design [of] display processors the flexibility...[of] [instructions] that it is best understood as...[and]
+CACM-2242 : product type two-point gauss-legendre-simpsons integration d1 algorithm a438...cacm december 1972 boland w r numerical integration...product type quadrature gaussian quadrature simpsons rule 5.16...
+CACM-2241 : product type three-point gauss-legendre-simpsons integration d1 algorithm a439...cacm december 1972 boland w r numerical integration...product type quadrature gaussian quadrature simpsons rule 5.16...
+CACM-0756 : a [computer] program for editing the news cacm...august 1963 danielson w a briggs b...
+CACM-0253 : minimum cover [of] an abstract complex cacm november...[on] a program for ray-chaudhuris algorithm for a...1961 foata d c...
+CACM-1551 : code which minimizes the frequency [of] storing [and]...recovering the partial results [of] the arithmetic expressions...[on] compiling algorithms for arithmetic expressions this paper...deals
+CACM-0087 : a note [on] a method for generating points...uniformly [on] n-dimensional spheres cacm april 1959 muller...m e...
+CACM-2421 : data structure to process the lines [of] the...drawing in strips corresponding to groups [of] scan...a group [of] scan lines when this portion...[of]
+CACM-2714 : m [and] n are [of] the same order...[of] magnitude i e nkm [with] k being...an algorithm for merging a [and] b [with]...case
+CACM-2855 : extensions [of] the algorithm are discussed cacm june...list [and] the copy the original list is...algorithm is superior in [execution] speed to previous...algorithms
+CACM-2366 : insure the continuity [of] the function value [and]...[with] regard to the effectiveness [of] this error...function [of] a complex variable is presented the...to
+CACM-2973 : sorting [on] a mesh-connected parallel [computer] two algorithms...[on] routing [and] comparison steps the best previous...[of] this paper are shown to be optimal...are
+CACM-2325 : complexity synthesis [and] analysis [of] algorithms analysis [of]...[of] the components [of] numerical mathematics are discussed...numerical mathematics [and] [computer] [science] numerical mathematics is...viewed
+CACM-2152 : discusses some [of] these problems [and] suggests an...[of] pictures [and] to speed up their generation...conditionally [and] also facilitate the processing [of] inputs...display
+CACM-2209 : university [of] tennessee notation is defined [and] the...logic [of] the algorithm necessary to implement educational...a scheduling algorithm for a [computer] assisted registration...in
+CACM-0648 : sorting procedures algorithm 76 cacm january 1962 flores...i...
+CACM-3154 : as consisting [of] a logic component which specifies...strategies by means [of] which that knowledge is...used the logic component determines the meaning [of]...its
+CACM-2041 : sorting digital [computer] sorting 5.31...shellsort algorithm 201 m1 cacm june 1970 chandler...j p harrison w c sorting minimal storage...
+CACM-0071 : any [of] a variety [of] machines having characteristics...a large [set] [of] characters [and] indirect addressing...similar to those [of] the facilitys [computer] one...digital
+CACM-1343 : havie integrator algorithm 257 d1 cacm december 1966...farkas i...
+CACM-2118 : an efficient algorithm for sorting [with] minimal storage...[computer] sorting 5.31...algorithm 347 m1 cacm january 1970 griffin r...redish
+CACM-1616 : which is capable [of] calculating various quantities [of]...tensor calculations [on] [computer] appendix in the main...text [of] the paper comm acm 9 12...as
+CACM-2820 : the design [and] implementation [of] a table driven...him [find] the cause [of] his error most...course [on] introductory [computer] [science] cacm november 1976...interpreters
+CACM-2967 : a comparison [of] hardware [and] software associative memories...in the context [of] [computer] graphics the associative...[and] retrieves two-dimensional line drawings consisting [of] poin...[with]
+CACM-0967 : complementary error function algorithm 181 s15 cacm december...1964 clausen i hansson l...
+CACM-2362 : fortran paged [memory] virtual [memory] array processing 4.22...linear equation solver f4 algorithm a423 cacm april...1972 moler c b matrix algorithms linear equations...4.32
+CACM-2930 : establishment [of] the advanced [computer] [science] test are...a [set] [of] sample questions is included cacm...the gre advanced test in [computer] [science] this...report
+CACM-0201 : bessel funtion i series expansion algorithm 5 cacm...april 1960 clarke d s...
+CACM-0200 : bessel function i asymptotic expansion algorithm 6 cacm...april 1960 clarke d s...
+CACM-0971 : variety [of] logically distinct [computer] programs [all] competing...toronto traffic signal control system consists [of] a...to execute in the order [of] a predefined...in
+CACM-1345 : tensor calculations [on] the [computer] a formac program...has been written which is capable [of] calculating...various quantities [of] interest in tensor calculus using...this
+CACM-3032 : packet is for delivery to [all] nodes [of]...reverse path forwarding [of] broadcast packets a broadcast...transmission [of] separately addressed packets 2 multidestination addressing...[of]
+CACM-2100 : ortho algorithm 127 f5 cacm february 1970 barrodale...i orthogonalization approximation 5.13 5.17 5.5...

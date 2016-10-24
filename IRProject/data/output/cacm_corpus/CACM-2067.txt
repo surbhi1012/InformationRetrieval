@@ -1,0 +1,1 @@
+comment on lawlers multilevel boolean minimization cacm april  1970 devries  r  c  multilevel logic design  generalized prime implicants  minimal forms  minimization  incompletely specified functions 6.1

@@ -1,0 +1,100 @@
+CACM-2634 : now offer various [types] [of] statistical packages for...[and] use tests were made for each [of]...an evaluation [of] statistical software in the social...analysis
+CACM-1709 : [a] modification [of] efroymsons technique for stepwise regression...n x n matrix [of] [data] when the...[number] [of] variables n is large this requirement...computations
+CACM-1344 : [specifications] an efficient method [of] performing calculations for...statistical models [of] [a] balanced complete nature is...presented fixes mixed [and] random analysis [of] variance...upon
+CACM-2825 : the bmd [and] bmdp series [of] statistical computer...[of] variance cluster analysis contingency tables [data] analysis...programs cacm october 1976 frane j w analysis...discriminant
+CACM-1631 : [and] the results [of] the tests are presented...testing [a] random [number] generator the first 1,000,000...numbers produced by the random [number] generator used...in
+CACM-1171 : [a] comparison [of] the primal-simplex [and] primal-dual algorithms...for linear [programming] [a] statistical comparison [of] the...constraints [and] the [number] [of] variables but also...under
+CACM-1420 : root [of] that prime this generator passes the...[a] new uniform pseudorandom [number] generator [a] new...accumulator capacity [and] the multiplier is [a] primitive...multiplicative
+CACM-1474 : tests [of] probabilistic models for propagation [of] roundoff...to describe [a] series [of] experiments for testing...various [types] [of] special arithmetic cacm february 1966...assumed
+CACM-2395 : diagonal method [of] nonlinear regression with linear constraints...quadratic [programming] for nonlinear regression [a] quadratic [programming]...equations nonlinear regression nonlinear [programming] quadratic [programming] least...algorithm
+CACM-1637 : the comparison [of] means [and] the length [of]...spectrum [of] the generating process [and] estimation [of]...test the difference [of] the mean [of] two...problems
+CACM-1816 : generalized least squares fit by orthogonal polynomials algorithm...296 e2 cacm november 1969 watson w t...least squares curve fitting orthogonal polynomials three-term recurrence...polynomial
+CACM-0069 : collection is given [of] brief descriptions [of] statistical...statistical programs for the ibm 650-part i [a]...programs now in use in [university] computing centers...which
+CACM-1398 : the [type] [of] multivariate problem that is found...criteria for the acceptance [of] [a] variable as...new approach is outlined toward the solution [of]...well
+CACM-2216 : the cases [of] uniform [and] nonuniform distribution [of]...the [case] [of] uniform distribution [of] branching ratio...on the probability distribution [of] the values [of]...[of]
+CACM-3166 : numerical computation [of] the standard deviation [of] unweighted...sampled [data] are analyzed two [of] the algorithms...emphasis on reaching [a] suitable definition [of] accuracy...each
+CACM-0382 : statistical programs at the [university] [of] north carolina...cacm february 1961 bush n...
+CACM-1691 : [a] comparison [of] the correlational behavior [of] random...it is here empirically shown that generators [of]...up to lag 50 exhibit evidence [of] nonrandomness...field
+CACM-1874 : is shown that [a] sequence [of] positive [and]...the [type] [of] twos complement arithmetic used in...congruential generator is examined in the context [of]...the
+CACM-0050 : statistical programs for the ibm 650-part ii cacm...october 1959 hamblen j w...
+CACM-2525 : results [of] tests [of] the accuracy [of] certain...[a] statistical study [of] the accuracy [of] floating...[of] arithmetic with various numbers [of] guard digits...products
+CACM-1619 : [and] usually less costly in machine time than...b [e]...error-free methods for statistical computations neely has discussed...computational
+CACM-2373 : properties [of] the working-set model [a] programs working...set [of] distinct pages among the t most...size the missing-page rate [and] the interreference-interval distribution...may
+CACM-1732 : factorial analysis [of] variance algorithm 330 g1 cacm...june 1968 oliver i factorial variance analysis variance...statistical analysis 5.5...
+CACM-1823 : factorial analysis [of] variance algorithm g1 cacm november...1969 howell j r factorial variance analysis variance...statistical analysis 5.5...
+CACM-0942 : [number] [of] basic operations [and] [a] set [of]...that constituted [a] fairly typical piece [of] applied...large quantity [of] [data] wehave found that the...the
+CACM-1629 : [of] modification flexibility [of] input [and] detail [of]...major design criteria [of] ease [of] use ease...stat-pack [a] biostatistical [programming] package [a] package [of]...words
+CACM-1206 : define the limits [of] reliability [of] each measured...the self-judgment method [of] curve fitting [a] computer-oriented...mean values [of] the parameters [and] their mpes...in
+CACM-2249 : [a] comparison [of] multivariate normal generators three methods...generator results [of] the comparison indicate that the...method based on triangular factorization [of] the covariance...as
+CACM-2670 : advantage [of] the structure [of] [a] problem whose...efficient implementation [of] [a] variable projection algorithm for...version [of] this algorithm than has appeared earlier...for
+CACM-1252 : processing systems [of] some organizations [and] [a] symbolic...[of] system design [and] [programming] in many computer...tables is an important function [of] the [data]...towards
+CACM-2225 : combinatorics statistical design [of] experiments 5.39 5.5...circular integer partitioning a1 algorithm 403 cacm january...1971 coleman m w taylor m s partitions...
+CACM-3138 : problem [of] updating an orthogonal decomposition [of] [a]...analogous to adding an additional row [of] [data]...simplex algorithm are mentioned [a] simple means [of]...matrix
+CACM-2779 : least squares [data] fitting [a] variant [of] the...presented [and] the reason for its improved performance...orthogonal polynomials [data] fitting least squares recurrence relation...discrete
+CACM-1946 : [of] propagation [of] errors caused by truncation [of]...step [of] computation in solving systems [of] polynomial...p algorithm algorithms for computing the resultant [of]...considerations
+CACM-0536 : determining [a] set [of] values [of] the ai...which minimizes the sum [of] squares [of] differences...between observed [and] calculated values [of] [a] distinguished...nonlinear
+CACM-2999 : handling multidimensional arrays [of] [data] is presented attention...problems [of] multidimensional table [and] array processing this...is followed by [a] summary [of] some recent...computer
+CACM-0298 : distributions [of] certain low-order moments runs up [and]...[of] integers obtained from specified bits within the...generated numbers these tests substantiated the randomness [of]...all
+CACM-2488 : [of] planar [data] cacm june 1973 ferguson j...determined for the problem [of] fitting piecewise cubic...staley p [a] curve fitting [data] reduction function...involved
+CACM-1443 : [of] the intersection point [of] two helices in...space when the helical trajectories [of] two charged...measurement [and] other errors [and] do not in...[a]
+CACM-1848 : sum [of] squares [and] for solving systems [of]...1969 silverman g solution [of] equations least squares...the damped taylors series method for minimizing [a]...nonlinear
+CACM-2595 : obtained for [a] set [of] page sizes in...[a] single pass [of] the reference string this...work follows the developments [of] [a] paper by...finite-length
+CACM-1674 : in fortran programs by means [of] [a] few...wish to consider some [of] the simple fortran...to [and] from [a] subroutine convenience [and] versatility...one-line
+CACM-1644 : error accumulated during digital computation [of] [a] least...[of] the computed polynomial to get [a] better...on the computation [of] least squares polynomials rounding...approximation
+CACM-0529 : regression [and] coded patterns in [data] editing cacm...july 1962 robison d [e] aroian l [a]...
+CACM-1366 : computer simulation-discussion [of] the technique [and] comparison [of]...[and] [of] some [of] the involved in comparing...[of] tables the implications [of] this analysis for...present
+CACM-3190 : correction to economies [of] scale [and] the ibm...system360 on page 439 [a] typical instruction mix...id discussed [and] the timing computed as outlined...in
+CACM-2585 : efficient implementation [of] [a] variable projection algorithm for...nonlinear least squares problems errata cacm october 1974...krogh f t...
+CACM-2096 : [a] max min node the value [of] the...face [of] uncertainty the mini-max procedure assigns to...node some function [of] the m n highest...written
+CACM-2679 : some performance tests [of] quicksort [and] descendants detailed...refinements [of] algorithm 64 [and] all three are...comparisons than its author claims [of] all these...207
+CACM-2062 : are applied to the analysis [of] [data] generated...the application [of] sequential sampling to simulation an...inventory model for each procedure the cost [of]...computer
+CACM-2849 : 100 nodes along [a] kilometer [of] coaxial cable...no central control coordination [of] access to the...[of] packets to their destinations on the ether...based
+CACM-0533 : [of] the statistical properties [of] the noise generated...note we propose [a] method [of] generating stationary...arises in testing the performance [of] [data] processing...noise
+CACM-2101 : least squares fit by fx acosbxc algorithm 376...e2 cacm february 1970 spath h nonlinear least...squares fit 5.15...
+CACM-0840 : least squares surface fit algorithm 176 cacm june...1963 arthurs t d...
+CACM-3084 : is [a] method [of] retrieving [a] desired record...the value [of] the key [and] the statistical...n keys are uniformly distributed the [number] [of]...distribution
+CACM-2823 : the status [of] women [and] minorities in academic...computer science the results [of] [a] survey concerning...presented analysis [of] the [data] indicated that effective...programs
+CACM-1604 : further analysis [of] [a] computing center environment empirical...distributions [of] [program] lengths execution times processing times...[and] loading times [of] over 10,000 jobs serviced...[of]
+CACM-2217 : from the experience [of] pp [a] [number] [of]...[and] on problems in [a] variety [of] domains...[of] whether or not [a] particular goal is...[of]
+CACM-0048 : the use [of] [a] shift-register code with n...degree [of] redundancy is used permitting [a] single-error...application [of] the code in some detail [and]...without
+CACM-3092 : [of] application software consume [a] major portion [of]...do consume much [of] the total resources [of]...rough estimates [of] the total systems [and] [programming]...than
+CACM-0266 : fitting spheres by the method [of] least squares...cacm november 1961 robinson s m...
+CACM-0122 : least squares fitting [of] [a] great circle through...points on [a] sphere cacm november 1960 dewitte...l...
+CACM-2993 : one [of] these while giving an indication [of]...[a] class [of] linear [programming] models an investigation...occurrences [of] cycling [and] other phenomena arising in...[of]
+CACM-2480 : [and] organization [of] [a] course about [programming] designed...present [a] set [of] rules for producing well-formed...utterances to offer numerous demonstrations [of] his own...finally
+CACM-2325 : complexity synthesis [and] analysis [of] algorithms analysis [of]...[of] the components [of] numerical mathematics are discussed...viewed as the analysis [of] continuous algorithms four...[of]
+CACM-1116 : on matrices [of] zeros [and] ones [and] to...theorems on bipartite graphs some problems [of] applying...tests on [a] computer method for constructing school...timetables
+CACM-2907 : [program] the practical implications [of] this approach are...discussed [and] techniques for proving properties [of] optimal...maximal amount [of] valuable information embedded in the...the
+CACM-1578 : generalized least squares fit by orthogonal polynomials algorithm...296 e2 cacm june 1967 makinson g j...
+CACM-2238 : 1972 schuegraf [e]...least squares surface fit algorithm r176 cacm december...
+CACM-3167 : [a] method [of] improved efficiency is given for...updating the mean [and] variance [of] weighted sampled...[data] when an additional [data] value is included...updating
+CACM-1978 : [of] the insight [and] visual capabilities [of] the...the use [of] interactive graphics to solve numerical...problems with the advent [of] on-line time-sharing computer...ordinary
+CACM-0839 : least squares solution with constraints algorithm 177 cacm...june 1963 synge m j...
+CACM-0801 : least squares solution with constraints algorithm 177 cacm...july 1963 synge m j...
+CACM-0126 : least squares fit by orthogonal polynomials algorithm 28...cacm november 1960 mackinney j g...
+CACM-0765 : orthogonal polynomial least squares surface fit algorithm 164...cacm august 1963 bitterli c v...
+CACM-3150 : detailed specification [of] algorithms towards the description [of]...the shortcomings [of] [programming] [languages] as they now...to basic changes in the nature [of] [programming]...for
+CACM-0297 : [a] note on fitting great circles by least...squares cacm august 1961 marcus c f...
+CACM-1598 : least squares fit by orthogonal polynomials algorithm 28...e2 cacm may 1967 makinson g j...
+CACM-1698 : collection [of] virtual consoles models the collection [of]...computers the ability [of] [a] computer system to...user community based on the properties [of] this...aspects
+CACM-1423 : [of] [a] matrix the generalized inverse [of] [a]...an extension [of] the concept [of] an inverse...the advantage [of] avoiding the loss [of] significance...the
+CACM-1143 : been made [of] [a] variety [of] numerical techniques...analysis [of] decay-type [data] [a] comparative study has...for fitting experimental [data] [of] the decay [type]...[of]
+CACM-0758 : skeletal structure [of] pert [and] cpa computer programs...an introduction to the inner mechanics [of] pert...components [of] these programs as well as their...[and]
+CACM-2732 : [programming] [languages] sequencing primitives [program] [semantics] [programming] language...guarded commands nondeterminacy [and] formal derivation [of] programs...in terms [of] these constructs [a] calculus will...[semantics]
+CACM-0094 : [a] set [of] two-dimensional points cacm march 1959...logistic curve [of] best least squares fit to...an iterative method is given for finding [a]...an
+CACM-2962 : production [and] employment [of] ph s in computer...the calendar year 1975-76 [data] include profiles [of]...graduate students [and] [of] faculty at 60 ph...-producing
+CACM-2102 : fitting [data] to one exponential algorithm 375 e2...cacm february 1970 spath h nonlinear least squares...fit 5.15...
+CACM-1632 : [of] the single degree [of] freedom sums [of]...[programming] the tabular method [of] analysis [of] variance...tabular method [of] analysis [of] variance for complete...for
+CACM-0432 : triangular regression algorithm 142 cacm december 1962 hafley...w l lewis j s...
+CACM-1802 : [of] variance analysis [of] covariance regression analysis experimental...regression using certain direct product matrices algorithm 366...g2 cacm december 1969 claringbold p j analysis...design
+CACM-3010 : [of] 313 students at the [university] [of] minnesota...value orientation [of] computer science students technological [and]...to the complexity [of] value structures computer science...have
+CACM-1835 : variety [of] [data] [types] several novel [and] powerful...features are included [a] discussion [of] design principles...hochsprung r r [languages] [programming] [languages] student [programming]...language
+CACM-2799 : [of] [data] as [a] fit to this [data]...stably updating mean [and] standard deviation [of] [data]...by considering the sample mean [of] [a] set...numerically
+CACM-2326 : verification techniques [semantics] [of] [programming] [languages] least fix...[of] the least fix points [of] recursive programs...[semantics] [of] computer programs are defined in terms...properties
+CACM-2457 : [and] extension [of] known results about computation [of]...[including] examples [of] their applications cacm august 1973...inductive methodsfor proving properties [of] programs there are...examination
+CACM-0884 : cacm april 1963 clark r [e] kubik r...orthogonal polynomial least squares surface fit algorithm 164...n phillips l p...
+CACM-1839 : singular value decomposition [of] [a] complex matrix algorithm...[a] goulub g h singular values matrix decomposition...358 f1 4,5 cacm october 1969 businger p...least
+CACM-3091 : characteristics [of] programmers [and] [program] development time the...characteristic [and] four [program] characteristics gave evidence [of]...some basic determinants [of] computer [programming] productivity the...relationship
+CACM-2795 : representation [of] meaning is described [a] [program] based...[and] deduction capabilities [of] the memory model the...[of] natural language based on an underlying language-free...model
+CACM-2884 : [a] single exchange [of] two marks the other...execution [of] assignment statements comparisons arithmetic operations [and]...b wells algorithm [and] ehrlichs implementation [of] the...[of]
+CACM-2490 : if v is the [number] [of] vertices [and]...[e] is the [number] [of] edges each algorithm...the algorithm for partitioning [of] [a] graph into...analysis

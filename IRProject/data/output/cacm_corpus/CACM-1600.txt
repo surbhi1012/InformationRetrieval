@@ -1,0 +1,1 @@
+chebyshev quadrature algorithm 279 d1 cacm may  1967 hillstrom  k

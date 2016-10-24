@@ -1,0 +1,100 @@
+CACM-1949 : finiteness assumptions [and] intellectual isolation [of] [computer] scientists...cacm december 1970 wagner r a algol vs...fortran finiteness assumptions intellectual isolation integer variable range...memory
+CACM-1524 : [the] roundoff error which occurs [in] evaluating [the]...process [on] [the] basis [of] calculated bounds [for]...searching [for] [the] root [of] a polynomial it...[the]
+CACM-2660 : addendum to m l patrick paper cacm april...1974 simmons g c parallelism polynomial root finding...real zeros 5.15...
+CACM-0672 : recent developments affecting adp [in] tax administration cacm...december 1963 leibowitz g j...
+CACM-1333 : a large number [of] quantities as [in] [numerical]...than [the] individual addends this results [in] truncation...using cascading accumulators as noted [in] a recent...[the]
+CACM-0752 : closing out a print tape cacm september 1963...moore d p...
+CACM-1999 : from [the] classical heron scheme [the] problem [of]...optimal starting approximations [for] generating square root [for]...an iterative scheme [for] [the] square root different...slow
+CACM-0577 : ancestor algorithm 96 cacm june 1962 floyd r...w...
+CACM-1620 : methods [of] evaluating polynomial approximations [in] function evaluation...[used] [in] function evaluation routines to evaluate approximation...use [in] function evaluation routines although some [of]...routines
+CACM-1763 : roots [of] low-order polynomial equations algorithm 326 c2...cacm april 1968 nonweiler t f root finders...polynomial equation roots quadratic equation roots cubic equation...roots
+CACM-0900 : ancestor algorithm 79 cacm march 1963 thacher jr...h c...
+CACM-0116 : available literature [on] [the] history [of] mathematics [and]...[communication] is to enlist [the] help [of] other...known concerning [the] evolution [and] present status [of]...[the]
+CACM-0334 : division [and] square root [in] [the] quater-imaginary number...[system] cacm april 1961 nadler m...
+CACM-1615 : technique [for] using a digital [computer] to draw...[the] same speed [and] accuracy as ordinary diagrams...an algorithm [for] generating root locus diagrams a...described
+CACM-1046 : to [the] material published [in] [the] listed references...[in] a number [of] articles published during [the]...[system] that they have developed [for] [the] ferranti...atlas
+CACM-1933 : [for] 261 - 1 [the] next largest prime...mersenne number [are] given [for] possible construction [of]...[and] coding technique is presented [for] quick evaluation...[of]
+CACM-1812 : more [on] fortran random number generators cacm november...1969 grosenbaugh l r random number generation monte...carlo simulation 5.5...
+CACM-1121 : [in] a recent paper describing some notations [for]...comments [on] a continued operation notation this note...is intended to clarify [and] correct several points...symbol
+CACM-2450 : [of] published data [on] program measurements [in] [the]...set [are] now commonly encountered [in] [the] literature...[for] program behavior has been proposed [in] recent...years
+CACM-2598 : [the] well-understood problem [in] [information] [theory] [of] noiseless...into a [computer] program [the] [algorithms] considered [in]...[are] [used] to explore [the] limitations [of] [algorithms]...to
+CACM-2999 : bank [in] [particular] [the] [system] identified as wrapsworld...[computer] some recent work [on] [the] development [of]...developments [in] array processing capabilities at [the] world...general-purpose
+CACM-0848 : usage [for] [the] square root [and] logarithm function...[and] logarithm there was [the] germ [of] an...a note [on] range transformations [for] square root...idea
+CACM-1893 : roots [of] polynomials by a root-squaring [and] resultant...a root finders roots [of] polynomial equations polynomial...procedure testing [of] roots acceptance criteria 5.15...routine
+CACM-1667 : roots [of] polynomials by a root-squaring [and] resultant...a root finders roots [of] polynomial equations polynomial...procedure testing [of] roots acceptance criteria 5.15...routine
+CACM-0281 : [for] describing ex [in] this note we produce...putting a hex [on] ex recent notes [on]...a [particular] family [of] very fast high precision...approximate
+CACM-1254 : [for] statement [and] [the] fortran do statement available...[the] iteration element a recent addition to [the]...[the] mad through statement corresponding to [the] algol...mad
+CACM-0397 : [for] a variety [of] reference files [in] [information]...a card format [for] reference files [in] [information]...field columns 68-80 [the] format [for] [the] reference...material
+CACM-2808 : [of] some [of] [the] methods used-most [of] [the]...[the] acceleration methods developed [for] [the] purpose [of]...some [of] [the] methods [used] [for] actually computing...[the]
+CACM-1393 : [of] polynomials [in] [any] number [of] variables [with]...integral coefficients unrestricted [in] size some [of] [the]...[in] several respects including [the] choice [of] canonical...described
+CACM-0679 : discusses recent improvements [in] [the] language [in] three...[the] binomial coefficients [in] [the] area [of] logical...improvements [are] a notation [for] integration [and] [for]...[the]
+CACM-2020 : [the] allocation [of] [computer] resources-is pricing [the] answer...about [the] means by which [the] resources [of]...[the] manner [in] which one would like to...[and]
+CACM-1520 : absolute value [and] square root [of] a complex...number algorithm 312 a2 cacm october 1967 friedland...p...
+CACM-1386 : algorithm [for] finding [the] symbolic factors [of] a...by kronecker [in] a proof that [the] prime...factoring [of] [any] polynomial may be found [in]...by
+CACM-1946 : p algorithm [algorithms] [for] computing [the] resultant [of]...step [of] computation [in] solving systems [of] polynomial...algorithm [for] [computer] implementation depends upon [the] extent...considerations
+CACM-2837 : [for] vin improves [the] bound given by [the]...new upper bounds [for] selection [the] worst-case minimum...number [of] comparisons complexity vin [of] [the] i-th...standard
+CACM-1259 : given [in] which [the] form [of] an expression...applications [of] binary numbers [in] [computer] routines a...alternate form [of] expression [for] either a set...[of]
+CACM-2709 : under notions [of] equivalence [in] conclusion [the] impact...[the] classic result [of] bohm [and] jacopini [on]...[of] theoretical results [on] [the] practicing programmer [and]...a
+CACM-2893 : edp [and] [in] [the] extensiveness [and] sophistication [of]...[the] measured need [for] [computer] applications [and] [the]...variation among [the] larger local governments [in] [the]...technological
+CACM-0492 : [not] [interested] [in] [the] mathematics [the] introduction [and]...ones [the] probability distribution [of] [the] displacement [of]...[the] calculation [of] an address from [the] identification...[of]
+CACM-0884 : orthogonal polynomial least squares surface fit algorithm 164...cacm april 1963 clark r e kubik r...n phillips l p...
+CACM-1931 : [in] matrix computations [in] [the] present paper a...is compared [with] straightforward use [of] [i] [in]...interval arithmetic determinant evaluation [and] its use [in]...[i]
+CACM-0435 : a decision matrix as [the] basis [for] a...[the] development [of] bigger [and] better compiler languages...should be concerned also [with] [the] problem [of]...a
+CACM-2666 : [on] lions counter example [for] gotliebs method [for]...[the] construction [of] school timetables [the] timetable problem...satisfy [the] long-term requirements [of] [the] timetable problem...an
+CACM-1502 : [on] [the] theoretical [and] experimental justification [for] its...[of] text [the] content-searching facility [and] [the] character-by-character...maximum convenience [and] power [for] [the] user notable...test
+CACM-3114 : [of] a file [in] [the] form [of] [the]...[with] time linear [in] [the] file length [for]...[the] algorithm isolates differences [in] a way that...permitting
+CACM-1294 : [of] [the] algorithm [in] gregorys [and] raneys paper...[the] division [algorithms] [are] described since [the] addition-subtraction...[in] a recent paper gregory [and] raney described...[and]
+CACM-1051 : [in] a considerable saving [in] both [the] space...[and] [in] [the] execution time required to perform...items [are] described along [with] [the] corresponding space-utilization...applied
+CACM-2323 : [the] prospects [for] a general [theory] [of] functions...list [of] a number [of] natural developments [for]...[the] field [of] algebraic manipulation is given then...defined
+CACM-1623 : problem is stated [and] [the] way [in] which...[the] shortcomings [of] [the] formac [system] this paper...techniques [in] formac than [with] [the] actual engineering...problem
+CACM-1420 : usual statistical tests [and] [in] addition [the] least...which [the] modulus is [the] largest prime within...multiplicative congruential pseudorandom number generator is discussed [in]...accumulator
+CACM-3030 : [and] [in] [the] reliability [of] [the] programs produced...[the] construction [of] large programs users [of] hierarchical...programming is being increasingly recognized as helpful [in]...techniques
+CACM-1440 : by newtons method [are] presented [in] a form...root routines these approximations include several [for] [the]...starting approximations [for] square root calculation [on] ibm...to
+CACM-0531 : [interested] [in] [the] maintenance [of] a psychiatric case...person-matching by [electronic] methods record linkage [in] [the]...register [in] maryland where many [of] [the] reports...[the]
+CACM-2266 : determined at no point [in] [the] method is...a highly parallel algorithm [for] approximating all zeros...[of] a polynomial [with] only real zeros an...simultaneously
+CACM-2345 : curriculum recommendations [for] graduate professional programs [in] [information]...systems [the] need [for] education related to [information]...is proposed [for] graduate professional programs [in] universities...systems
+CACM-2306 : be [of] greatest [interest] from [the] standpoint [of]...ancient babylonian [algorithms] [the] early origins [of] mathematics...[computer] [science] a number [of] old babylonian tablets...[are]
+CACM-2749 : [for] [the] trade-off [in] [the] relative running time...[in] [the] simulation [of] some systems when computational...[of] [the] two methods is developed [the] model...aids
+CACM-1932 : [the] logarithmic error [and] newtons method [for] [the]...values [for] [the] calculation [of] [the] square root...[used] as [the] [measure] [of] goodness [of] fit...[of]
+CACM-1832 : minimax logarithmic error cacm october 1969 dunham c...b logarithmic error transformed rational approximation square root...5.10...
+CACM-2906 : problems [the] concepts [in] bdl mimic those which...have evolved through [the] years [in] businesses using...or [components] one [for] defining [the] business forms...one
+CACM-1352 : two efficient methods [for] automatic [numerical] integration [are]...romberg integration [and] adaptive simpson integration [for] integrands...[of] [the] form fxgx a where a is...automatic
+CACM-2184 : [on] [the] meaning [of] names [in] programming systems...operating [system] [the] two functions [are] discussed [in]...terms [of] [the] same basic concepts [in] order...first
+CACM-2657 : [in] 1969 [the] correctness [of] [the] improved algorithm...[in] [the] old algorithm [the] program-synthesizing problem is...by waldinger [and] lee [in] 1969 is given...is
+CACM-0040 : [the] [computer] [in] applications requiring [the] processing [of]...general-purpose [computer] [the] greater simplicity [of] a binary...arithmetic unit [and] [the] greater compactness [of] binary...numbers
+CACM-2319 : common [and] necessary [in] [the] near future such...[information] [and] a large number [of] models [for]...operating [system] performance an overview [of] [the] current...[the]
+CACM-2334 : general random number generator algorithm r370 cacm june...1972 proll l g random number generator probability...density function transformation cumulative distribution function 5.13 5.5...
+CACM-1278 : [and] quasilinearization [in] a recent article [in] [the]...[of] a function given [in] analytical form [in]...technique [for] machine evaluation [of] [the] partial derivatives...wengerts
+CACM-2537 : grows linearly [with] [the] number [of] characters [in]...presented which solves [the] problem [in] time which...[for] saving storage space [for] text strings such...relies
+CACM-2122 : general random number generator algorithm 370 g5 cacm...january 1970 butler e l random number generator...probability density function transformation cumulative density function 5.13...5.5
+CACM-0319 : [in] a new notation which simplifies [the] error...[the] pade approximants to [the] euler polynomial [and]...[of] eulers formula [with] [the] associated error estimate...[on]
+CACM-1014 : [the] experimenter may [not] be [interested] [in] these...problem [in] using [the] analysis [of] variance as...rise [in] [the] number [of] interactions even though...[of]
+CACM-2313 : [the] splitting [of] [the] concepts [and] [the] structural...point [in] [the] evolution cacm july 1972 bachman...systems have grown rapidly [in] their power [and]...[the]
+CACM-2897 : [for] most contexts [of] [the] concatenate statement [the]...technique [for] compilers recent developments [in] optimizing techniques...performs optimizations [on] [the] result each statement has...evidence
+CACM-1754 : presented [the] basic purpose [of] [the] paper is...dynamic storage allocation systems [in] many recent [computer]...[system] designs [hardware] facilities have been provided [for]...a
+CACM-2194 : is presented [for] minimizing [the] sum [of] [the]...lengths [of] [the] blocks [of] coding produced by...mutual references [in] such a [computer] there is...from
+CACM-1153 : [in] general use [and] is readily applicable to...a fast procedure [for] generating normal random variables...a technique [for] generating normally distributed random numbers...both
+CACM-0497 : [the] problem comprises [the] determination given n [of]...a function gx [in] [the] interval bellman confined...however how [the] solution [of] [the] equation derived...when
+CACM-1491 : meaning [in] terms [of] [the] effects which [the]...parse [the] individual interpretation rules [are] explained [in]...structure [and] meaning [the] structure [of] a language...is
+CACM-0553 : complex number to a real power algorithm 106...cacm july 1962 johnson m l sangren w...
+CACM-3166 : [are] well-known [in] [the] statistical [and] computational literature...each [of] [the] four [algorithms] is analyzed [for]...computing standard deviations accuracy four [algorithms] [for] [the]...[numerical]
+CACM-1550 : among [the] items compared [are] [the] number [of]...even though [the] results [are] influenced by [the]...a study [of] [the] programming efforts [of] students...[in]
+CACM-1803 : complex root finding algorithm 365 c5 cacm december...1969 bach h downhill method complex relaxation method...complex iteration complex equation transcendental complex equation algebraic...complex
+CACM-1960 : process management [and] resource sharing [in] [the] multiaccess...[system] esope [the] main design principles [of] [the]...[on] implementation details [the] main features [of] [the]...primitive
+CACM-2240 : pseudo-random numbers g5 algorithm c266 cacm december 1972...sullins w l pseudo-random numbers testing random number...generators 5.5...
+CACM-3096 : [the] tree moreover [the] method is optimal [in]...where n is [the] number [of] nodes [in]...an optimal method [for] deletion [in] one-sided height-balanced...[in]
+CACM-2324 : nonlinear programming actually made [in] [the] next few...[the] documentation [of] standard test problems construction [of]...[algorithms] to demonstrate which techniques [are] best [for]...brief
+CACM-1781 : [are] discussed [in] section iii [and] several related...efforts to automate [the] writing [of] translators [of]...programming languages is presented [the] formal study [of]...discussed
+CACM-1869 : there is a significant saving [in] [the] number...to provide a naming convenience [for] [the] programmer...however when indirect addressing is [used] as [in]...to
+CACM-0615 : [the] location address [of] [the] element [in] its...[of] value to [the] analyst [the] elements [of]...[of] performing [the] transformation [of] a set [of]...indices
+CACM-2089 : prime number algorithm 310 a1 cacm march 1970...rapp d g scott l d prime numbers...generator 5.0...
+CACM-0106 : than one place [in] [the] [computer] that is...an important property [of] [the] newell-shaw-simon scheme [for]...describe [the] extent [of] [the] overlapping cacm december...a
+CACM-1674 : one-line random number generators [and] their use [in]...[in] fortran programs by means [of] a few...such generators [are] described [the] aim is to...in-line
+CACM-1644 : [on] [the] computation [of] least squares polynomials rounding...simple method [for] adjust ing [the] constant term...[of] [the] computed polynomial to get a better...squares
+CACM-1354 : to [computer] programs recent discussion suggest that [in]...[the] technique [of] constructing [networks] or trees a...drawback [of] [the] technique as hitherto presented is...run
+CACM-2340 : [for] [the] existence [of] precedence functions [are] given...a boolean matrix method [for] [the] computation [of]...boolean matrix method [for] [the] computation [of] linear...[the]
+CACM-1882 : determination [of] [the] square root [of] a positive...definite matrix algorithm 298 f1 cacm june 1969...duke b j matrix symmetric matrix positive definite...matrix
+CACM-2669 : [of] [the] [information] reference pattern [with] [the] effect...stored [in] [the] memory some recent experimental measurements...[on] [the] multics virtual memory suggest that [for]...size
+CACM-2899 : [science] together [with] student [in] terest [in] pursuing...topics [in] [computer] [science] beyond [the] usual programming...a survey [of] [computer] [science] offerings [in] small...[of]
+CACM-2644 : a theorem-proving language [for] experimentation because [of] [the]...[of] [the] features [and] instructions [of] this language...under consideration [in] automated theorem proving there is...[the]
+CACM-2937 : [of] [the] errors made by [the] subjects [in]...[of] [the] number [of] errors [and] [the] number...a substantial effect [on] [the] reliability [of] [the]...[in]

@@ -1,0 +1,100 @@
+CACM-1947 : [are] applied [to] transforming [the] [program] [to] improve...[implementation] [of] these [and] other optimizations in os360...object [code] optimization methods [of] analyzing [the] control...flow
+CACM-1795 : optimal [code] for serial [and] parallel computation cacm...[of] operations detection [of] common subexpressions 4.12...december 1969 fateman r j [code] optimization sequencing...
+CACM-2897 : into blocks [of] lower level [code] [and] then...have allowed a new [design] for compilers [to]...performs optimizations [on] [the] result each statement has...[code]
+CACM-2253 : position [the] relationship [of] indexing by name [and]...algorithm rather than [the] machine [code] [the] goal...is [to] automatically generate [code] for handling [the]...which
+CACM-3080 : start [of] [the] [program] [and] [the] detection [and]...saving [of] memory in terms [of] [program] [and]...[of] [the] usefulness [of] such a system [are]...proving
+CACM-2495 : [the] instruction sets available [on] present-day computers cacm...adapting optimal [code] generation for arithmetic expressions [to]...june 1973 stockhausen p f arithmetic expressions [code]...generation
+CACM-1231 : [the] final stage [of] compilation by using a...is described [and] examplesare given cacm july 1965...simple optimizing technique called peephole optimization [the] method...peephole
+CACM-2904 : optimization [of] compiled [code] [program] analysis operator strength...[to] perform reduction [of] operator strength in strongly...an algorithm for reduction [of] operator strength a...function
+CACM-2748 : [and] is more amenable [to] machine independent implementations...[code] is described it is related [to] bells...notion [of] threaded [code] but requires less space...[code]
+CACM-2858 : [the] assignment [of] instruction addresses [and] formats under...[the] following conditions 1 [the] length [of] [the]...[of] a specified point in [the] [program] [the]...algorithm
+CACM-3054 : algorithm [and] its best variants [on] real computers...study [of] how [to] implement [the] quicksort sorting...a detailed [implementation] combining [the] most effective [improvements]...[of]
+CACM-2929 : [the] size [of] compiled [code] [and] a small...[the] procedure body [the] general problem [of] using...algorithmic solution is proposed [the] algorithm depends [on]...run-time
+CACM-1160 : [the] [user] [the] output consists [of] [the] translated...[and] upon data [and] finally [the] output pass...analysis [of] [the] assembled [code] [with] particular regard...[language]
+CACM-2944 : [on] [the] [source] [program] it is shown that...cancel when [the] [code] is executed [and] those...as proposed by deutsch [and] bobrow [the] necessary...features
+CACM-1886 : [efficiency] [of] [the] object [code] produced by first...[to] hold [the] results [of] evaluating [the] factors...[are] also applicable [to] [the] problem [of] factoring...given
+CACM-3110 : an instruction [to] [the] operand [of] that instruction...this paper considers [the] problem [of] minimizing [the]...assembling [code] for machines [with] span-dependent instructions many...modern
+CACM-1807 : [and] do loop structure [of] [the] [program] [the]...definition points [of] [the] variables [and] [the] branching...optimizing [the] computation [of] arithmetic [and] indexing expressions...is
+CACM-2464 : [the] complex method for constrained optimization e4 algorithm...a454 cacm august 1973 richardson j a kuester...j l optimization constrained optimization boxs algorithm 5.41...
+CACM-2616 : [on] [the] conversion [of] programs [to] decision tables...practice extensions [to] [the] theory [of] computation [and]...method [and] objectives [the] problems [of] converting programs...conversions
+CACM-3066 : a controlled experiment in [program] testing [and] [code]...[program] [the] results show that [the] popular [code]...[the] [program] independently [and] then pooled their findings...computer-based
+CACM-2423 : entries [and] 82 words [are] [links] [to] [code]...use [on] [the] cdc-6500 [computer] at purdue university...an xpl compiler [the] parser [program] [and] its...in
+CACM-1564 : techniques [and] extensive indexing [and] also by outputting...[the] elimination [of] obviously unnecessary tests [on] certain...[and] this [language] associated [with] it were developed...portion
+CACM-2835 : [implementation] considerations [are] discussed [and] a modification [of]...method for [the] detection [of] recursive use [of]...common [are] parameters [of] variables assuming values [of]...[the]
+CACM-2701 : [of] function spaces [and] graphs by relaxing [the]...[on] reducible graphs is presented [the] algorithm is...[of] operations is proportional [to] e plus [the]...time
+CACM-3005 : length 1-byte op [code] [and] address fields [the]...minimized [and] [the] machine is efficient [with] respect...[on] an empirical study [of] more than 10,000...lines
+CACM-2491 : [hardware] [and] software realizations [of] it [are] given...threaded [code] [the] concept [of] threaded [code] is...presented as an alternative [to] machine [language] [code]...not
+CACM-1362 : principle [of] [code] extension that is [with] [the]...by means [of] [the] characters in [the] [code]...doctrines for [the] application [of] [the] [code] extension...characters
+CACM-2411 : graphs programming [language] [design] proof [of] programs semantics...points optimization in compilers [program] documentation [program] flow...structures flowcharts goto [statements] inductive assertion least fix...[of]
+CACM-1223 : [the] compiler [to] remove locally constant expressions [and]...[the] reverse [of] [the] order in which it...recursively calculable expressions from loops [and] [to] do...[the]
+CACM-1655 : standard cacm december 1968 standard [code] [code] information...[code] extension procedures for information interchange proposed usa...link escape control functions standard procedures [code] extension...[code]
+CACM-2290 : directed graph shortest path articulation connectivity [program] optimization...immediate predominators in a directed graph h algorithm...a430 cacm august 1972 purdom jr p w...moore
+CACM-2877 : [the] [program] [and] all [the] definitions that [are]...live [on] each edge [of] [the] graph [the]...structure [and] handles reducible [and] irreducible graphs indistinguishably...[and]
+CACM-1652 : [on] [the] basis [of] [the] requirements [of] local...applications [and] [to] maximize [the] transfer rate [of]...[the] information channel linking [the] system [and] [the]...system
+CACM-2611 : [the] complex method for constrained optimization algorithm r454...cacm august 1974 shere k d...
+CACM-1756 : hollerith punched card [code] proposed usa standard cacm...april 1968 usa standard card [code] punched card...punched card [code] hole-patterns hole-patterns assignment punched card...systems
+CACM-1757 : data [code] for calendar date for machine-to-machine data...standard data [code] calendar date machine-to-machine data interchange...interchange proposed usa standard cacm april 1968 usa...recording
+CACM-2433 : expected [to] influence [language] [and] compiler [design] [the]...[of] an effort [to] [design] [and] implement a...paper reviews [the] [hardware] characteristics [of] [the] illiac...algorithm
+CACM-0048 : application [of] [the] [code] in some detail [and]...[the] use [of] a shift-register [code] [with] n...correcting [code] minimum-distance-three [code] [with] 64 10-bit [code]...[code]
+CACM-2888 : future extension [and] changes while maintaining correct [program]...action [the] principles [of] methodical coding [are] discussed...[and] [the] way in which logical connections between...later
+CACM-3125 : [on] [the] shape [of] [the] [program] graph testing...elimination [of] redundant computations [and] [the] moving [of]...is nearly linear [with] [the] size [of] [the]...[program]
+CACM-2964 : an approach [to] optimal [design] [of] storage parameters...in databases cacm may 1977 milman y database...organization storage parameter optimization resident overflow storage 3.73...3.74
+CACM-1065 : bit sequencing [of] [the] american standard [code] for...information interchange ascii in serial-by-bit data transmission proposed...american standard cacm june 1964...
+CACM-1651 : inability [to] write subscripts [etc] [the] input interpreter...at all from inherent limitations in [the] [code]...preparation is required [the] [user] may also under...identification
+CACM-1204 : character structure [and] character parity sense for serial-by-bit...data communication in [the] american standard [code] for...information interchange proposed american standard cacm september 1965...
+CACM-2834 : time [the] compositions [of] integers [and] [the] permutations...[and] its applications algorithms [are] presented [to] generate...[the] n-bit binary reflected gray [code] [and] codewords...is
+CACM-1992 : comment [on] bells quadratic quotient method for hash...[code] searching cacm september 1970 lamport l hashing...hash [code] scatter storage calculated address clustering search...symbol
+CACM-2107 : hash [code] inefficiency is discussed [and] a new...[the] quadratic quotient method a hash [code] eliminating...hashing method based [on] its elimination is presented...comparisons
+CACM-2836 : derivation tree in addition [the] correctness [of] [the]...weighted derivation trees [the] nodes [of] a weighted...derivation tree [are] associated [with] weighting functions over...[the]
+CACM-2533 : gray [code] [and] [the] - sign sequence when...salzer h e gray [code] sign sequences ordering...-f -f-f -fx is ordered cacm march 1973...positive
+CACM-2989 : having [the] feature [the] methods [are] based [on]...analysis [of] traces [of] [program] executions [the] concept...all [of] [the] time most [of] [the] time...isp
+CACM-0797 : american standard [code] for information interchange cacm august...1963...
+CACM-2344 : [on] [the] optimization [of] performance [of] time-sharing systems...algorithm [etc] [the] effects [of] these variations [on]...store [and] [the] speed [of] [the] cpu a...[and]
+CACM-2133 : algorithm for [the] assignment problem rectangular matrices h...algorithm 415 cacm december 1971 bourgeois f lassalle...j c operations research optimization theory assignment problem...rectangular
+CACM-0195 : what is a [code] cacm may 1960 patterson...g w...
+CACM-2537 : relies [on] hand selection [of] a set [of]...grows linearly [with] [the] number [of] characters in...common phrases [and] minimum-space text storage a method...text
+CACM-1289 : proposed revised american standard [code] for information interchange...cacm april 1965...
+CACM-3171 : for run-time [line] number administration [to] be used...either time or space during execution [of] [the]...[program] cacm october 1979 klint p [line] number...[line]
+CACM-2645 : [written] in [the] first [language] [and] [to] output...[computer] programs [are] presented [the] [program] whose [efficiency]...analysis [of] algorithms [and] some [of] [the] directions...enabling
+CACM-1414 : twelve-row punched-card [code] for information interchange proposed american...standard cacm june 1966...
+CACM-1064 : perforated tape [code] for information interchange proposed american...standard cacm june 1964...
+CACM-1676 : [and] a compiler for [the] [language] [are] discussed...[and] isolates those which [are] necessary a [language]...[and] do-loop [and] machine-dependent optimization in pass iii...[and]
+CACM-1187 : note [on] an ascii-octal [code] table standards cacm...october 1965 crosby w s...
+CACM-1232 : representation [of] [the] standard ecma 7-bit [code] in...punched cards ecma standard cacm july 1965...
+CACM-0230 : a proposal for character [code] compatibility cacm february...1960 bemer r w...
+CACM-1195 : series [of] [computer] programs has been developed [and]...[and] space administration linear file system [on] an...length [source] data [and] format [the] output for...optimization
+CACM-2680 : [are] [to] be permanently resident [and] which mountable...[to] disk packs [and] packs [to] either resident...optimal space allocation [on] disk storage devices when...[the]
+CACM-1973 : performance data [and] [implementation] hints [are] also given...[of] hash coding is presented [and] is shown...[the] linear quotient hash [code] a new method...[to]
+CACM-0066 : a proposal for a generalized card [code] for...256 characters cacm september 1959 bemer r w...
+CACM-1345 : tensor calculations [on] [the] [computer] a formac [program]...has been [written] which is capable [of] calculating...various quantities [of] interest in tensor calculus using...this
+CACM-1275 : [code] structures for protection [and] manipulation [of] variable...length items corrigendum cacm april 1965 ramamoorthy c...v...
+CACM-1916 : frequently used [to] represent [the] logical structure [of]...sequences [of] [computer] instructions such techniques [are] used...[and] in addition data references [are] represented in...analysis
+CACM-2586 : [the] instruction sets available [on] present-day computers errata...adapting optimal [code] generation for arithmetic expressions [to]...cacm october 1974 stockhausen p f...
+CACM-2821 : [the] cost [and] time [to] produce [and] maintain...require syntax beyond [the] existing cobol [language] [and]...both data [and] control structures they do not...proved
+CACM-2716 : programming techniques so that [the] [interface] analyzes [and]...by [the] [user] a relational algebra [interface] called...[and] a methodology for composing them [to] optimize...[the]
+CACM-2812 : [the] [design] [and] development [of] an integrated financial...computer-aided analysis [and] [design] [of] information systems this...[of] procedures [and] [computer] programs specifically designed [to]...by
+CACM-2969 : optimal [program] [and] data locations in [computer] networks...an optimization procedure for [the] allocation [of] [program]...[and] data files in a [computer] network is...not
+CACM-1410 : [the] stochastic processes governing [the] [user] inputs [and]...description [of] [the] [user] input process in [the]...is assumed [to] be stationary [and] [to] be...[of]
+CACM-1066 : [the] [computer] center data processing [and] [editing] prior...[the] petroleum industry [are] placing [on] such systems...[to] solving [the] simplex algorithm an efficient [and]...reliable
+CACM-3173 : [to] a [line] [of] [code] 3 chunks [are]...that occurs in [the] [computer] [and] involves some...operation [on] some object at some location 2...frequently
+CACM-0333 : [design] [of] an improved transmissiondata processing [code] cacm...may 1961 bemer r w smith jr h...j williams jr f a...
+CACM-2923 : [of] [the] graphs involved [are] constructed [and] analyzed...[source] level [and] exploits [the] control flow information...recent work [on] advanced methods [of] [program] certification...free
+CACM-2552 : a note [on] when [to] chain overflow items...c hash [code] open hash chaining information retrieval...within a direct-access table cacm january 1973 bays...collision
+CACM-1871 : by means [of] a digital plotter [are] discussed...[and] a new method is presented that is...simple enough [to] be implemented by programs [with]...fortran
+CACM-2699 : [and] membership [to] be established [the] domains [and]...above [and] below [and] [the] single-valuedness [of] tabulated...[language] [of] very high level whose repertoire [of]...this
+CACM-1786 : is a hash coding method based [on] fixed-point...new method allows [the] hash table [to] have...this method is faster than random search [and]...free
+CACM-2801 : percent [the] [hardware] requirement is small [and] [the]...[and] reversibly into 7 bits [and] three digits...based [on] [the] fixed-length combination [of] two variable...[the]
+CACM-0123 : compiler based [on] algol was developed at [the]...[program] generated machine [code] for [the] control data...[computer] this compiler was used [to] generate a...compilation
+CACM-3083 : items in [the] table [the] [efficiency] [of] [the]...[are] present in each cell [of] [the] hash...way between open addressing [and] chaining it owes...its
+CACM-1670 : correspondences [of] 8-bit [and] hollerith codes for [computer]...usa standard card [code] punched card punched card...[code] hole-patterns hole-patterns assignment punched card systems 1.1...environments
+CACM-2570 : processors [to] minimize [the] execution time [of] a...[program] which consists [of] a set [of] partially...times [are] deterministic [and] others in which execution...vary
+CACM-2903 : troduction is described [and] applied [to] two algorithms...[of] knuth morris [and] pratt can be derived...improving programs by [the] introduction [of] recursion a...new
+CACM-0693 : an extension [of] fibonaccian search [to] several variables...functions [of] several variables [the] technique has not...been proven [to] be optimal in [the] sense...been
+CACM-3069 : programs [and] [to] deal [with] [the] sharing [of]...[and] analyzed [the] algorithm associates [with] each procedure...[are] possibly preserved by a call [on] [the]...procedure
+CACM-1728 : replacement algorithms [and] for assessing [the] effects [on]...further experimental data [on] [the] behavior [of] programs...[the] data collected from [the] interpretive execution [of]...a
+CACM-2559 : length [of] [the] table [and] [the] hashing function...[efficiency] [of] [the] technique is discussed [and] theoretical...[the] reallocation [of] hash-coded tables when [the] space...presented
+CACM-1677 : time-sharing [and] multimedia storage control [on] [the] basis...use [on] [the] rice university [computer] for five...[and] basis for storage protection [the] application [of]...[program]
+CACM-1465 : parts [of] a [program] [and] economy [of] features...problem [efficiency] dictates that [the] overall [effectiveness] [of]...be based [on] fixed conventions [to] preserve [efficiency]...[and]
+CACM-1331 : [code] structures for protection [and] manipulation [of] variable-length...[are] indicated a 6-bit [code] assignment [of] alphanumeric...items when items [are] made up [of] a...variable
+CACM-2727 : is contingent upon [the] value [of] a datum...multiple byte processing [with] full-word instructions a method...is described which allows parallel processing [of] packed...data
+CACM-0225 : a techniquefor handling macro instructions corrigendum cacm february...1960 greenwald i d...

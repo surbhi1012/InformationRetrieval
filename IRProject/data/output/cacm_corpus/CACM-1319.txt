@@ -1,0 +1,1 @@
+crout with equilibration and iteration algorithm 135 f4 cacm february  1965 meissner  l  p

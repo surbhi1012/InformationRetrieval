@@ -1,0 +1,100 @@
+CACM-2695 : tridiagonalization by permutations tridiagonalizing a matrix by similarity...transformations is an important computational tool in numerical...linear algebra consider the class of sparse matrices...which
+CACM-2769 : a modification of warshalls algorithm [for] the transitive...[for] computing the transitive closure of a binary...executes faster [for] sparse matrices on most computers...closure
+CACM-2986 : computation of precedence relations [for] a context-free grammar...[for] example how to compute operator precedence or...operations on sparse relations various computations on relations...boolean
+CACM-2199 : a sparse matrix package part i f4 algorithm...408 cacm april 1971 mcnamee j m matrix...sparse matrix matrix manipulation 5.14...
+CACM-2506 : a sparse matrix package algorithm r408 cacm may...1973 sale r h j matrix sparse matrix...matrix manipulation fortran standards 5.14...
+CACM-2780 : a sparse matrix a recursive algorithm [for] computing...is examined the formulas [for] the algorithm are...on computing certain elements of the inverse of...the
+CACM-2442 : a sparse matrix package algorithm r408 cacm september...1973 lawrence e e...
+CACM-2630 : floyd algorithm and the dantzig algorithm [for] finding...on computing sets of shortest paths in a...graph two algorithms are presented that construct the...k
+CACM-2405 : linear systems with almost tridiagonal matrix f4 algorithm...a470 cacm december 1973 kubicek m system of...linear equations almost tridiagonal matrix sparse matrix 5.14...
+CACM-2490 : efficient algorithms [for] graph manipulation h algorithm a447...efficient algorithms are presented [for] partitioning a graph...the algorithm [for] partitioning of a graph into...requires
+CACM-2289 : possibilities [for] parallelism especially [for] problems whose solutions...cellular arrays [for] the solution of graph problems...of the possibilities [for] parallel processing in this...inherently
+CACM-2177 : an algorithm [for] the blocks and cutnodes of...a graph an efficient method is presented [for]...storage in machine words required [for] a graph...[for]
+CACM-2052 : and [space] each connected component of such a...[set] of events that must be scheduled at...scheduling to reduce conflict in meetings conflicts in...scheduling
+CACM-2172 : graph plotter j6 algorithm 412 cacm july 1971...cermak j plot graph line printer plot 4.41...
+CACM-2368 : games in this tutorial paper a [computer] [program]...an implemented graph algorithm [for] winning shannon switching...these games are played on graphs the [program]...[computer]
+CACM-2763 : basic cycle generation h algorithm 491 cacm may...1975 gibbs n e graph basic cycles fundamental...cycle spanning tree vertex adjacency matrix 5.32 3.24...
+CACM-3139 : which is exact [for] bipartite graphs and is...new methods to color the vertices of a...graph this paper describes efficient new heuristic methods...to
+CACM-2430 : the elementary circuits of a graph h algorithm...a459 cacm october 1973 syslo m m algorithm...graph theory circuit search algorithm path search algorithm...searching
+CACM-2290 : directed graph shortest path articulation connectivity [program] [optimization]...immediate predominators in a directed graph h algorithm...a430 cacm august 1972 purdom jr p w...moore
+CACM-3156 : same location is permitted [for] fetch [instructions] but...not [for] store [instructions] cacm august 1979 hirschberg...computing connected components on parallel computers we present...a
+CACM-2934 : comment on computing the k shortest paths in...a graph cacm august 1977 lawler e l...graph network shortest path algorithm ranking 5.32...
+CACM-2752 : from a [set] of basic cycles h algorithm...generation of all the cycles of a graph...492 cacm june 1975 gibbs n e basic...cycle
+CACM-3176 : [computer] [science] the standard technique [for] storing such...performance we propose a good worst-case method [for]...used [for] compressing lr parsing tables works so...storing
+CACM-1961 : an efficient search algorithm to find the elementary...circuits of a graph a theoretically most efficient...search algorithm is presented which uses an exhaustive...search
+CACM-1504 : algorithms [for] finding a fundamental [set] of cycles...[for] an undirected linear graph given the adjacency...constructs the [set] of fundamental cycles our algorithm...number
+CACM-1481 : graph plotter algorithm 278 j6 cacm february 1966...lloyd p...
+CACM-2461 : graph plotter algorithm r412 cacm august 1973 watkins...r p...
+CACM-1847 : an algorithm [for] finding a fundamental [set] of...presented [for] finding a fundamental [set] of cycles...[for] an undirected finite graph a spanning tree...graph
+CACM-2484 : [set] of binary relations an algorithm [for] constructing...subsets of a [set] and an algorithm [for]...the logical structure of a [data] base can...is
+CACM-1563 : a method [for] finding hamilton paths and knights...tours the use of warnsdorffs rule [for] finding...a graph a graph-theoretic justification [for] the method...a
+CACM-2790 : the elementary circuits of a graph algorithm r459...cacm february 1975 syslo m m...
+CACM-2161 : an algorithm [for] the blocks and cutnodes of...a graph corrigendum cacm september 1971 paton k...
+CACM-1983 : spanning tree h algorithm 399 cacm october 1970...seppanen j j graph tree spanning tree 5.32...
+CACM-1822 : shortest-path forest with topological ordering algorithm h cacm...november 1969 dial r b shortest path tree...network directed graph 5.32 5.42...
+CACM-2015 : [for] precedence grammars a technique is developed [for]...a technique [for] generating almost optimal floyd-evans productions...grammar a graph formulation is used [for] the...the
+CACM-2619 : graph coloring conditions [for] the existence of solutions...condition is presented [for] the existence of a...to the timetable problem a necessary and sufficient...solution
+CACM-2980 : the editing of picture segmentations using local analysis...of graphs a major problem in picture processing...is the elimination of the large number of...spurious
+CACM-2059 : a language [for] treating graphs a language [for]...syntax-driven compiler application areas [for] this language are...the representation of graph is described and the...formulation
+CACM-2444 : finding all cliques of an undirected graph algorithm...a457 cacm september 1973 bron c kerbosch j...cliques maximal complete subgraphs clusters backtracking algorithm branch...and
+CACM-2081 : utilized [for] efficient computing by saving memory [space]...some complete calculi [for] matrices a matrix calculus...is introduced with the intention of developing [data]...structures
+CACM-1925 : concepts of use in contour map processing generalized...techniques whose use can simplify the solution of...problems relating to contour maps one of these...techniques
+CACM-2877 : [program] [optimization] [data] flow analysis flow graphs algorithms...a [program] [data] flow analysis procedure the global...[data] relationships in a [program] can be exposed...the
+CACM-0661 : indexing and the lambda-notation some methods of indexing...sequentially stored elements of sparse multi-dimensional arrays are...described in the scheme a notation cacm december...1963
+CACM-3018 : method [for] determining keyword conflicts and described a...heuristic algorithm which solves a certain combinatorial [optimization]...problem in connection with this method this [optimization]...problem
+CACM-2178 : and a [set] of primitive operations [for] manipulating...a language extension [for] graph processing and its...[for] processing directed graphs is defined graspe consists...of
+CACM-2883 : [for] detecting edges and contours in noisy pictures...contour detection contour following [optimization] problems dynamic programming...an application of heuristic search methods to edge...and
+CACM-1457 : [data] manipulation and programming problems in automatic information...of a variety of different [data] structures including...structures the main [data] manipulations to be performed...a
+CACM-2701 : global flow analysis [data] flow [code] [optimization] common...a fast and usually linear algorithm [for] global...1976 a new algorithm [for] global flow analysis...function
+CACM-2273 : without rule mask two algorithms [for] generating [computer]...rule mask method rule mask technique [program] generator...conversion of decision tables by rule mask method...programs
+CACM-1707 : spectra sufficient conditions are given [for] a real...generation of positive test matrices with known positive...matrix to be similar to a positive matrix...this
+CACM-1791 : triangular factors of modified matrices algorithm 319 f1...cacm january 1968 green d r matrix decomposition...matrix factors matrix modifier matrix perturbation 5.14...
+CACM-1501 : eigenvectors of a 2n x 2n matrix it...has been known that the eigenvalues of a...certain 2n x 2n matrix can be obtained...by
+CACM-2335 : eigenvalues and eigenvectors of a real general matrix...algorithm r343 cacm june 1972 niessner h eigenvalues...eigenvectors qr-algorithm nonsymmetric matrices general matrices 5.14...
+CACM-1924 : organizing matrices and matrix operations [for] paged memory...systems matrix representations and operations are examined [for]...the purpose of minimizing the page faulting occurring...in
+CACM-3040 : [for] a [set] of variables subject to a...presented [for] a combinatorial search problem finding values...[set] of constraints a theory of consistency levels...to
+CACM-2568 : of periods [for] exam i the object of...a graph formulation of a school scheduling algorithm...the problem classically titled the examination schedule problem...takes
+CACM-3100 : an interference matching technique [for] inducing abstractions a...method [for] inducing knowledge by abstraction from a...tasks solved by a [program] that uses an...of
+CACM-3085 : an on algorithm [for] determining a near-optimal computation...order of matrix chain products this paper discusses...the computation of matrix chain products of the...form
+CACM-3164 : progressive acyclic digraphs-a tool [for] database integrity a...with an artificial gradient experiments suggest that [for]...processing [data] structures topological sort acyclic digraph database...progressive
+CACM-3152 : storage reorganization techniques [for] matrix computation in a...is often more efficient to reorganize the [data]...form an efficient method [for] accomplishing this reorganization...of
+CACM-2189 : of edges every [set] of edges ek 1...two algorithms treating the same example [for] five...which can be performed fairly efficiently by [computer]...generation
+CACM-3124 : recursive [data] structures in apl a mathematical study...of three approaches [for] defining nested arrays in...recursive [data] structure equivalent to a tree structure...in
+CACM-2758 : a note on the lu factorization of a...symmetric matrix cacm may 1975 evans d j...hatzopoulos m symmetric matrices factorization test matrices matrix...inversion
+CACM-2557 : on the time required [for] a sequence of...matrix products this paper discusses the multiplication of...conformable sequences of row vectors column vectors and...square
+CACM-1432 : incorporation of nonstandard inputoutput devices into fortran systems...a fortran system may readily be modified to...handle inputoutput with nonstandard media on the same...basis
+CACM-1423 : a simple algorithm [for] computing the generalized inverse...fairly complicated and require considerable storage [space] a...orthogonalization method [for] inverting non-singular matrices which gives...the
+CACM-1934 : needed [for] the computation can be represented in...on arithmetic expressions and trees a description is...given of how a tree representing the evaluation...of
+CACM-1876 : generation of test matrices having certain sign patterns...and prescribed positive spectra a class of orthogonal...transformations is presented whose members transform a given...positive
+CACM-1802 : regression using certain direct product matrices algorithm 366...g2 cacm december 1969 claringbold p j analysis...of variance analysis of covariance regression analysis experimental...design
+CACM-3115 : formed form bytes of text of a [data]...orderly enumeration of nonsingular binary matrices applied to...text encryption nonsingular binary matrices of order n...i
+CACM-2155 : gain [efficiency] cacm october 1971 earley j [data]...toward an understanding of [data] structures this paper...presents a notation and formalism [for] describing the...semantics
+CACM-2554 : algorithm is described [for] reducing the generalized eigenvalue...[for] a symmetric band matrix c whose bandwidth...schwartz [for] the reduction of symmetric matrices to...reduction
+CACM-2284 : solution of the matrix equation axxbc f4 algorithm...a432 cacm september 1972 bartels r h stewart...g w linear algebra matrices linear equations 5.14...
+CACM-1935 : developed [for] the mean and variance of the...offers new potential [for] information retrieval systems cacm...randomized binary search technique a mathematical model is...number
+CACM-1836 : a new method [for] determining linear precedence functions...[for] precedence grammars the precedence relations of a...new algorithm is presented [for] obtaining the linear...precedence
+CACM-3125 : global [optimization] by suppression of partial redundancies the...on the shape of the [program] graph testing...[program] and that it leads to a smaller...1979
+CACM-2125 : a digitized contour a method [for] extracting a...a note on minimal length polygonal approximation to...smooth polygonal contour from a digitized image is...illustrated
+CACM-2805 : [for] any [set] of matrices cacm january 1975...considered is to give bounds [for] finite perturbations...perturbations of eigenvalues of non-normal matrices the problem...of
+CACM-2787 : efficient method [for] reduction of the binary matrices...a more compact [data] representation and more efficient...is designed as a structured [program] which can...shown
+CACM-1947 : machine [instructions] object [code] [optimization] redundancy elimination register...object [code] [optimization] methods of analyzing the control...flow and [data] flow of programs during compilation...are
+CACM-0224 : same time an extremely simple rule [for] translating...sequential formula translation the syntax of an algorithmic...language such as algol is conveniently described as...a
+CACM-1787 : grammar an efficient left-right recognizer [for] sentences of...effectively [for] other purposes besides the usual syntax...use of transition matrices in compiling an algorithms...is
+CACM-2806 : two hadamard numbers [for] matrices a discussion is...norm-bound condition numbers one [for] linear systems is...known the other [for] eigen systems seems to...given
+CACM-0070 : construction of a [set] of test matrices this...[set] of test matrices which are useful in...the determination of the accuracy of routines [for]...paper
+CACM-3172 : [for] planning a safe path [for] a polyhedral...an algorithm [for] planning collision-free paths among polyhedral...locus of forbidden positions [for] an arbitrary reference...searching
+CACM-2803 : pseudoinverses and conjugate gradients this paper is devoted...to the study of connections between pseudoinverses of...matrices and conjugate gradients and conjugate direction routines...cacm
+CACM-1672 : the trapezoidal rule are tabulated [for] various ranges...practical error coefficients in the integration of periodic...analytic functions by the trapezoidal rule theoretical and...practical
+CACM-1696 : an algorithm [for] identifying the ergodic subchains and...[for] identifying the ergodic subchains and transient states...procedure [for] dealing with certain sequences of stochastic...transient
+CACM-1395 : on the implementation of ambit a language [for]...the implementation technique [for] the replacement rule of...the ambit programming language the algorithm [for] the...provides
+CACM-2340 : a boolean matrix method [for] the computation of...boolean matrix method [for] the computation of linear...[for] the existence of precedence functions are given...linear
+CACM-0495 : [for] a high-speed [computer] all n2 elements must...a procedure [for] inverting large symmetric matrices in...the least squares method [for] simultaneous adjustment of...many
+CACM-0144 : form only a sparse [set] of all possible...alphabetic combinations present methods are inefficient when [computer]...systems are substituted [for] these terminals using numeric...costs
+CACM-2047 : incorporating origin shifts into the qr algorithm [for]...symmetric tridiagonal matrices the qr iteration [for] the...eigenvalues of a symmetric tridiagonal matrix can be...accelerated
+CACM-2905 : complete in the sense that [for] every [set]...[for] static sets a refinement of hashing which...a [set] i of identifiers two methods are...presented
+CACM-1683 : boolean matrix methods [for] the detection of simple...precedence grammars a mechanical procedure is derived [for]...determining whether a given context-free phrase structure grammar...is
+CACM-2920 : used to construct explicitly the [set] of safe...game interpretation of the deadlock avoidance problem the...deadlock avoidance problem may be defined informally as...the
+CACM-1828 : directories [for] an on-line file system methods [for]...synchronization in a parallel-accessed [data] base the following...problem is considered given a [data] base which...process
+CACM-2134 : an extension of the munkres algorithm [for] the...together with munkres proposed algorithm [for] its solution...permits a solution [for] rectangular matrices timing results...[optimization]
+CACM-1727 : a [program] [for] the segmentation of a [program]...markov chain [program] correspondence [program] graph one-entry subgraph...of the whole [program] must be generally taken...into
+CACM-1456 : a powerful vehicle [for] research on the logic...other list processing languages are ideally suited [for]...[for] language processing on any large scale-at east...storage

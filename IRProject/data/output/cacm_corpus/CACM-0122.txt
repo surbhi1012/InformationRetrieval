@@ -1,0 +1,1 @@
+least squares fitting of a great circle through points on a sphere cacm november 1960 dewitte  l

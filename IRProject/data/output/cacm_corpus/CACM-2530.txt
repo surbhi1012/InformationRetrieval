@@ -1,0 +1,1 @@
+an algorithm for extracting phrases in a space-optimal fashion z algorithm a444 cacm march  1973 wagner  r  a  information retrieval  coding  text compression 3.70 5.6

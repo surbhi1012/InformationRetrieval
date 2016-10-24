@@ -1,0 +1,1 @@
+hypergeometric and confluent hypergeometric algorithm 191  192 cacm april  1964 thacher jr   h  c

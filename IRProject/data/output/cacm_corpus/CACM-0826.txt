@@ -1,0 +1,1 @@
+remarks on fortran subroutines for time series analysis cacm june  1963 bennett  c  m

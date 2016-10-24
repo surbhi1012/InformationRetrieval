@@ -1,0 +1,100 @@
+CACM-2318 : which [the] use [of] [a] model [is] appropriate...[the] role [of] computer [system] models [in] performance...[between] models [and] other methods for evaluating [the]...computer
+CACM-1653 : [of] [the] art [of] [system] performance evaluation [is]...[of] measurement [in] performance evaluation [and] [in] [the]...placed [in] perspective [the] appropriateness [of] instruction mixes...successively
+CACM-3048 : [of] [a] model [of] [the] cpu-memory subsystem [of]...[the] ibm 36091 [is] described [the] results [of]...without [the] necessity [of] emulating [the] [system] [as]...[in]
+CACM-3089 : intermittent failures [is] proposed [the] [system] [is] assumed...[a] mathematical model [of] [a] transaction-oriented [system] under...[to] ensure reliable information processing [the] model [is]...availability
+CACM-2452 : [the] specific situation [the] [system] [is] [a] convenient...[as] much [as] possible [the] [process] [of] [data]...[system] this work first discusses [the] factors [that]...evaluation
+CACM-3070 : [the] result [and] computational costs [of] [the] hybrid...describes [the] structure [and] operation [of] [a] hybrid...model [of] [the] example with those [of] an...used
+CACM-2882 : combinations [of] these systems effectiveness [of] [the] methodology...[data] retrieval [system] which has [the] effect [of]...significantly reducing [the] cost [of] experimentation [and] enabling...[to]
+CACM-2894 : been collected [and] analyzed [a] demonstration [of] [the]...techniques [the] nbs network measurement [system] [is] employed...[the] more frequently used [in] ternal [system] measurement...[as]
+CACM-2319 : out knowledge because [of] [the] severe interactions [between]...operating [system] performance an overview [of] [the] current...[the] various subsystems [of] an operating [system] an...overall
+CACM-2984 : [the] method includes [a] technique for [the] visual...terms [of] [a] costutilization factor [and] [a] measure...[of] imbalance these coefficients indicate [the] extent [to]...costutilization
+CACM-2542 : methodology [is] [that] [the] performance [of] [a] proposed...overcomes many [of] [the] difficulties [is] proposed [a]...[of] its development [the] source language description [is]...[of]
+CACM-2741 : evaluate [the] performance [of] computing systems [is] proposed...aggregation [and] [the] concept [of] nearly decomposable [system]...complete definition [of] [the] circumstances [in] which thrashing...step-by-step
+CACM-2571 : study [the] effectiveness [of] [the] monitor [in] improving...investigated for [the] case [of] task execution [in]...an analytic model [of] [the] hasp execution task...their
+CACM-3119 : [the] impact [of] distributions [and] disciplines on multiple...study [the] performance tradeoffs [of] multiple processor systems...issues considered include [the] impact [of] cpu service...disciplines
+CACM-1827 : [to] explain [the] implementation [of] [the] dcf events...with [the] facility [and] [of] applications [in] which...job [and] [type] [the] overhead associated with [data]...[system]
+CACM-1938 : essentially [the] full resources [of] [the] [system] while...full resources [of] [the] [system] [that] makes quantitative...[is] each terminal users ability [to] utilize [the]...systems
+CACM-1931 : [in] matrix computations [in] [the] present paper [a]...determinant evaluation computational results show [the] accuracy [and]...[is] compared with straightforward use [of] i [in]...determinants
+CACM-0893 : facilitate [the] identification [of] significant bits [in] [the]...results [of] floating-point arithmetic operations [the] manner [in]...[are] described [and] comparisons [are] made with [the]...significance
+CACM-2522 : allocate [the] [system] resources [to] [the] [processes] competing...[the] design implementation [and] evaluation [of] [a] working...set dispatcher [the] behavior [of] [a] computer [system]...[of]
+CACM-1032 : [the] nonrelevant [and] penalizes [the] [system] for [the]...enter [the] file [to] circumvent [the] scanning [of]...past performance [and] [the] second [is] [a] self-generating...function
+CACM-2268 : differential equations [a] study comparing [the] performance [of]...[in] [the] investigation it was found [that] [a]...[the] programs were tested [is] included [in] an...differential
+CACM-2990 : [to] [the] frequency [of] occurrence [of] [the] term...[a] number [of] different ways much [of] [the]...[in] [the] documents [of] [a] collection it [is]...[is]
+CACM-1028 : numerical derivative evaluation [is] discussed [the] technique [is]...use should greatly facilitate [the] writing [and] debugging...[of] programs requiring derivatives [of] highly complex functions...investigation
+CACM-1689 : calculation [of] [a] polynomial [and] its derivative values...by horner scheme algorithm 337 c1 cacm september...1968 pankiewicz w function evaluation polynomial evaluation algol...procedure
+CACM-2862 : [as] [the] inter-page-fault interval distribution [the] probability [of]...estimate [the] performance [of] [the] page fault frequency...[the] performance [of] [the] pff algorithm cacm may...parameter
+CACM-1518 : [the] applicability [of] [that] technique [to] system360 [the]...an experimental model [of] system360 [the] problem [of]...predicting [the] performance [of] modern computer systems [is]...software
+CACM-1940 : calculation [of] [a] polynomial [and] its derivative values...by horner scheme algorithm 337 c1 cacm january...1969 smith o k function evaluation polynomial evaluation...algol
+CACM-1620 : routines [the] method [of] nested multiplication [is] commonly...useful because [of] rounding-error difficulties several methods [of]...use [in] function evaluation routines although [some] [of]...methods
+CACM-2634 : an evaluation [of] statistical software [in] [the] social...these systems [and] [the] results [are] summarized [as]...now offer various [types] [of] statistical packages for...[and]
+CACM-2798 : [and] [the] analysis [of] [the] model by monte...carlo simulation [is] discussed [the] simulations investigate [the]...distribution [of] [the] number [of] memory modules [in]...during
+CACM-2494 : used [is] [the] representation [of] [the] elements [of]...well-known set [of] [data] consisting [of] [the] correlations...[the] comparison [of] groupings by four methods [of]...[a]
+CACM-2344 : store [and] [the] speed [of] [the] cpu [a]...comparison [is] made [between] [the] results [of] [the]...[in] [particular] supervisor overheads [the] size [of] [the]...ascertain
+CACM-1805 : [the] algorithm [is] sensitive [to] most [of] [the]...[of] [the] other programs [the] effective progress rate...[is] [a] mode [of] computer operation [in] which...has
+CACM-2967 : [in] [the] context [of] computer graphics [the] associative...with [the] software simulation illustrates [the] advantages [of]...[data] structure [a] comparison [of] [the] hardware approach...[the]
+CACM-2886 : [of] adapting [the] attribute grammar [of] [a] given...over [the] derivation tree [of] [a] program [a]...assures [that] [the] semantics [of] [any] program can...definition
+CACM-2711 : expressible [as] [a] function [of] [the] density [of]...[the] value [of] an indexing [system] may be...appears [that] [the] best indexing property space [is]...usefulness
+CACM-0591 : evaluation [of] asymptotic expression for [the] fresnel sine...[and] cosine integrals algorithm 88 cacm may 1962...cundiff j l...
+CACM-0436 : evaluation [of] polynomials by computer cacm december 1962...knuth d [e]...
+CACM-2535 : [a] study [is] made [of] [the] [way] [in]...results [are] based on [the] model [of] [the]...[to] [the] computer [and] consequently affects [the] performance...[there]
+CACM-1029 : expressions for [the] derivatives [the] key [to] [the]...method [is] [the] decomposition [of] [the] given function...derivative [the] main feature [of] this approach [is]...[and]
+CACM-2720 : [of] [the] sum [of] [two] uniform distributions total...response time [of] [the] set [of] disk models...utilization factors [and] [that] [the] number [of] different...[a]
+CACM-1374 : evaluation [of] determinant determinant evaluation algorithms 41f3 269f3...cacm september 1966 bergson [a]...
+CACM-2716 : [the] performance [of] [a] [particular] user query [is]...optimizing [the] performance [of] [a] relational algebra database...[to] support [a] relational view [of] [data] [is]...proposed
+CACM-1526 : performance measured by [the] average usage [of] [the]...[and] [the] program statistics [is] proposed for gauging...[the] effect [of] multiprogramming cacm october 1967 smith...[a]
+CACM-2859 : [the] [system] size increases [the] model [of] [the]...such [a] [system] [the] limiting value [is] derived...[the] model results provide [a] good indication [of]...for
+CACM-1542 : interpreter performance obtained [the] role [of] microprogramming [is]...processing [of] interpretive code [the] structure [and] content...second read-only storage unit [the] [system] consists [of]...[in]
+CACM-2437 : new approach [to] [the] analysis [of] performance [of]...accordance with [the] algorithm [and] [the] average performance...[the] keys [in] [a] file [are] assumed [to]...be
+CACM-2669 : [of] [the] information reference pattern with [the] effect...size [of] [the] paging memory [the] resulting model...multilevel memory [system] requires [a] model [of] [the]...[of]
+CACM-2988 : [to] [the] analysis [of] [in] teractive computer systems...[a] computationally tractable methodology for including accurately [the]...effects [of] finite memory size [and] workload memory...requirements
+CACM-2812 : program for [the] generation [of] alternative specifications [of]...[the] design [and] development [of] an integrated financial...aid [in] [the] [process] [of] applications software design...generator
+CACM-3044 : [a] note on conditional expressions evaluation [of] [a]...predicate diverges [and] [the] alternatives [are] records or...conditional expression may succeed even [when] [the] deciding...nodes
+CACM-2892 : [the] form extent [and] effect [of] [the] communication...line overhead [in] [the] arpanet [are] considered [the]...[a] study [of] line overhead [in] [the] arpanet...various
+CACM-3072 : [the] data-flow rates for [the] [processes] executing on...[the] cpu [the] model systems feature simulated continuous-flow...[system] structures [and] workload environments [the] improvement [is]...given
+CACM-2298 : [the] development [of] [the] research project [in] microprogramming...[and] [the] organization [and] definition [of] goals for...each group [in] [the] project each [of] these...at
+CACM-0605 : [to] determine [the] ability [of] [a] real street...[the] model each vehicle [is] assigned [a] digital...flow on city streets [the] national bureau [of]...identification
+CACM-1908 : [the] batch users [the] users speed [of] problem-solving...equal cost for usage [of] [the] [two] computer...this paper this study [is] [the] first known...[the]
+CACM-1719 : [of] [the] performance calculation [and] [the] optimization [of]...[the] criteria for [and] methods [of] calculating [and]...for calculating [and] optimizing [is] outlined [and] [the]...performance
+CACM-1270 : [there] [is] [a] statement [of] [the] essential properties...answers [the] other provides [a] searching test [of]...[the] reliability [and] efficiency [of] an integration procedure...[of]
+CACM-2017 : [the] experimental sort programs [and] analysis [of] [the]...procedures [in] [the] context [of] [the] dynamic paging...[the] insight gained from [the] experimental effort [is]...order
+CACM-3091 : characteristics [of] programmers [and] program development time [the]...[some] basic determinants [of] computer programming productivity [the]...propose [of] this research was [to] examine [the]...predicting
+CACM-1536 : [of] [the] derivatives [of] [the] real parts this...derivatives [of] [a] function without [the] need for...deriving [and] programming [the] evaluation [of] explicit formulas...technique
+CACM-2601 : evaluation [of] [the] modified bessel functions k0z [and]...k1z for complex arguments s17 algorithm a484 cacm...september 1974 burrell k h bessel functions hankel...functions
+CACM-3169 : gudes [e] hoffman [a] query boolean expression optimal...note on an optimal evaluation [of] boolean expressions...[in] an online query [system] cacm october 1979...evaluation
+CACM-2712 : combinatorially with [the] size [of] [the] network such...[the] number [of] terms [in] those expressions grows...horners rule for [the] evaluation [of] general closed...queueing
+CACM-1030 : techniques for [the] simulation [of] computer logic [the]...evaluation [of] [the] boolean functions which characterize [the]...[of] values [of] [the] variables [and] for evaluating...part
+CACM-2188 : [the] computational requirements [of] [the] graphics application [the]...[the] capabilities [of] [the] graphics hardware [and] [of]...[the] parameters [of] [the] model [are] functions [of]...cost
+CACM-2217 : passing [data] [between] [the] learning program [and] [the]...from [the] experience [of] pp [a] number [of]...[the] learning produced dramatic improvements [in] [the] solutions...for
+CACM-0096 : series integration [of] [the] appropriate differential equation by...on computing radiation integrals [the] relative merit [and]...cost [of] four ways [of] evaluating typical radiation...methods
+CACM-1177 : determinant evaluation algorithm 269 f3 cacm november 1965...pfann j...
+CACM-0819 : polynomial evaluation revised cacm july 1963 eisman s...h...
+CACM-1699 : language [and] on [some] [of] [the] mechanical [and]...assumption [of] [the] research [is] [that] an information...[the] moore school information systems laboratory [the] basic...[of]
+CACM-2451 : [of] such [a] model this paper considers [the]...query expressed [in] terms [of] [data] values [the]...[process] [of] locating [the] desired responses can be...poses
+CACM-0360 : evaluation [of] determinant algorithm 41 cacm april 1961...solomon j [g]...
+CACM-0741 : evaluation [of] determinant algorithm 41 cacm september 1963...freed b h...
+CACM-0742 : evaluation [of] determinant algorithm 41 cacm september 1963...freed b h...
+CACM-1128 : evaluation [of] determinant algorithm 41 cacm march 1964...rotenberg l j...
+CACM-1093 : evaluation [of] determinant algorithm 224 cacm april 1964...rotenberg l j...
+CACM-0444 : evaluation [of] jacobi symbol algorithm 99 cacm november...1962 may r w...
+CACM-2951 : [the] ultimate aim [of] [a] computing network [is]...[is] [a] first step toward assisting [the] user...[in] participating [in] [the] vast store [of] resources...[as]
+CACM-2849 : no central control coordination [of] access [to] [the]...[of] packets [to] their destinations on [the] ether...ether for packet broadcasts [is] distributed among [the]...[is]
+CACM-1792 : experiments [are] described limitations [of] [the] findings [are]...line access [to] [a] computer these [are] [the]...involves [the] striking individual differences [in] programmer performance...conditions
+CACM-0268 : stochastic evaluation [of] [a] static storage allocation cacm...october 1961 cohen l j...
+CACM-1503 : [the] passage [of] time [the] allocation [of] storage...[and] [the] organization [of] input [data] [the] comparison...compared [the] comparison [is] made [in] terms [of]...used
+CACM-0590 : evaluation [of] [the] fresnel sine integral algorithm 89...cacm may 1962 cundiff j l...
+CACM-0517 : evaluation [of] pert network algorithm 119 cacm august...1962 eisenman b shapiro m...
+CACM-0575 : evaluation [of] definite complex line integrals algorithm 98...cacm june 1962 pfaltz j l...
+CACM-0589 : evaluation [of] [the] fresnel cosine integral algorithm 90...cacm may 1962 cundiff j l...
+CACM-0966 : evaluation [of] determinant algorithm 224 f3 cacm december...1964 hasselblad v rulifson j...
+CACM-0281 : [a] [particular] family [of] very fast high precision...putting [a] hex on ex recent notes on...for [describing] ex [in] this note we produce...[and]
+CACM-0179 : evaluation [of] [the] legendre polynomial pnx by recursion...algorithm cacm june 1960 galler [g] m...
+CACM-0180 : evaluation [of] [the] laguerre polynomial lnx by recursion...algorithm cacm june 1960 galler [g] m...
+CACM-0181 : evaluation [of] [the] hermite polynomial hnx by recursion...algorithm cacm june 1960 galler [g] m...
+CACM-0182 : evaluation [of] [the] chebyshev polynomial tnx by recursion...algorithm cacm june 1960 galler [g] m...
+CACM-2561 : [is] found [that] [the] [system] can infer [the]...available information [the] procedures make use [of] [a]...which [are] altered by deleting part [of] [the]...similarity
+CACM-2149 : entcaf [and] entcre evaluation [of] normalized taylor coefficients...[of] an analytic function c5 algorithm 413 cacm...october 1971 lyness j n taylor coefficients taylor...series
+CACM-3088 : illustrate [the] use [of] [the] equations [to] compute...overlap model [of] multiprogrammed computer systems [the] equations...equations [are] derived for estimating [the] maximum possible...[are]
+CACM-2402 : algorithms [is] hindered by [the] fact [that] [the]...cross-correlation [between] [a] model [and] [the] [correct] structure...can be [the] basis [of] [a] technique for...pictorial
+CACM-0708 : evaluation [of] [the] fresnel integrals algorithm 88 89...90 cacm october 1963 gray m d...
+CACM-1278 : [and] quasilinearization [in] [a] recent article [in] [the]...communications [of] [the] acm r wengert suggested [a]...technique for machine evaluation [of] [the] partial derivatives...[of]
+CACM-1572 : [the] simulation [of] time sharing systems [the] development...most fortran iv compilers [the] use [of] [the]...simulation [is] demonstrated by [a] study [of] [the]...performance

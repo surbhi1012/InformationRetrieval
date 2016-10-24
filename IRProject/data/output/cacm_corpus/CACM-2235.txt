@@ -1,0 +1,1 @@
+decision table translation algorithm r394 cacm december  1972 marshall  d  r  t  decision table  decision table translation 4.19

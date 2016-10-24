@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WordNet-3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/WordNet-3.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

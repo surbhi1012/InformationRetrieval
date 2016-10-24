@@ -1,0 +1,1 @@
+abscissas and weights for romberg quadrature algorithm 281 d1 cacm april  1966 welsch  j  h
